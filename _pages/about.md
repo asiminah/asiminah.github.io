@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Office: MONT 322</p>
-    <p>University of Connecticut</p>
-    <p>Storrs Mansfield, CT 06269</p>
+    <p>University of Conn.</p>
+    <p>Storrs, CT 06269</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
