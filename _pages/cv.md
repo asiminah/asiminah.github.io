@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 description: Here is my CV. 
 nav: true
-<!-- redirect: /assets/pdf/Hamakiotes, Asimina_CV.pdf -->
 ---
 
+<!-- redirect: /assets/pdf/AsiminaCV.pdf -->
