@@ -6,4 +6,4 @@ description: Here is my CV.
 nav: true
 ---
 
-<embed src="/assets/pdf/AsiminaCV.pdf" type="application/pdf" width="250" height="500">
+<embed src="/assets/pdf/AsiminaCV.pdf" type="application/pdf" width="780" height="1200">
