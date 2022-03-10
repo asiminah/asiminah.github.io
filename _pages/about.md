@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>asimina.hamakiotes@uconn.edu</a>.
+<!-- subtitle: <a href='#'>asimina.hamakiotes@uconn.edu</a> -->
 
 profile:
   align: right
