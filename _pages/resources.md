@@ -16,6 +16,10 @@ nav: true
 * [Sage reference manual](https://doc.sagemath.org/html/en/reference/index.html)
 * [CoCalc](https://cocalc.com/)
 
+**Math writing:**
+* [Overleaf](https://www.overleaf.com/)
+* [Detexify](https://detexify.kirelabs.org/classify.html)
+
 **Fellowships for Graduate School:**
 * [NSF Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)
 * [National Defense Science and Engineering Graduate Fellowship Program (NDSEG)](https://ndseg.org/)
