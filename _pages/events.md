@@ -2,7 +2,7 @@
 layout: page
 permalink: /events/
 title: Events
-description: Here is a list of number theory related events and conferences that I will attend and have attended. 
+description: Here is a list of number theory related events and conferences that I will attend/have attended. 
 nav: true
 ---
 
