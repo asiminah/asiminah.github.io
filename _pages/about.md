@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Asimina and I am a second year mathematics PhD student at the University of Connecticut. My interests are in number theory and algebra, specifically, arithmetic geometry and algebraic number theory. My advisor is Álvaro Lozano-Robledo. 
+My name is Asimina and I am a second year mathematics PhD student at the University of Connecticut. My interests are in number theory and algebra, specifically, arithmetic geometry and algebraic number theory. My advisor is [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/). 
 
 In Spring 2020, I graduated from Macaulay Honors at Baruch College (CUNY) with a BA in Mathematics and minors in Philosophy and Interdisciplinary studies of New York. In Fall 2017, I placed second at the Traders@MIT competition (the largest intercollegiate algorithmic trading competition in the country). In Spring 2019, I worked in the New York Stock Exchange (NYSE) with Group One Trading as a Trade Analyst Intern. In the summer of 2018, I participated in the NSF funded number theory REU at Oregon State University and was advised by Holly Swisher. In Spring 2019, I studied abroad in Budapest Semesters in Mathematics (BSM). In the summer of 2019, I participated in the NSF funded number theory REU at Texas A&M University and was advised by Riad Masri. My senior year, I was the first student at Baruch to write an honors thesis in math, and was advised by Andrew Obus. 
 
