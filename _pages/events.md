@@ -14,3 +14,6 @@ nav: true
 **Past:**
 * [PCMI 2021 Graduate Summer School (Virtual): Number Theory Informed by Computation](https://www.ias.edu/pcmi/programs/pcmi-2021-graduate-summer-school)
 * [Arizona Winter Semester 2021 (Virtual)](https://www.math.arizona.edu/~swc/aws/2021/index.html)
+
+**Number Theory Conferences (new and old):**
+* [Numbertheory.org](http://www.numbertheory.org/ntw/N3.html)
