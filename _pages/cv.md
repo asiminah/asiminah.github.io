@@ -6,4 +6,4 @@ title: CV
 nav: true
 ---
 
-<embed src="/assets/pdf/AsiminaCV.pdf" type="application/pdf" width="780" height="1200">
+<embed src="/assets/pdf/HamakiotesCV.pdf" type="application/pdf" width="780" height="1200">
