@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: [asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu)
 <!-- subtitle: <a href='#'>asimina.hamakiotes@uconn.edu</a> -->
 
 profile:
