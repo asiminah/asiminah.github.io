@@ -19,6 +19,7 @@ nav: true
 **Books on elliptic curves:**
 * ["Elliptic Curves, Modular Forms, and Their L-functions"](https://www.amazon.com/Elliptic-Modular-L-functions-Student-Mathematical/dp/0821852426) by Álvaro Lozano-Robledo (Undergraduate level)
 * ["The Arithmetic of Elliptic Curves"](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938) by Joseph H. Silverman (Graduate level)
+* ["Advanced Topics in the Arithmetic of Elliptic Curves"](https://www.amazon.com/Advanced-Arithmetic-Elliptic-Graduate-Mathematics/dp/0387943285) by Joseph H. Silverman (Graduate level)
 
 **Math writing:**
 * [Overleaf](https://www.overleaf.com/)
