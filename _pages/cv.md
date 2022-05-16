@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated on June 2022
+description: Last updated June 2022.
 nav: true
 ---
 
