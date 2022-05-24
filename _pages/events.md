@@ -9,6 +9,7 @@ nav: true
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 **Upcoming:**
 * [Connecticut Summer School in Number Theory (CTNT) 2022](https://ctnt-summer.math.uconn.edu/), June 6-12, 2022
+* [Rethinking Number Theory 3 (RNT3)](https://sites.google.com/view/rethinkingnumbertheory/home), June 20 - July 1, 2022
 * [PCMI 2022 Graduate Summer School: Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), July 17 - August 6, 2022
 
 **Past:**
