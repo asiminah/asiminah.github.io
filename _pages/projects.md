@@ -8,6 +8,7 @@ nav_order: 1
 display_categories: [Grad School, Undergrad]
 horizontal: false
 ---
+Feel free to email me ([asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu)) with any questions you would like to see answered!
 
 <!-- pages/projects.md -->
 <div class="projects">
