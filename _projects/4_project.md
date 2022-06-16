@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Applying to Grad School
-description: another without an image
+description: (working on this post)
 img:
 importance: 3
 category: Undergrad
