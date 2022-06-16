@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Blog
+permalink: /blog/
 description: This page is currently under construction. 
 nav: true
 nav_order: 1
