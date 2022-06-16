@@ -5,7 +5,7 @@ permalink: /blog/
 description: This page is currently under construction. 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Grad School, Undergrad]
 horizontal: false
 ---
 
