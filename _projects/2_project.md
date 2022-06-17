@@ -7,7 +7,7 @@ importance: 2
 category: Grad School
 ---
 
-Choosing an advisor can be a stressful thing to do. There are many factors that play a role in choosing an advisor. 
+Choosing an advisor can be a stressful thing to do. There are many factors that play a role in choosing an advisor: does the professors research interest me? is the professor taking on students? do I get along with the professor? do I like the professor's advising style? 
 
 In my opinion, it is helpful to start looking at potential advisors while applying to grad school. When I was applying to grad school, I knew my interests were in number theory/algebra, so I looked at the number theory/algebra faculty's research interests to see if there were people who's research interested me. Of course I did not know exactly what I wanted to study, but there were certain things that appealed to me like studying elliptic curves for example. For every school I applied to, I made sure that there were a few (2-3) professors that I would be interested in working with that would be available to take students. Usually there is a limit to how many students a professor will take on as advisees, so it's important to make sure that the professor you would like to work with is available. 
 
