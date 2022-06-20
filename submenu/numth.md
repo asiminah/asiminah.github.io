@@ -2,8 +2,8 @@
 layout: page
 permalink: /numth/
 title: Number Theory
-description: Testing
+description: This page is under construction. 
 nav: false
 ---
 
-Hello
+Graduate student algebra and number theory seminar at UConn. 
