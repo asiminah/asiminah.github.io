@@ -7,7 +7,7 @@ importance: 3
 category: Undergrad
 ---
 
-In this post, I will talk about the three most important parts of applying to grad school: choosing schools to apply to, writing the personal statement, and letters of recommendation. There are other components that go into the application, but there is not much to say about them. 
+In this post, I will talk about the three most important parts of applying to grad school: choosing schools to apply to, writing the personal statement, and letters of recommendation. There are other components that go into the application, but there is not much to say about them. If you are an early undergrad interested in what you should do in order to be a strong applicant for grad schools in the future, then you should see [this](https://asiminah.github.io/projects/prep/) blog post instead. 
 
 ### Choosing schools to apply to
 
