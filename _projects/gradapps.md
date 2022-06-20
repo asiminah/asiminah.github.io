@@ -34,4 +34,4 @@ Advice
 
 ### Letters of recommendation
 
-What 
+Believe it or not, this is one of the most important parts of the application. Typically, you are allowed to submit 3 letters of recommendations. You should choose people who know you well and can best speak about your potential. The perfect people to ask for letters of recommendations are REU mentors, honors thesis advisors, professors who you've done independent studies with, or professors who you have taken difficult classes with and did well in and who have gotten to know you. It's important to have at least one letter writer be able to speak on your ability to do research since that is a huge part of what you will be doing in grad school. It's also important to have at least one letter writer who knows you well and can speak on your ability to work hard and ask questions. Ideally, your letter writers should be people who know you well and who you have worked with in some capacity, because they will have the best things to say. 
