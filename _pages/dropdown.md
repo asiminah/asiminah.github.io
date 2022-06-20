@@ -8,6 +8,6 @@ children:
     - title: Number Theory
       permalink: /numth/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Blog
+      permalink: /blog/
 ---
