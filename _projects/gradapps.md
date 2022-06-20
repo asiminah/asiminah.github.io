@@ -7,6 +7,10 @@ importance: 3
 category: Undergrad
 ---
 
+Put an intro here
+
+## Choosing schools to apply to
+
 There are many things to consider while applying to grad school: location, research interests, faculty, graduate students, overall environment, etc. It can be super overwhelming to factor all of these into your decision making progress while coming up with a list of schools. In this post, I will talk about how to start forming a list of schools to apply to, how to choose which schools it makes sense to apply to, and how to choose a school once you are accepted!
 
 First, we will discuss how to form a list of schools to apply to. If you are interested in applying to math PhD programs, then you have probably done some sort of research (maybe an REU or honors thesis or independent study with a professor). If you enjoyed the research you did, then a great place to start is by meeting with your REU mentor or honors thesis advisor or independent study professor to discuss what schools you should apply to. These professors know many people in their field and can best advise you on where to go if you're interested in continuing similar work to what you did with them. If you have an idea of what area of math you're interested in, then that's even better. These professors know people in other fields and can put you in contact with professors who have similar interests and can guide you. This was definitely what helped me the most with compling a list of schools to apply to. It is also helpful if you can speak with someone at your school about where to apply to, because they might have a list of math PhD programs that students from there often get admitted to. This did not apply to me since no one from my school had gone to a math PhD program, but it is advice that I heard Keith Conrad say, so I figured I would mention it. 
@@ -24,3 +28,10 @@ Overall, this is a very brief summary of what you should do:
 4. Reach out to current grad students and professors to get more information about the program and environment. 
 5. Visit and decide whether you would be happy there! 
 
+## Writing the personal statement
+
+Advice
+
+## Letters of recommendation
+
+What 
