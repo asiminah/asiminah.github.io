@@ -2,13 +2,12 @@
 layout: page
 title: Blog
 permalink: /blog/
-description: This page is currently under construction. 
+description: Here are some answers to many questions that I had as a growing mathematician. I have used my knowledge, experiences, and advice that was given to me at the time to try and provide the most detailed responses for everyone. 
 nav: true
 nav_order: 1
 display_categories: [Grad School, Undergrad]
 horizontal: false
 ---
-Feel free to email me ([asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu)) with any questions you would like to see answered!
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -57,3 +56,5 @@ Feel free to email me ([asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@
   {%- endif -%}
 {%- endif -%}
 </div>
+
+Feel free to email me ([asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu)) with any questions you would like to see answered!
