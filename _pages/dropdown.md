@@ -7,7 +7,7 @@ dropdown: true
 children: 
     - title: Number Theory
       permalink: /numth/
-    - title: divider
-    - title: Blog
-      permalink: /blog/
+    #- title: divider
+    #- title: Blog
+    #  permalink: /blog/
 ---
