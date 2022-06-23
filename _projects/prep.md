@@ -8,3 +8,5 @@ category: Undergrad
 ---
 
 Preparing to apply to grad school. What you should do, etc. 
+
+<!-- What you should do if you want to go to grad school. REUs, BSM, conferences, honors thesis. -->
