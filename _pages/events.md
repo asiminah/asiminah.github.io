@@ -9,7 +9,7 @@ nav: true
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 **Upcoming:**
 * [PCMI 2022 Graduate Summer School: Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), July 17 - August 6, 2022
-* [Mathematics Continued Conference at UConn (Organizer)](https://mcc.math.uconn.edu/), Oct. 22, 2022
+* [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 
 **Past:**
 * [Rethinking Number Theory 3 (RNT3)](https://sites.google.com/view/rethinkingnumbertheory/home), June 20 - July 1, 2022
