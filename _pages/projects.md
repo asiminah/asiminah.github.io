@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-description: Here are some answers to many questions that I had as a rising mathematician. I have used my knowledge, experiences, and advice that was given to me at the time to try and provide the most detailed responses for everyone. 
+description: Here are some answers to many questions that I had as a growing mathematician. I have used my knowledge, experiences, and advice that was given to me at the time to try and provide the most detailed responses for everyone. 
 nav: true
 nav_order: 1
 display_categories: [Grad School, Undergrad]
