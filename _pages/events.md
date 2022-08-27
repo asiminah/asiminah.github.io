@@ -8,7 +8,7 @@ nav: true
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 **Upcoming:**
-* [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.), Oct. 18, 2022
+* [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 
 
