@@ -4,7 +4,6 @@ permalink: /cv/
 title: CV
 description: Last updated September 2022. 
 nav: true
-nav_order: 4
 cv_pdf: HamakiotesCV.pdf
 ---
 
