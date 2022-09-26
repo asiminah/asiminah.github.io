@@ -4,6 +4,7 @@ permalink: /cv/
 title: CV
 description: Last updated September 2022.
 nav: true
+cv_pdf: HamakiotesCV.pdf
 ---
 
 <embed src="/assets/pdf/HamakiotesCV.pdf" type="application/pdf" width="780" height="1200">
