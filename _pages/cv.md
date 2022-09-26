@@ -2,10 +2,9 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated September 2022. 
+description: Last updated September 2022. ok
 nav: true
-redirect: /assets/pdf/Hamakiotes.pdf
 ---
 
-<embed src="/assets/pdf/HamakiotesCV.pdf" type="application/pdf" width="780" height="1200">
+<embed src="/assets/pdf/HamakiotesCV.pdf" type="application/pdf" width="780" height="4800">
 
