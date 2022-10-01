@@ -10,6 +10,7 @@ nav: true
 **Upcoming:**
 * [AMS Fall Eastern Sectional Meeting](http://www.ams.org/meetings/sectional/2301_program.html) (Attending), Oct. 1, 2022
 * [UConn Math Club](https://events.uconn.edu/event/94102/2022-10-05) (Speaker), Oct. 5, 2022
+* [2022 Québec-Maine Number Theory Conference](https://archimede.mat.ulaval.ca/QUEBEC-MAINE/22/qm22.html) (Attending), Oct. 15 - 16, 2022
 * [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 * [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
