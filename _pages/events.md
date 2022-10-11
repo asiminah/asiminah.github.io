@@ -11,7 +11,7 @@ nav: true
 * [2022 Québec-Maine Number Theory Conference](https://archimede.mat.ulaval.ca/QUEBEC-MAINE/22/qm22.html) (Speaker), Oct. 15 - 16, 2022
 * [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
-* Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022 (Speaker), Nov. 5 - 6, 2020
+* [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2020
 * [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
 
 
