@@ -8,7 +8,7 @@ nav: true
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 **Courses:**
-* Spring 2023: MATH 2210Q Applied Linear Algebra (Instructor)
+* Spring 2023: [MATH 2210Q Applied Linear Algebra](https://asiminah.github.io/appliedlinalg/) (Instructor)
 * Fall 2022: MATH 1020Q Problem Solving (Instructor)
 * Spring 2022: MATH 1132Q Calculus II (TA)
 * Fall 2021: MATH 1132Q Calculus II Honors (TA)
