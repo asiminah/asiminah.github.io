@@ -23,7 +23,7 @@ This page is currently under construction.
 
 ### Class structure
 
-**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. 
+**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
@@ -33,6 +33,13 @@ This page is currently under construction.
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
+**Video lectures:**
+
+**Quizzes:** There will be weekly quizzes. 
+
+**Worksheets:** There will be a worksheet for each section we cover. Worksheets will mostly be completed in class. 
+
+**Homework:** There will be weekly homework on MyMathLab. 
 
 <!-- 
 
