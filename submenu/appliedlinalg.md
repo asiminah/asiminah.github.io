@@ -21,6 +21,9 @@ This page is currently under construction.
 **Office hours:** TBD.
 
 
+### Class structure
+
+**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. 
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
