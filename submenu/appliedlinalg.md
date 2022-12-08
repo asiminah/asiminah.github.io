@@ -2,14 +2,14 @@
 layout: page
 permalink: /appliedlinalg/
 title: MATH 2210Q
-description: This is the class webpage for MATH 2210Q-013 Applied Linear Algebra at UConn.  
+description: This is the class webpage for MATH 2210Q Applied Linear Algebra at UConn.  
 nav: false
 ---
 
 This page is currently under construction. 
 
 
-MATH 2210Q: Applied Linear Algebra
+MATH 2210Q: Applied Linear Algebra, Section 013
 
 
 | Course Component |       | Weight    | 
