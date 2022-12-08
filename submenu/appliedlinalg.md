@@ -11,6 +11,10 @@ This page is currently under construction.
 
 MATH 2210Q: Applied Linear Algebra, Section 013
 
+Tu/Th at 3:00-4:45PM in FSB 102. 
+
+Office hours: TBD
+
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
