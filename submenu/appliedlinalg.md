@@ -14,6 +14,8 @@ This page is currently under construction.
 
 **Prerequisites:** MATH 1132 (Calulus II), 1152 (Honors Calculus II), or 2142 (Advanced Calculus II).
 
+**Textbook:** David C. Lay's "Linear Algebra and Its Application", 4th edition. 
+
 **Classes:** Tuesdays and Thursdays at 3:30-4:45PM in FSB 102.
 
 **Office hours:** TBD.
