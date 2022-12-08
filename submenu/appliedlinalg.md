@@ -2,11 +2,17 @@
 layout: page
 permalink: /appliedlinalg/
 title: MATH 2210Q
-description: This is the class webpage for MATH 2210Q Applied Linear Algebra at UConn.  
+description: This is the class webpage for Section 013 of MATH 2210Q Applied Linear Algebra at UConn.  
 nav: false
 ---
 
 This page is currently under construction. 
+
+## Welcome to MATH 2210Q: Applied Linear Algebra! 
+
+**Course description:** Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.
+
+**Prerequisites:** MATH 1132 (Calulus II), 1152 (Honors Calculus II), or 2142 (Advanced Calculus II).
 
 
 MATH 2210Q: Applied Linear Algebra, Section 013
