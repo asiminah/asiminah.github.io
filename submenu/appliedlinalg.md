@@ -12,7 +12,7 @@ This page is currently under construction.
 
 **Course description:** Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.
 
-**Prerequisites:** MATH 1132 (Calulus II), 1152 (Honors Calculus II), or 2142 (Advanced Calculus II).
+**Prerequisites:** MATH 1132Q (Calulus II), MATH 1152Q (Honors Calculus II), or MATH 2142Q (Advanced Calculus II).
 
 **Textbook:** David C. Lay's "Linear Algebra and Its Application", 4th edition. 
 
