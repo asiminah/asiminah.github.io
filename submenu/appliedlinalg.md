@@ -27,7 +27,6 @@ This page is currently under construction.
 
 **Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
 
-<p align="center">
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
@@ -37,7 +36,7 @@ This page is currently under construction.
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
-</p>
+
 
 **Quizzes:** There will be weekly quizzes. 
 
