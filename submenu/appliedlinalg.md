@@ -40,7 +40,7 @@ This page is currently under construction.
 
 **Quizzes:** There will be weekly quizzes. 
 
-**Worksheets:** There will be a worksheet for each section we cover. Worksheets will mostly be completed in class. 
+**Worksheets:** There will be a worksheet for each section we cover. Worksheets will be mostly completed in class. 
 
 **Homework:** There will be weekly homework on MyMathLab. 
 
