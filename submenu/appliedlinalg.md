@@ -19,3 +19,21 @@ MATH 2210Q: Applied Linear Algebra
 | Quizzes          |   15%      |
 | Worksheets       |   10%      |  
 | Homework         |   10%      |
+
+
+<!-- 
+
+Final will be cummulative and during finals week
+
+Two midterms 
+
+Quizzes will be weekly (2 random homework problems)
+
+Worksheets will be mostly done in class
+
+Homework will be about 10 problems per week on MyMathLab (3-4 per section we cover that week)
+
+I will do a mostly flipped classroom style. A little bit of lecture plus problem solving session/working on worksheets. 
+I will do more lecture on the days we are covering harder sections. 
+
+-->
