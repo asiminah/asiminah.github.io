@@ -10,3 +10,12 @@ This page is currently under construction.
 
 
 MATH 2210Q: Applied Linear Algebra
+
+
+| Course Component | Weight     | 
+| :----:           |   :----:   |   
+| Final exam       |   25%      | 
+| Midterms (2)     |   20%      | 
+| Quizzes          |   15%      |
+| Worksheets       |   10%      |  
+| Homework         |   10%      |
