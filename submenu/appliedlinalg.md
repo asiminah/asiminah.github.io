@@ -14,12 +14,10 @@ This page is currently under construction.
 
 **Prerequisites:** MATH 1132 (Calulus II), 1152 (Honors Calculus II), or 2142 (Advanced Calculus II).
 
+**Classes:** Tuesdays and Thursdays at 3:30-4:45PM in FSB 102.
 
-MATH 2210Q: Applied Linear Algebra, Section 013
+**Office hours:** TBD.
 
-Tu/Th at 3:00-4:45PM in FSB 102. 
-
-Office hours: TBD
 
 
 | Course Component |       | Weight    | 
