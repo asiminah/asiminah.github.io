@@ -44,15 +44,13 @@ This page is currently under construction.
 
 **Homework:** There will be weekly homework on MyMathLab. 
 
+**Midterms:** There will be two midterms. Dates TBD. 
+
+**Final exam:** The final exam will be cummulative and during finals week. 
+
 <!-- 
 
-Final will be cummulative and during finals week
-
-Two midterms 
-
 Quizzes will be weekly (2 random homework problems)
-
-Worksheets will be mostly done in class
 
 Homework will be about 10 problems per week on MyMathLab (3-4 per section we cover that week)
 
