@@ -7,6 +7,8 @@ dropdown: true
 children: 
     - title: MATH 2210Q
       permalink: /appliedlinalg/
+    - title: Resources
+      permalink: /resources/
     - title: Number Theory
       permalink: /numth/
     #- title: divider
