@@ -9,8 +9,9 @@ children:
       permalink: /appliedlinalg/
     - title: Resources
       permalink: /resources/
-    - title: Number Theory
-      permalink: /numth/
+    #- title: Number Theory
+    #  permalink: /numth/
+      
     #- title: divider
     #- title: Blog
     #  permalink: /blog/
