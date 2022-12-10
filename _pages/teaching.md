@@ -20,5 +20,8 @@ nav: true
 
 **MATH 3710 Mathematical Modeling:**
 
-Summer 2022 I was apart of a CLAS Course Improvement Mini Grant with [David T. McArdle](https://david-mcardle.scholar.uconn.edu/). The goal was to create a modular, inquiry-based modeling course. In particular, the learning objectives were to have the students (i) demonstrate an understanding of how mathe- matical models can be implemented in various STEM  elds, (ii) apply mathematical techniques from calculus, differential equations, and discrete mathematics to create and analyze models, and (iii) communicate solutions to mathematical modeling problems through the use of presentations and expository writing.
+Summer 2022 I was apart of a CLAS Course Improvement Mini Grant with [David T. McArdle](https://david-mcardle.scholar.uconn.edu/). The goal was to create a modular, inquiry-based modeling course. In particular, the learning objectives of the modules were to have the students 
+* demonstrate an understanding of how mathematical models can be implemented in various STEM  elds, 
+* apply mathematical techniques from calculus, differential equations, and discrete mathematics to create and analyze models, and
+* communicate solutions to mathematical modeling problems through the use of presentations and expository writing.
 
