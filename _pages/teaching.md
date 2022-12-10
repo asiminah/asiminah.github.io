@@ -21,7 +21,8 @@ nav: true
 **MATH 3710 Mathematical Modeling:**
 
 Summer 2022 I was apart of a CLAS Course Improvement Mini Grant with [David T. McArdle](https://david-mcardle.scholar.uconn.edu/). The goal was to create a modular, inquiry-based modeling course. In particular, the learning objectives of the modules were to have the students 
-* demonstrate an understanding of how mathematical models can be implemented in various STEM  elds, 
+* demonstrate an understanding of how mathematical models can be implemented in various STEM fields, 
 * apply mathematical techniques from calculus, differential equations, and discrete mathematics to create and analyze models, and
 * communicate solutions to mathematical modeling problems through the use of presentations and expository writing.
 
+As a result, I designed the following 2-week module on the energy balance model. Here is the <a href="/assets/pdf/MATH3710_Climate_GroupActivity.pdf" target="_blank">self-guided (group) activity</a> that the students are expected to complete in the first week and here is the <a href="/assets/pdf/Video_assignment.pdf" target="_blank">video assignment</a> that the students are expected to complete in the second week. 
