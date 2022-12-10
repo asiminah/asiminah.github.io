@@ -17,3 +17,6 @@ nav: true
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
+
+**MATH 3710: Mathematical Modeling**
+Summer 2022 I 
