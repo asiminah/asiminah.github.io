@@ -16,4 +16,4 @@ nav: true
 * Fall 2020: MATH 1131Q Calculus I (TA)
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
-* Spring 2022: Sierra Woods, project on elliptic curves. (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">Click here to see presentation</a>)
+* Spring 2022: Sierra Woods, project on elliptic curves. (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">Presentation</a>)
