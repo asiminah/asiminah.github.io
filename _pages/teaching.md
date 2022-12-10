@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here is a list of courses that I have taught and students I have mentored at the University of Connecticut. 
+description: Here is a list of courses that I have taught, students I have mentored, and a course I helped design materials for at the University of Connecticut. 
 nav: true
 ---
 
