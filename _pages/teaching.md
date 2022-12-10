@@ -18,5 +18,7 @@ nav: true
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
 
-**MATH 3710: Mathematical Modeling**
-Summer 2022 I 
+**MATH 3710 Mathematical Modeling:**
+
+Summer 2022 I was apart of a CLAS Course Improvement Mini Grant with [David T. McArdle](https://david-mcardle.scholar.uconn.edu/). The goal was to create a modular, inquiry-based modeling course. In particular, the learning objectives were to have the students (i) demonstrate an understanding of how mathe- matical models can be implemented in various STEM  elds, (ii) apply mathematical techniques from calculus, differential equations, and discrete mathematics to create and analyze models, and (iii) communicate solutions to mathematical modeling problems through the use of presentations and expository writing.
+
