@@ -36,11 +36,11 @@ nav: false
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
-**HuskyCT:** All grades will be posted on HuskyCT. Worksheets will be posted on HuskyCT and graded for completion. 
+**HuskyCT:** All grades and announcements will be posted on HuskyCT.  
 
 **Quizzes:** There will be weekly quizzes. 
 
-**Worksheets:** There will be a worksheet for each section we cover. Worksheets will be mostly completed in class. 
+**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. 
 
 **Homework:** There will be weekly homework on MyMathLab. 
 
