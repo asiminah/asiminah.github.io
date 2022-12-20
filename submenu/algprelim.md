@@ -15,7 +15,7 @@ Although the course text that is always recommended for this prelim and used in 
 For general information on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Here are the notes from the tutoring sessions:**
-* Session one, <a href="/assets/pdf/AlgJan2021.pdf" target="_blank">notes (Jan. 2021 prelim)</a>
+* Session one, <a href="/assets/pdf/AlgJan2021.pdf" target="_blank">notes</a> ([Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2021/05/jan2021alg.pdf))
 * Session two 
 * Session three 
 * Session four
