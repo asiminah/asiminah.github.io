@@ -10,7 +10,7 @@ My research interests are in arithmetic geometry and algebraic number theory. I 
 
 I am currently working on computing the proportion of sneaky primes for pairs of elliptic curves (both non-CM and CM) with [John Cullinan](http://faculty.bard.edu/cullinan/about.html) and [Gabrielle Scullard](https://science.psu.edu/math/people/gns49).  
 
-My senior year of undergrad (fall 2019 - spring 2020), I wrote 
+In fall 2019 to spring 2020, I worked on my undergraduate honors thesis with [Andrew Obus](http://faculty.baruch.cuny.edu/aobus/). 
 
 In the summer of 2019, I participated in the NSF REU at Texas A&M University. In our research project, we proved that the crank partition function is asymptotically equidistributed modulo $$Q$$, for any odd number $$Q$$. To prove this, we obtained effective bounds on the error term from Zapata Rolon's asymptotic estimate for the crank function. We then used those bounds to prove the surjectivity and strict log-subadditivity of the crank function. This was joint work with [Wei-Lun Tsai](https://uva.theopenscholar.com/wei-lun-tsai) and Aaron Kreigman. 
 
