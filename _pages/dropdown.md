@@ -7,8 +7,11 @@ dropdown: true
 children: 
     - title: MATH 2210Q
       permalink: /appliedlinalg/
+    - title: Algebra Prelim
+      permalink: /algprelim/
     - title: Resources
       permalink: /resources/
+      
     #- title: Number Theory
     #  permalink: /numth/
       
