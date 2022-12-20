@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here is a list of courses that I have taught, students I have mentored, and a course I helped design materials for at the University of Connecticut. 
+description: Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut. 
 nav: true
 ---
 
@@ -17,6 +17,9 @@ nav: true
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
+
+**Prelims tutored at UConn:**
+* Winter 2022: [Algebra prelim](https://asiminah.github.io/algprelim/)
 
 **MATH 3710 Mathematical Modeling:**
 
