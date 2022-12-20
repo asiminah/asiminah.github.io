@@ -15,7 +15,7 @@ Although the course text that is always recommended for this prelim and used in 
 For general information on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Here are the notes from the tutoring sessions:**
-* Session one
+* Session one, <a href="/assets/pdf/AlgJan2021.pdf" target="_blank">notes</a>
 * Session two 
 * Session three 
 * Session four
