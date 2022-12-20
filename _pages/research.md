@@ -12,7 +12,8 @@ I am currently working on computing the proportion of sneaky primes for pairs of
 
 My senior year of undergrad (fall 2019 - spring 2020), I wrote 
 
-In the summer of 2019, I participated in the NSF REU at Texas A&M University. 
+In the summer of 2019, I participated in the NSF REU at Texas A&M University. In our research project, we proved that the crank partition function is asymptotically equidistributed modulo $$Q$$, for any odd number $$Q$$. To prove this, we obtained effective bounds on the error term from Zapata Rolon's asymptotic estimate for the crank function. We then used those bounds to prove the surjectivity and strict log-subadditivity of the crank function. This was joint work with [Wei-Lun Tsai](https://uva.theopenscholar.com/wei-lun-tsai) and Aaron Kreigman. 
+
 
 In the summer of 2018, I participated in the NSF REU at Oregon State University. In our research project, we showed that eta-quotients which are modular for any congruence subgroup of level $$N$$ coprime to 6 can be viewed as modular for $$\Gamma_0(N)$$. We then categorized when even weight eta-quotients can exist in $$M_k(\Gamma_1(p))$$ and $$M_k(\Gamma_1(pq))$$, for distinct primes $$p,q$$. We also provided some new examples of elliptic curves whose corresponding modular forms can be written as a linear combination of eta-quotients, and we described an algorithmic method for finding additional examples. This was joint work with [Holly Swisher](https://sites.google.com/view/hollyswisher/home), [Michael Allen](https://michaelgallen.com/), Nicholas Anderson, and Benjamin Oltsik. 
 
