@@ -6,8 +6,6 @@ description: This is the class webpage for Section 013 of MATH 2210Q Applied Lin
 nav: false
 ---
 
-This page is currently under construction. 
-
 ## Welcome to MATH 2210Q: Applied Linear Algebra! 
 
 **Course description:** Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.
@@ -23,6 +21,8 @@ This page is currently under construction.
 
 ### Class structure
 
+
+
 **Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. 
 
 **Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
@@ -36,7 +36,7 @@ This page is currently under construction.
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
-
+**HuskyCT:** All grades will be posted on HuskyCT. Worksheets will be posted on HuskyCT and graded for completion. 
 
 **Quizzes:** There will be weekly quizzes. 
 
