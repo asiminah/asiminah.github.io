@@ -53,7 +53,7 @@ nav: false
 
 | Date  |      | Section |      | Topic                                       |      | Videos   |      | Video PDFs     |
 | :---: | :--: | :---:   | :--: | :---                                        | :--: | :---     | :--: |  :---          |
-| 1/17  |      |  1.1    |      |  Intro to Linear Alg & Systems of Eqns.     |      | [E1](https://www.youtube.com/watch?v=0PloaPk86H0&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=2), [E2](https://www.youtube.com/watch?v=7QvN1bIMSZQ&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=2)   |      | E1pdf, E2pdf   |
+| 1/17  |      |  1.1    |      |  Intro to Linear Alg & Systems of Eqns.     |      | [E1](https://www.youtube.com/watch?v=0PloaPk86H0&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=2), [E2](https://www.youtube.com/watch?v=7QvN1bIMSZQ&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=2)   |      | [E1pdf](http://www2.math.uconn.edu/~troby/VLpdfs/E1SysLinEqn.pdf), [E2pdf](http://www2.math.uconn.edu/~troby/VLpdfs/E2SolvLinSys.pdf)   |
 |       |      |  1.2    |      |  Row Reduction & Echelon Forms              |      | E3, E4   |      | E3pdf, E4pdf   |
 | 1/19  |      |  1.3    |      |  Vector Equations                           |      | E5, Ov   |      | E5pdf, Ovpdf   |
 | 1/24  |      |  1.4    |      |  Matrix Equations                           |      | E7, E8   |      | E7pdf, E8pdf   |
