@@ -50,7 +50,7 @@ nav: false
 
 
 | Date  | Section | Topic                                       | 
-| :---: |  :---:  | :---:                                       |   
+| :---: |  :---:  | :---                                        |   
 | 1/17  |  1.1    |  Intro to Linear Alg & Systems of Eqns.     | 
 |       |  1.2    |  Row Reduction & Echelon Forms              |
 | 1/19  |  1.3    |  Vector Equations                           | 
