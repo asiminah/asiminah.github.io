@@ -86,11 +86,11 @@ nav: false
 | 4/4   |      | 1.1-5.4 |      |  Catch-up and Review Day                    |      |          |      |                    |
 | 4/6   |      | 1.1-5.4 |      |  Midterm 2                                  |      |          |      |                    |
 | 4/11  |      |  6.4    |      |  Gram–Schmidt                               |      | [G6](https://www.youtube.com/watch?v=O3pz0nRPlrQ&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=7), [F7](https://www.youtube.com/watch?v=w001lFfdeNs&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=8)   |      | G6pdf, F7pdf       |
-|       |      |  6.5    |      |  Least-Squares Problems                     |      | G7       |      | G7pdf              |
-| 4/13  |      |  7.1    |      |  Diagonalization of Symmetric Matrices      |      | F8       |      | F8pdf              |
-| 4/18  |      |  7.2    |      |  Quadratic Forms                            |      | F9, F10  |      | F9pdf, F10pdf      |
-|       |      |  7.3    |      |  Constrained Optimization                   |      | F11      |      | F11pdf             |
-| 4/20  |      |  7.4    |      |  Singular Value Decomposition (SVD)         |      | F12      |      | F12pdf             |
+|       |      |  6.5    |      |  Least-Squares Problems                     |      | [G7](https://www.youtube.com/watch?v=EqyUVWg-nVg&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=8)       |      | G7pdf              |
+| 4/13  |      |  7.1    |      |  Diagonalization of Symmetric Matrices      |      | [F8](https://www.youtube.com/watch?v=kkKyIPgN1Yc&list=PLCyMqkq53VeQVdULZlrM0gcectoBJMNYz&index=2)       |      | F8pdf              |
+| 4/18  |      |  7.2    |      |  Quadratic Forms                            |      | [F9](https://www.youtube.com/watch?v=JabOq1XZi9c&list=PLCyMqkq53VeQVdULZlrM0gcectoBJMNYz&index=3), [F10](https://www.youtube.com/watch?v=0rR3BwFId0w&list=PLCyMqkq53VeQVdULZlrM0gcectoBJMNYz&index=4)  |      | F9pdf, F10pdf      |
+|       |      |  7.3    |      |  Constrained Optimization                   |      | [F11](https://www.youtube.com/watch?v=nGT_FtYuZEU&list=PLCyMqkq53VeQVdULZlrM0gcectoBJMNYz&index=5)      |      | F11pdf             |
+| 4/20  |      |  7.4    |      |  Singular Value Decomposition (SVD)         |      | [F12](https://www.youtube.com/watch?v=PMYaXYsGyfw&list=PLCyMqkq53VeQVdULZlrM0gcectoBJMNYz&index=6)      |      | F12pdf             |
 | 4/25  |      |         |      |  Google PageRank and/or Review Day          |      |          |      |                    |
 | 4/27  |      | 1.1-7.4 |      |  Catchup and Review Day                     |      |          |      |                    |
 
