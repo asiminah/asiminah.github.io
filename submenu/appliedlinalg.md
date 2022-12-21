@@ -49,7 +49,7 @@ nav: false
 **Final exam:** The final exam will be cummulative and during finals week. 
 
 
-| Date  | Section | Topic                                       | Videos   | Video PDF      |
+| Date  | Section | Topic                                       | Videos   | Video PDFs     |
 | :---: |  :---:  | :---                                        | :---     |  :---          |
 | 1/17  |  1.1    |  Intro to Linear Alg & Systems of Eqns.     | E1, E2   | E1pdf, E2pdf   |
 |       |  1.2    |  Row Reduction & Echelon Forms              | E3, E4   | E3pdf, E4pdf   |
