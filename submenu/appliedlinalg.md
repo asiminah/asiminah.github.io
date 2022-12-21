@@ -87,6 +87,12 @@ nav: false
 | 4/6   |      | 1.1-5.4 |      |  Midterm 2                                  |      |          |      |                    |
 | 4/11  |      |  6.4    |      |  Gram–Schmidt                               |      | G6, F7   |      | G6pdf, F7pdf       |
 |       |      |  6.5    |      |  Least-Squares Problems                     |      | G7       |      | G7pdf              |
+| 4/13  |      |  7.1    |      |  Diagonalization of Symmetric Matrices      |      | F8       |      | F8pdf              |
+| 4/18  |      |  7.2    |      |  Quadratic Forms                            |      | F9, F10  |      | F9pdf, F10pdf      |
+|       |      |  7.3    |      |  Constrained Optimization                   |      | F11      |      | F11pdf             |
+| 4/20  |      |  7.4    |      |  Singular Value Decomposition (SVD)         |      | F12      |      | F12pdf             |
+| 4/25  |      |         |      |  Google PageRank and/or Review Day          |      |          |      |                    |
+| 4/27  |      | 1.1-7.4 |      |  Catchup and Review Day                     |      |          |      |                    |
 
 
 
