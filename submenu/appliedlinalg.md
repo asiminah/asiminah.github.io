@@ -68,9 +68,9 @@ nav: false
 |       |      |  3.2    |      |  Properties of Determinants                 |      | [D2](https://www.youtube.com/watch?v=-V5sDyvHBh4&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=2), [D3](https://www.youtube.com/watch?v=Vq9dnevRyto&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=3)   |      | [D2pdf](http://www2.math.uconn.edu/~troby/VLpdfs/D2detRowOps.pdf), [D3pdf](http://www2.math.uconn.edu/~troby/VLpdfs/D3detColProd.pdf)       |
 | 2/14  |      | 1.1-2.3 |      |  Catch-up and Review Day                    |      |          |      |                    |
 | 2/16  |      | 1.1-2.3 |      |  Midterm 1                                  |      |          |      |                    |
-| 2/21  |      |  3.3    |      |  Cramer's Rule and Volumes                  |      | D4, D5   |      | D4pdf, D5pdf       |
-|       |      |  4.1    |      |  Vector Spaces & Subspaces                  |      | B1, B2   |      | B1pdf, B2pdf       |
-| 2/23  |      |  4.2    |      | Null Spaces, Columns Spaces and Lin. Transf.|      | B3, B4   |      | B3pdf, B4pdf       |
+| 2/21  |      |  3.3    |      |  Cramer's Rule and Volumes                  |      | [D4](https://www.youtube.com/watch?v=sRLwoK4cdNY&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=5), [D5](https://www.youtube.com/watch?v=3ndVGb1jFws&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=6)   |      | D4pdf, D5pdf       |
+|       |      |  4.1    |      |  Vector Spaces & Subspaces                  |      | [B1](https://www.youtube.com/watch?v=QWslTQLnx7Q&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=2), [B2](https://www.youtube.com/watch?v=M7MqpKdRPpQ&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=3)   |      | B1pdf, B2pdf       |
+| 2/23  |      |  4.2    |      | Null Spaces, Columns Spaces and Lin. Transf.|      | [B3](https://www.youtube.com/watch?v=19h4_43QLvU&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=4), [B4](https://www.youtube.com/watch?v=lPAyQbiN9o8&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=5)   |      | B3pdf, B4pdf       |
 | 2/28  |      |  4.3    |      |  Bases and Linearly Independent Sets        |      | B5, B6   |      | B5pdf, B6pdf       |
 |       |      |  4.4    |      |  Coordinate Systems                         |      | B7, B8   |      | B7pdf, B8pdf       |
 | 3/2   |      |  4.5    |      |  Dimension of a Vector Space                |      | B9, B10  |      | B9pdf, B10pdf      |
