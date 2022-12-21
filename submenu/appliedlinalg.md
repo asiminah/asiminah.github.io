@@ -49,16 +49,16 @@ nav: false
 **Final exam:** The final exam will be cummulative and during finals week. 
 
 
-| Date  | Section | Topic                                       | Videos   | Video PDFs     |
-| :---: |  :---:  | :---                                        | :---     |  :---          |
-| 1/17  |  1.1    |  Intro to Linear Alg & Systems of Eqns.     | E1, E2   | E1pdf, E2pdf   |
-|       |  1.2    |  Row Reduction & Echelon Forms              | E3, E4   | E3pdf, E4pdf   |
-| 1/19  |  1.3    |  Vector Equations                           | E5, Ov   | E5pdf, Ovpdf   |
-| 1/24  |  1.4    |  Matrix Equations                           | E7, E8   | E7pdf, E8pdf   |
-|       |  1.5    |  Solution Sets of Linear Systems            | E9, E10  | E9pdf, E10pdf  |
-| 1/26  |  1.7    |  Linear Independence                        | E11, E12 | E11pdf, E12pdf | 
-| 1/31  |  1.8    |  Linear Transformations                     | M2       | M2pdf          |
-|       |  1.9    |  Matrix of Linear Transformations           | M3, M4   | M3pdf, M4pdf   |
+| Date  |      | Section |      | Topic                                       |      | Videos   |      | Video PDFs     |
+| :---: | :--: | :---:   | :--: | :---                                        | :--: | :---     | :--: |  :---          |
+| 1/17  |      |  1.1    |      |  Intro to Linear Alg & Systems of Eqns.     |      | E1, E2   |      | E1pdf, E2pdf   |
+|       |      |  1.2    |      |  Row Reduction & Echelon Forms              |      | E3, E4   |      | E3pdf, E4pdf   |
+| 1/19  |      |  1.3    |      |  Vector Equations                           |      | E5, Ov   |      | E5pdf, Ovpdf   |
+| 1/24  |      |  1.4    |      |  Matrix Equations                           |      | E7, E8   |      | E7pdf, E8pdf   |
+|       |      |  1.5    |      |  Solution Sets of Linear Systems            |      | E9, E10  |      | E9pdf, E10pdf  |
+| 1/26  |      |  1.7    |      |  Linear Independence                        |      | E11, E12 |      | E11pdf, E12pdf | 
+| 1/31  |      |  1.8    |      |  Linear Transformations                     |      | M2       |      | M2pdf          |
+|       |      |  1.9    |      |  Matrix of Linear Transformations           |      | M3, M4   |      | M3pdf, M4pdf   |
 
 
 <!-- 
