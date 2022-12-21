@@ -48,6 +48,19 @@ nav: false
 
 **Final exam:** The final exam will be cummulative and during finals week. 
 
+
+| Date  | Section | Topic                                       | 
+| :---: |  :---:  | :---:                                       |   
+| 1/17  |  1.1    |  Intro to Linear Alg & Systems of Eqns.     | 
+|       |  1.2    |  Row Reduction & Echelon Forms              |
+| 1/19  |  1.3    |  Vector Equations                           | 
+| 1/24  |  1.4    |  Matrix Equations                           |
+|       |  1.5    |  Solution Sets of Linear Systems            |
+| 1/26  |  1.7    |  Linear Independence                        |  
+| 1/31  |  1.8    |  Linear Transformations                     |
+|       |  1.9    |  Matrix of Linear Transformations           |
+
+
 <!-- 
 
 Quizzes will be weekly (2 random homework problems)
