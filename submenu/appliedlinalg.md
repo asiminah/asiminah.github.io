@@ -49,6 +49,8 @@ nav: false
 **Final exam:** The final exam will be cummulative and during finals week. 
 
 
+### Class schedule
+
 | Date  |      | Section |      | Topic                                       |      | Videos   |      | Video PDFs     |
 | :---: | :--: | :---:   | :--: | :---                                        | :--: | :---     | :--: |  :---          |
 | 1/17  |      |  1.1    |      |  Intro to Linear Alg & Systems of Eqns.     |      | E1, E2   |      | E1pdf, E2pdf   |
