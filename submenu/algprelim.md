@@ -16,7 +16,7 @@ For general information on how to study for prelims, you can read [this](https:/
 
 **Here are the notes from the tutoring sessions:**
 * Session one, <a href="/assets/pdf/AlgJan2021.pdf" target="_blank">notes</a> ([Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2021/05/jan2021alg.pdf))
-* Session two 
+* Session two ([Aug. 2020](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/11/aug2020alg.pdf), [Jan. 2020](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/05/jan2020alg.pdf))
 * Session three 
 * Session four
 * Session five
