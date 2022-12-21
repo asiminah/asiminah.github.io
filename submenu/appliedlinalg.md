@@ -22,19 +22,7 @@ nav: false
 ### Class structure
 
 
-
 **Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. 
-
-**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
-
-
-| Course Component |       | Weight    | 
-| :----:           | :---: |  :----:   |   
-| Final exam       |       |  25%      | 
-| Midterms (2)     |       |  20%      | 
-| Quizzes          |       |  15%      |
-| Worksheets       |       |  10%      |  
-| Homework         |       |  10%      |
 
 **HuskyCT:** All grades and announcements will be posted on HuskyCT.  
 
@@ -47,6 +35,18 @@ nav: false
 **Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. 
 
 **Final exam:** The final exam will be cummulative and during finals week. 
+
+**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
+
+
+| Course Component |       | Weight    | 
+| :----:           | :---: |  :----:   |   
+| Final exam       |       |  25%      | 
+| Midterms (2)     |       |  20%      | 
+| Quizzes          |       |  15%      |
+| Worksheets       |       |  10%      |  
+| Homework         |       |  10%      |
+
 
 
 ### Class schedule
