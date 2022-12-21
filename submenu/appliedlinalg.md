@@ -82,8 +82,11 @@ nav: false
 | 3/23  |      |  5.4    |      |  Eigenvectors & Linear Transformations      |      | F6       |      | F6pdf              |
 | 3/28  |      |  6.1    |      |  Inner Product & Orthogonality              |      | G1       |      | G1pdf              |
 |       |      |  6.2    |      |  Orthogonal Sets                            |      |G2, G3, G4|      | G2pdf, G3pdf, G4pdf|
-| 3/30  |      |  6.3    |      |  Orthogonal Projections                     |      | B5, B6   |      | B5pdf, B6pdf   |
-
+| 3/30  |      |  6.3    |      |  Orthogonal Projections                     |      | G5       |      | G5pdf              |
+| 4/4   |      | 1.1-5.4 |      |  Catch-up and Review Day                    |      |          |      |                    |
+| 4/6   |      | 1.1-5.4 |      |  Midterm 2                                  |      |          |      |                    |
+| 4/11  |      |  6.4    |      |  Gram–Schmidt                               |      | G6, F7   |      | G6pdf, F7pdf       |
+|       |      |  6.5    |      |  Least-Squares Problems                     |      | G7       |      | G7pdf              |
 
 
 
