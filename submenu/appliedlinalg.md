@@ -57,10 +57,25 @@ nav: false
 |       |      |  1.2    |      |  Row Reduction & Echelon Forms              |      | [E3](https://www.youtube.com/watch?v=S_-cHRG0qeA&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=4), [E4](https://www.youtube.com/watch?v=qP2bNBSMWF4&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=4)   |      | [E3pdf](http://www2.math.uconn.edu/~troby/VLpdfs/E3echelonForm.pdf), [E4pdf](http://www2.math.uconn.edu/~troby/VLpdfs/E4reducedEF.pdf)   |
 | 1/19  |      |  1.3    |      |  Vector Equations                           |      | [E5](https://www.youtube.com/watch?v=Bj6HJ2qDrO4&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=5), [Ov](https://www.youtube.com/watch?v=QX1tfnX6-Eg&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=1&t=2s)   |      | E5pdf, Ovpdf   |
 | 1/24  |      |  1.4    |      |  Matrix Equations                           |      | [E7](https://www.youtube.com/watch?v=bTGS_T3DWGI&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=6), [E8](https://www.youtube.com/watch?v=mTuv_veJYmE&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=7)   |      | E7pdf, E8pdf   |
-|       |      |  1.5    |      |  Solution Sets of Linear Systems            |      | E9, E10  |      | E9pdf, E10pdf  |
-| 1/26  |      |  1.7    |      |  Linear Independence                        |      | E11, E12 |      | E11pdf, E12pdf | 
-| 1/31  |      |  1.8    |      |  Linear Transformations                     |      | M2       |      | M2pdf          |
+|       |      |  1.5    |      |  Solution Sets of Linear Systems            |      | [E9](https://www.youtube.com/watch?v=odtIy_u1moA&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=8), [E10](https://www.youtube.com/watch?v=l8pHK63xnPk&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=9)  |      | E9pdf, E10pdf  |
+| 1/26  |      |  1.7    |      |  Linear Independence                        |      | [E11](https://www.youtube.com/watch?v=erjhxHnbglc&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=10), [E12](https://www.youtube.com/watch?v=53Qyto-tKUU&list=PLCyMqkq53VeSogd_0OQtljaVxBtZ0xAC2&index=11) |      | E11pdf, E12pdf | 
+| 1/31  |      |  1.8    |      |  Linear Transformations                     |      | [M2](https://www.youtube.com/watch?v=W1OMSpcEFds&list=PLCyMqkq53VeSK_cXrAN-vwu2OWdl17shW&index=1)       |      | M2pdf          |
 |       |      |  1.9    |      |  Matrix of Linear Transformations           |      | M3, M4   |      | M3pdf, M4pdf   |
+| 2/2   |      |  2.1    |      |  Matrix Operations and Inverses             |      | M5, M6   |      | M5pdf, M6pdf   |
+| 2/7   |      |  2.2    |      |  Inverse of a Matrix                        |      | M7, M8   |      | M7pdf, M8pdf   |
+|       |      |  2.3    |      |  Characterizations of Invertible Matrices   |      | M9       |      | M9pdf          |
+| 2/9   |      |  3.1    |      |  Intro to Determinants                      |      | D1       |      | D1pdf          |
+|       |      |  3.2    |      |  Properties of Determinants                 |      | D2, D3   |      | D2pdf, D3pdf   |
+| 2/14  |      | 1.1-2.3 |      |  Catch-up and Review Day                    |      |          |      |                |
+| 2/16  |      | 1.1-2.3 |      |  Midterm 1                                  |      |          |      |                |
+| 2/21  |      |  3.3    |      |  Cramer's Rule and Volumes                  |      | D4, D5   |      | D4pdf, D5pdf   |
+|       |      |  4.1    |      |  Vector Spaces & Subspaces                  |      | B1, B2   |      | B1pdf, B2pdf   |
+| 2/23  |      |  4.2    |      | Null Spaces, Columns Spaces and Lin. Transf.|      | B3, B4   |      | B3pdf, B4pdf   |
+| 2/28  |      |  4.3    |      |  Bases and Linearly Independent Sets        |      | B5, B6   |      | B5pdf, B6pdf   |
+|       |      |  4.4    |      |  Coordinate Systems                         |      | B7, B8   |      | B7pdf, B8pdf   |
+
+
+
 
 
 <!-- 
