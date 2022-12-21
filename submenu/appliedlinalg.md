@@ -71,21 +71,21 @@ nav: false
 | 2/21  |      |  3.3    |      |  Cramer's Rule and Volumes                  |      | [D4](https://www.youtube.com/watch?v=sRLwoK4cdNY&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=5), [D5](https://www.youtube.com/watch?v=3ndVGb1jFws&list=PLCyMqkq53VeSk8M3Y6ybj8UvZwld__6a6&index=6)   |      | D4pdf, D5pdf       |
 |       |      |  4.1    |      |  Vector Spaces & Subspaces                  |      | [B1](https://www.youtube.com/watch?v=QWslTQLnx7Q&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=2), [B2](https://www.youtube.com/watch?v=M7MqpKdRPpQ&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=3)   |      | B1pdf, B2pdf       |
 | 2/23  |      |  4.2    |      | Null Spaces, Columns Spaces and Lin. Transf.|      | [B3](https://www.youtube.com/watch?v=19h4_43QLvU&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=4), [B4](https://www.youtube.com/watch?v=lPAyQbiN9o8&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=5)   |      | B3pdf, B4pdf       |
-| 2/28  |      |  4.3    |      |  Bases and Linearly Independent Sets        |      | B5, B6   |      | B5pdf, B6pdf       |
-|       |      |  4.4    |      |  Coordinate Systems                         |      | B7, B8   |      | B7pdf, B8pdf       |
-| 3/2   |      |  4.5    |      |  Dimension of a Vector Space                |      | B9, B10  |      | B9pdf, B10pdf      |
-| 3/7   |      |  4.6    |      |  Rank                                       |      | B11      |      | B11pdf             |
-|       |      |  4.7    |      |  Change of Basis                            |      | B12      |      | B12pdf             |
-| 3/9   |      |  5.1    |      |  Eigenvectors & Eigenvalues                 |      | F1, F2   |      | F1pdf, F2pdf       |
-| 3/21  |      |  5.2    |      |  Characteristic Equation                    |      | F3, F4   |      | F3pdf, F4pdf       |
-|       |      |  5.3    |      |  Diagonalization                            |      | F5       |      | F5pdf              |
-| 3/23  |      |  5.4    |      |  Eigenvectors & Linear Transformations      |      | F6       |      | F6pdf              |
-| 3/28  |      |  6.1    |      |  Inner Product & Orthogonality              |      | G1       |      | G1pdf              |
-|       |      |  6.2    |      |  Orthogonal Sets                            |      |G2, G3, G4|      | G2pdf, G3pdf, G4pdf|
-| 3/30  |      |  6.3    |      |  Orthogonal Projections                     |      | G5       |      | G5pdf              |
+| 2/28  |      |  4.3    |      |  Bases and Linearly Independent Sets        |      | [B5](https://www.youtube.com/watch?v=Eu6p0y_XZfw&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=6), [B6](https://www.youtube.com/watch?v=CBo9b1eYDts&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=7)   |      | B5pdf, B6pdf       |
+|       |      |  4.4    |      |  Coordinate Systems                         |      | [B7](https://www.youtube.com/watch?v=3EJu1YBlb0w&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=8), [B8](https://www.youtube.com/watch?v=x4HZhHPyVkQ&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=9)   |      | B7pdf, B8pdf       |
+| 3/2   |      |  4.5    |      |  Dimension of a Vector Space                |      | [B9](https://www.youtube.com/watch?v=ox0gP-GGgwo&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=10), [B10](https://www.youtube.com/watch?v=dS_VWdgRDko&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=11)  |      | B9pdf, B10pdf      |
+| 3/7   |      |  4.6    |      |  Rank                                       |      | [B11](https://www.youtube.com/watch?v=ZwUVZzQpUdA&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=12)      |      | B11pdf             |
+|       |      |  4.7    |      |  Change of Basis                            |      | [B12](https://www.youtube.com/watch?v=5F_MxsmEfdA&list=PLCyMqkq53VeRqffrKcrCVGXd5yxY1I7si&index=13)      |      | B12pdf             |
+| 3/9   |      |  5.1    |      |  Eigenvectors & Eigenvalues                 |      | [F1](https://www.youtube.com/watch?v=Q3eFAtHltVg&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=2), [F2](https://www.youtube.com/watch?v=LiRpubaX3ho&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=3)   |      | F1pdf, F2pdf       |
+| 3/21  |      |  5.2    |      |  Characteristic Equation                    |      | [F3](https://www.youtube.com/watch?v=ha0TCLagbDg&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=4), [F4](https://www.youtube.com/watch?v=VThOcK0aSBY&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=4)   |      | F3pdf, F4pdf       |
+|       |      |  5.3    |      |  Diagonalization                            |      | [F5](https://www.youtube.com/watch?v=iE8K8_nW0QA&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=6)       |      | F5pdf              |
+| 3/23  |      |  5.4    |      |  Eigenvectors & Linear Transformations      |      | [F6](https://www.youtube.com/watch?v=BrbNB-C8Dkg&list=PLCyMqkq53VeQASKy7SDbZcv7TdIPkirS3&index=7)       |      | F6pdf              |
+| 3/28  |      |  6.1    |      |  Inner Product & Orthogonality              |      | [G1](https://www.youtube.com/watch?v=858cSuHqF-Q&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=2)       |      | G1pdf              |
+|       |      |  6.2    |      |  Orthogonal Sets                            |      |[G2](https://www.youtube.com/watch?v=-LCwaKaId98&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=3), [G3](https://www.youtube.com/watch?v=75Ap97hzA8s&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=4), [G4](https://www.youtube.com/watch?v=Gkt8nZxrycQ&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=5)|      | G2pdf, G3pdf, G4pdf|
+| 3/30  |      |  6.3    |      |  Orthogonal Projections                     |      | [G5](https://www.youtube.com/watch?v=NFyCJGtqDpA&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=6)       |      | G5pdf              |
 | 4/4   |      | 1.1-5.4 |      |  Catch-up and Review Day                    |      |          |      |                    |
 | 4/6   |      | 1.1-5.4 |      |  Midterm 2                                  |      |          |      |                    |
-| 4/11  |      |  6.4    |      |  Gram–Schmidt                               |      | G6, F7   |      | G6pdf, F7pdf       |
+| 4/11  |      |  6.4    |      |  Gram–Schmidt                               |      | [G6](https://www.youtube.com/watch?v=O3pz0nRPlrQ&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=7), [F7](https://www.youtube.com/watch?v=w001lFfdeNs&list=PLCyMqkq53VeS6MIHlurpODcSBk2-acbLv&index=8)   |      | G6pdf, F7pdf       |
 |       |      |  6.5    |      |  Least-Squares Problems                     |      | G7       |      | G7pdf              |
 | 4/13  |      |  7.1    |      |  Diagonalization of Symmetric Matrices      |      | F8       |      | F8pdf              |
 | 4/18  |      |  7.2    |      |  Quadratic Forms                            |      | F9, F10  |      | F9pdf, F10pdf      |
