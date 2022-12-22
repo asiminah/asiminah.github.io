@@ -12,19 +12,22 @@ nav: false
 
 **Prerequisites:** MATH 1132Q (Calulus II), MATH 1152Q (Honors Calculus II), or MATH 2142Q (Advanced Calculus II).
 
-**Textbook:** David C. Lay's "Linear Algebra and Its Application", 6th edition. 
+**Textbook:** David C. Lay's "Linear Algebra and Its Application", 6th edition. You should purchase the textbook from the UConn bookstore with the MyMathLab bundle. 
 
-**Classes:** Tuesdays and Thursdays at 3:30-4:45PM in FSB 102.
+**Class:** Tuesdays and Thursdays at 3:30-4:45PM in FSB 102. 
 
 **Office hours:** TBD.
 
 
 ### Class structure
 
+The structure of this class might be different than you are used to. Instead of lecturing in class and having you do homework at home, you will watch some video lectures at home and then we will mainly focus on solving problems in class. In the beginning of class, I will lecture a little bit to recap the video lectures if necessary, and then I will hand out worksheets for you to work on in groups or independently (whatever you prefer). During class, we will take breaks to discuss problems and check answers.  
+
+Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch before class in order to be able to complete the worksheets. 
 
 **Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. 
 
-**HuskyCT:** All announcements will be posted on HuskyCT.  
+**HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
 **Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
 
@@ -36,7 +39,7 @@ nav: false
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
-All grades and assignments will be posted on HuskyCT. 
+(All grades and assignments will be posted on HuskyCT.) 
 
 **Quizzes:** There will be weekly quizzes. 
 
@@ -46,7 +49,7 @@ All grades and assignments will be posted on HuskyCT.
 
 **Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. 
 
-**Final exam:** The final exam will be cummulative and during finals week. 
+**Final exam:** The final exam will be cummulative and during finals week. No make-ups will be given unless for a reason approved by the Dean of Students. 
 
 
 
