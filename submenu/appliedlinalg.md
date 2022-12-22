@@ -29,7 +29,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
+**Grading:** The course grade will be composed of worksheets, homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
