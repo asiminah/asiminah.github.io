@@ -99,7 +99,13 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 | 4/25  |      |         |      |  Google PageRank and/or Review Day          |      |          |      |                    |
 | 4/27  |      | 1.1-7.4 |      |  Catchup and Review Day                     |      |          |      |                    |
 
+(Spring Recess is March 12-18, 2023.)
 
+**Student conduct code:** Students are expected to conduct themselves in accordance with UConn’s [Student Conduct Code](https://community.uconn.edu/the-student-code/).
+
+**Academic Integrity Statement:** This course expects all students to act in accordance with the Guidelines for Academic Integrity at the University of Connecticut. Because questions of intellectual property are important to the field of this course, we will discuss academic honesty as a topic and not just a policy. If you have questions about academic integrity or intellectual property, you should consult with your instructor. Additionally, consult UConn’s [guidelines for academic integrity](https://community.uconn.edu/the-student-code-appendix-a/).
+
+**Students with Disabilities:** The University of Connecticut is committed to protecting the rights of individuals with disabilities and assuring that the learning environment is accessible. If you anticipate or experience physical or academic barriers based on disability or pregnancy, please let me know immediately so that we can discuss options. Students who require accommodations should contact the Center for Students with Disabilities, Wilbur Cross Building Room 204, (860)486-2020, or http://csd.uconn.edu/.
 
 <!-- 
 
