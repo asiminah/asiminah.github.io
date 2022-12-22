@@ -107,6 +107,9 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **Students with Disabilities:** The University of Connecticut is committed to protecting the rights of individuals with disabilities and assuring that the learning environment is accessible. If you anticipate or experience physical or academic barriers based on disability or pregnancy, please let me know immediately so that we can discuss options. Students who require accommodations should contact the Center for Students with Disabilities, Wilbur Cross Building Room 204, (860)486-2020, or http://csd.uconn.edu/.
 
+**Final Exam Policy:** In accordance with UConn policy, students are required to be available for their final exam and/or complete any assessment during the time stated. If you have a conflict with this time you must obtain official permission to schedule a make-up exam with the [Dean of Students](http://dos.uconn.edu/). If permission is granted, the Dean of Students will notify the instructor. Please note that vacations, previously purchased tickets or reservations, graduations, social events, misreading the assessment schedule, and oversleeping are not viable reasons for rescheduling a final.
+
+
 <!-- 
 
 Quizzes will be weekly (2 random homework problems)
