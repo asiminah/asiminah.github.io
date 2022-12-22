@@ -33,23 +33,24 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
-| Final exam       |       |  25%      | 
-| Midterms (2)     |       |  20%      | 
-| Quizzes          |       |  15%      |
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
+| Quizzes          |       |  15%      |
+| Midterms (2)     |       |  20%      | 
+| Final exam       |       |  25%      | 
+
 
 (All grades and assignments will be posted on HuskyCT.) 
 
-**Quizzes:** There will be weekly quizzes. 
+**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. You should be able to finish the worksheets in the allotted class time, but if not then you will also have the weekend to work on them. 
 
-**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. You should be able to finish the worksheets in the alloted class time, but if not then you will also have the weekend to work on them. 
+**Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. Homework is due 11:59pm on Monday of the following week. The homeworks will be light and are just meant to make sure you are understanding the exercises you are doing in class and to help you prepare for the quiz. 
 
-**Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. 
+**Quizzes:** There will be weekly quizzes in the beginning of every class on Tuesday. Each quiz will be on the previous weeks material, so each quiz will be on the material that was covered on the worksheets and homework due the previous night.  
 
-**Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. 
+**Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. We will also have review sessions in class on the Tuesday before the exam. 
 
-**Final exam:** The final exam will be cummulative and during finals week. No make-ups will be given unless for a reason approved by the Dean of Students. 
+**Final exam:** The final exam will be cummulative and during finals week. Date TBD. No make-ups will be given unless for a reason approved by the Dean of Students. 
 
 
 
