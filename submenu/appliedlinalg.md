@@ -26,6 +26,18 @@ nav: false
 
 **HuskyCT:** All grades and announcements will be posted on HuskyCT.  
 
+**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
+
+| Course Component |       | Weight    | 
+| :----:           | :---: |  :----:   |   
+| Final exam       |       |  25%      | 
+| Midterms (2)     |       |  20%      | 
+| Quizzes          |       |  15%      |
+| Worksheets       |       |  10%      |  
+| Homework         |       |  10%      |
+
+
+
 **Quizzes:** There will be weekly quizzes. 
 
 **Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. 
@@ -35,17 +47,6 @@ nav: false
 **Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. 
 
 **Final exam:** The final exam will be cummulative and during finals week. 
-
-**Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
-
-
-| Course Component |       | Weight    | 
-| :----:           | :---: |  :----:   |   
-| Final exam       |       |  25%      | 
-| Midterms (2)     |       |  20%      | 
-| Quizzes          |       |  15%      |
-| Worksheets       |       |  10%      |  
-| Homework         |       |  10%      |
 
 
 
