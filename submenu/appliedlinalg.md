@@ -21,11 +21,11 @@ nav: false
 
 ### Class structure
 
-The structure of this class might be different than you are used to. Instead of lecturing in class and having you do homework at home, you will watch some video lectures at home and then we will mainly focus on solving problems in class. In the beginning of class, I will lecture a little bit to recap the video lectures if necessary, and then I will hand out worksheets for you to work on in groups or independently (whatever you prefer). During class, we will take breaks to discuss problems and check answers.  
+The structure of this class might be different than what you are used to. Instead of lecturing in class and having you do homework at home, you will watch some video lectures at home and then we will mainly focus on solving problems in class. In the beginning of class, I will lecture a little bit to recap the video lectures if necessary, and then I will hand out worksheets for you to work on in groups or independently (whatever you prefer). During class, we will take breaks to discuss problems and check answers.  
 
-Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch before class in order to be able to complete the worksheets. 
+Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written which sections I plan to cover each class and what the corresponding video lectures are for those sections. Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch in advance before class in order to be able to complete the worksheets. 
 
-**Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. 
+**Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. Feel free to watch some of the videos at x1.5 or x2 speed. I encourage you to pause, rewind, and rewatch parts if you are stuck. In the course schedule below, I have also linked to the pdf of each video so you can follow along with those notes as well.  
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
@@ -43,7 +43,7 @@ Each week we will cover about three sections of the textbook. Each section may h
 
 **Quizzes:** There will be weekly quizzes. 
 
-**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. 
+**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by 11:59pm on Monday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. You should be able to finish the worksheets in the alloted class time, but if not then you will also have the weekend to work on them. 
 
 **Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. 
 
