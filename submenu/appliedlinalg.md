@@ -24,7 +24,7 @@ nav: false
 
 **Video lectures:** The video lectures are available at [this YouTube channel](https://www.youtube.com/channel/UCJgq70ZWtrVIwHEDYdj-kdg/playlists). If you have trouble accessing the YouTube channel, then you can also view the video lectures [here](https://kaltura.uconn.edu/channel/Math%2B2210Q/168885461) on UConn's Kaltura server. 
 
-**HuskyCT:** All grades and announcements will be posted on HuskyCT.  
+**HuskyCT:** All announcements will be posted on HuskyCT.  
 
 **Grading:** The course grade will be composed of a final exam, two midterms, quizzes, worksheets, and homework. The breakdown will be as follows: 
 
@@ -36,7 +36,7 @@ nav: false
 | Worksheets       |       |  10%      |  
 | Homework         |       |  10%      |
 
-
+All grades and assignments will be posted on HuskyCT. 
 
 **Quizzes:** There will be weekly quizzes. 
 
