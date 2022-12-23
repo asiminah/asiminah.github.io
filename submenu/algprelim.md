@@ -22,6 +22,13 @@ For general information on how to study for prelims, you can read [this](https:/
 * Session five
 * Session six
 
+
+**Here are some random notes of things that were helpful for me when I was studying:**
+* General (brief) overview of all the material, <a href="/assets/pdf/GeneralNotes.pdf" target="_blank">notes</a>
+* Theorems with group actions, <a href="/assets/pdf/GpActionThms.pdf" target="_blank">notes</a>
+* Ring theory, <a href="/assets/pdf/RingTheory.pdf" target="_blank">notes</a>
+
+
 <!--
 <a href="/assets/pdf/HamakiotesCV.pdf" target="_blank">Open PDF to see all Pages</a>
 -->
