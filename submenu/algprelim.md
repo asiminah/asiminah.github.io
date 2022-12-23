@@ -24,9 +24,9 @@ For general information on how to study for prelims, you can read [this](https:/
 
 
 **Here are some random notes of things that were helpful for me when I was studying:**
-* General (brief) overview, <a href="/assets/pdf/GeneralNotes.pdf" target="_blank">notes</a>. This has most, but not all, important definitions and theorems. 
-* Theorems with group actions on finite groups, <a href="/assets/pdf/GpActionThms.pdf" target="_blank">notes</a>. It is good and helpful to know the proofs of these, or at least to memorize the main tools used in the proofs. 
-* Ring theory, <a href="/assets/pdf/RingTheory.pdf" target="_blank">notes</a>. This has a lot of useful theorems and proofs, some of which have appeared on past prelims, but this is not exhaustive of all the ring theory material. 
+* <a href="/assets/pdf/GeneralNotes.pdf" target="_blank">General (brief) overview</a>. This has most, but not all, important definitions and theorems. 
+* <a href="/assets/pdf/GpActionThms.pdf" target="_blank">Theorems with group actions on finite groups</a>. It is good and helpful to know the proofs of these, or at least to memorize the main tools used in the proofs. 
+* <a href="/assets/pdf/RingTheory.pdf" target="_blank">Ring theory</a>. This has a lot of useful theorems and proofs, some of which have appeared on past prelims, but this is not exhaustive of all the ring theory material. 
 
 
 <!--
