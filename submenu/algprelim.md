@@ -19,8 +19,8 @@ For general information on how to study for prelims, you can read [this](https:/
 * Session two, <a href="/assets/pdf/AlgAug2020.pdf" target="_blank">notes1</a> ([Aug. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/11/aug2020alg.pdf)), <a href="/assets/pdf/AlgJan2020.pdf" target="_blank">notes2</a> ([Jan. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/05/jan2020alg.pdf))
 * Session three, <a href="/assets/pdf/AlgAug2019.pdf" target="_blank">notes</a> ([Aug. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2019/08/aug2019alg.pdf))
 * Session four, ([Jan. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2019/07/jan2019alg.pdf)), ([Aug. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2018alg.pdf))
-* Session five
-* Session six
+* Session five, ([Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/jan2018alg.pdf))
+* Session six, ([Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2017alg.pdf)), ([Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/jan2017alg.pdf))
 
 
 **Here are some random notes of things that were helpful for me when I was studying:**
