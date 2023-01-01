@@ -17,7 +17,7 @@ nav: true
 **In Preparation:**
 
 **Undergraduate honors thesis:**
-1. Asimina Hamakiotes, *The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings*, Baruch College CUNY Library (2020), https://academicworks.cuny.edu/bb etds/99/.
+1. Asimina Hamakiotes, *The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings*, Baruch College CUNY Library (2020), https://academicworks.cuny.edu/bbetds/99/.
 
 <!--
 <div class="publications">
