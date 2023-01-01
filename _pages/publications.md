@@ -7,6 +7,14 @@ years: [2021, 2020]
 nav: true
 ---
 <!-- _pages/publications.md -->
+
+**Publications:**
+
+**Submitted:**
+
+**In Preparation:**
+
+<!--
 <div class="publications">
 
 {%- for y in page.years %}
@@ -15,3 +23,4 @@ nav: true
 {% endfor %}
 
 </div>
+-->
