@@ -23,10 +23,12 @@ For general information on how to study for prelims, you can read [this](https:/
 * Session six, ([Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/jan2018alg.pdf)), ([Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2017alg.pdf))
 
 
+
 **Here are some random notes of things that were helpful for me when I was studying:**
 * <a href="/assets/pdf/GeneralNotes.pdf" target="_blank">General (brief) overview</a>. This has most, but not all, important definitions and theorems. 
 * <a href="/assets/pdf/GpActionThms.pdf" target="_blank">Theorems with group actions on finite groups</a>. It is good and helpful to know the proofs of these, or at least to memorize the main tools used in the proofs. 
 * <a href="/assets/pdf/RingTheory.pdf" target="_blank">Ring theory</a>. This has a lot of useful theorems and proofs, some of which have appeared on past prelims, but this is not exhaustive of all the ring theory material. 
+* <a href="/assets/pdf/LinAlgProblems.pdf" target="_blank">Ring theory</a>. This has linear algebra problems/solutions from past homeworks and exams from when I took the course. 
 
 
 <!--
