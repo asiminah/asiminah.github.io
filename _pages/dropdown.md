@@ -9,6 +9,8 @@ children:
       permalink: /appliedlinalg/
     - title: Algebra Prelim
       permalink: /algprelim/
+    - title: Blog
+      permalink: /blog/
     - title: Resources
       permalink: /resources/
       
