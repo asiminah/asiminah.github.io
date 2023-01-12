@@ -42,7 +42,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 (All grades and assignments will be posted on HuskyCT.) 
 
-**Worksheets:** Worksheets will be posted on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due by the beginning of class on Tuesday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. You should be able to finish the worksheets in the allotted class time, but if not then you will also have the weekend to work on them. 
+**Worksheets:** Worksheets will be posted and due on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT by the beginning of class, 3:30pm, on Tuesday of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day. You should be able to finish the worksheets in the allotted class time, but if not then you will also have the weekend to work on them. All worksheets should be scanned together into one PDF and uploaded to HuskyCT before the beginning of class on Tuesday's.
 
 **Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. Homework is due 11:59pm on Monday of the following week. The homeworks will be light and are just meant to make sure you are understanding the exercises you are doing in class and to help you prepare for the quiz. 
 
