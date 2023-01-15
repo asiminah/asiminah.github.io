@@ -46,7 +46,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. Homework is due 11:59pm on Monday of the following week. The homeworks will be light and are just meant to make sure you are understanding the exercises you are doing in class and to help you prepare for the quiz. 
 
-**Quizzes:** There will be weekly quizzes in the beginning of every class on Tuesday. Each quiz will be on the previous weeks material, so each quiz will be on the material that was covered on the worksheets and homework due the previous night.  
+**Quizzes:** There will be weekly quizzes in the beginning of every class on Tuesday. Each quiz will be on the previous weeks material, so each quiz will be on the material that was covered on the worksheets and homework due the previous night. Each quiz will consist of two problems and will take place in the first 10 minutes of class. Quizzes will be graded out of 10 points. 
 
 **Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. We will also have review sessions in class on the Tuesday before the exam. 
 
