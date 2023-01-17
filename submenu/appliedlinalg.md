@@ -16,7 +16,7 @@ nav: false
 
 **Class:** Tuesdays and Thursdays at 3:30-4:45PM in FSB 102. 
 
-**Office hours:** TBD.
+**Office hours:** Tuesdays and Thursdays at 2:15-3:15PM on webex. You can access my webex link through HuskyCT. 
 
 
 ### Class structure
