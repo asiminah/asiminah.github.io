@@ -10,6 +10,8 @@ nav: true
 **Upcoming:**
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 * [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
+* [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
+* [UConn Math Club](https://events.uconn.edu/event/94102/2022-10-05) (Speaker), Feb. 22, 2023
 * [Arizona Winter School 2023](https://swc-math.github.io/), March 4 - 8, 2023
 
 
