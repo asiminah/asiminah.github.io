@@ -13,6 +13,7 @@ nav: true
 * [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
 * [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
 * [Arizona Winter School 2023](https://swc-math.github.io/), March 4 - 8, 2023
+* [unQVNTS](https://www.uvm.edu/~unqvnts/#0305) at UVM (Speaker), March 30, 2023
 
 
 **Past:**
