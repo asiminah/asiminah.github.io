@@ -7,8 +7,10 @@ nav: true
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
-**Upcoming:**
+
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
+
+**Upcoming:**
 * [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
 * [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
 * [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
