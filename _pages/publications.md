@@ -13,7 +13,8 @@ nav: true
 **Submitted:**
 
 **In Preparation:** 
-1. Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule*. 
+1. Eduardo Due\~nez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule*. 
+2. John Cullinan, Asimina S. Hamakiotes and Gabrielle Scullard, *Computing the proportion of sneaky primes for pairs of elliptic curves*. 
 
 **Undergraduate honors thesis:**
 1. Asimina S. Hamakiotes, *The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings*, Baruch College CUNY Library (2020) ([academicworks](https://academicworks.cuny.edu/bb_etds/99/)).
