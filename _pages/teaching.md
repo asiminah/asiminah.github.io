@@ -16,6 +16,7 @@ nav: true
 * Fall 2020: MATH 1131Q Calculus I (TA)
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
+* Spring 2023: Sarah Hocutt, project on mathematical cryptography (in progress)
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
 
 **[Prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/) tutored at UConn:**
