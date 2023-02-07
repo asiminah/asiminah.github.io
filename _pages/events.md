@@ -11,7 +11,6 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
 * [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
 * [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
 * [Arizona Winter School 2023](https://swc-math.github.io/), March 4 - 8, 2023
@@ -19,6 +18,7 @@ nav: true
 
 
 **Past:**
+* [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
 * [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 * [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
