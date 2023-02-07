@@ -13,7 +13,7 @@ nav: true
 **Submitted:**
 
 **In Preparation:** 
-1. Eduardo Due$\~n$ez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule*. 
+1. Eduardo Due$$\~n$$ez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule*. 
 2. John Cullinan, Asimina S. Hamakiotes and Gabrielle Scullard, *Computing the proportion of sneaky primes for pairs of elliptic curves*. 
 
 **Undergraduate honors thesis:**
