@@ -11,4 +11,6 @@ I occasionally give talks to the [UConn Math Club](https://mathclub.math.uconn.e
 I helped organize the [Mathematics Continued Conference (MCC)](https://mcc.math.uconn.edu/) in fall 2022. The MCC is a one-day conference aimed to give undergrads interested in math an idea of what grad school is like and to showcase some current (accessible) math research done by grad students and faculty members. There is also a poster session for undergrads to display their research. There is also a panel discussion led by grad students with varying backgrounds (different years, different fields, international students, Masters students, PhD students) on what the transition to grad school is like and they offer insight on the application process. 
 
 
-I am a mentor in the [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/) at UConn. In spring 2022, I mentored a student through reading an undergraduate text on elliptic curves. 
+I am a mentor in the [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/) at UConn. 
+* In Spring 2023, I mentored a student through reading "An Introduction to Mathematical Cryptography", by Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman.
+* In spring 2022, I mentored a student through reading "Elliptic Curves, Modular Forms, and Their L-Functions", by Álvaro Lozano-Robledo. 
