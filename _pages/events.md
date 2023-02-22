@@ -11,13 +11,13 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
-* [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
 * [Arizona Winter School 2023](https://swc-math.github.io/), March 4 - 8, 2023
 * [unQVNTS at UVM](https://www.uvm.edu/~unqvnts/#0305) (Speaker), March 30, 2023
 
 
 **Past:**
+* [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
+* [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
 * [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
 * [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
