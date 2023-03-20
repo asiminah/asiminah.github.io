@@ -50,7 +50,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. We will also have review sessions in class on the Tuesday before the exam. 
 
-**Final exam:** The final exam will be cummulative and during finals week. Date TBD. No make-ups will be given unless for a reason approved by the Dean of Students. 
+**Final exam:** The final exam will be cummulative and during finals week. The final exam is on Thursday, 5/4/23 from 1:00-3:00PM in FSB 102. No make-ups will be given unless for a reason approved by the Dean of Students. 
 
 
 
