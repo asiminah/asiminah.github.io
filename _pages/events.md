@@ -11,9 +11,10 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [Women In Numbers 6 (WIN6)](https://www.birs.ca/events/2023/5-day-workshops/23w5175), March 26 - 31, 2023 
 * [unQVNTS at UVM](https://www.uvm.edu/~unqvnts/#0305) (Speaker), March 30, 2023
-
+* [Women In Numbers 6 (WIN6)](https://www.birs.ca/events/2023/5-day-workshops/23w5175), March 26 - 31, 2023 
+* [Arithmetic Statistics Research School](https://conferences.cirm-math.fr/2679.html), March 8 - 12, 2023
+* [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html), March 15 - 19, 2023
 
 
 **Past:**
