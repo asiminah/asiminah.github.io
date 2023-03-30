@@ -11,13 +11,13 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [unQVNTS at UVM](https://www.uvm.edu/~unqvnts/#0305) (Speaker), March 30, 2023
 * [Women In Numbers 6 (WIN6)](https://www.birs.ca/events/2023/5-day-workshops/23w5175), March 26 - 31, 2023 
 * [Arithmetic Statistics Research School](https://conferences.cirm-math.fr/2679.html), March 8 - 12, 2023
 * [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html), March 15 - 19, 2023
 
 
 **Past:**
+* [unQVNTS at UVM](https://www.uvm.edu/~unqvnts/#0305) (Speaker), March 30, 2023
 * [Arizona Winter School 2023](https://swc-math.github.io/), March 4 - 8, 2023
 * [UConn Math Club](https://events.uconn.edu/event/97248/2023-02-22) (Speaker), Feb. 22, 2023
 * [UConn SIGMA Seminar](https://math.uconn.edu/research/sigma-seminar/) (Speaker), Feb. 17, 2023
