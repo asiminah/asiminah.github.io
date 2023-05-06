@@ -11,8 +11,9 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [Arithmetic Statistics Research School](https://conferences.cirm-math.fr/2679.html), March 8 - 12, 2023
-* [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html), March 15 - 19, 2023
+* [Arithmetic Statistics Research School](https://conferences.cirm-math.fr/2679.html) at CIRM, March 8 - 12, 2023
+* [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html) at CIRM, March 15 - 19, 2023
+* [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM, July 10 - 14, 2023
 
 
 **Past:**
