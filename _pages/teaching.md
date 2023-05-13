@@ -10,11 +10,11 @@ nav: true
 **Courses:**
 * Fall 2023: MATH 1071Q Calculus for Business and Economics (Instructor)
 * Spring 2023: [MATH 2210Q Applied Linear Algebra](https://asiminah.github.io/appliedlinalg/) (Instructor)
-* Fall 2022: MATH 1020Q Problem Solving (Instructor)
-* Spring 2022: MATH 1132Q Calculus II (TA)
+* Fall 2022: [MATH 1020Q Problem Solving](https://courses.math.uconn.edu/fall2022/math-1020/) (Instructor)
+* Spring 2022: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2022/math-1132/) (TA)
 * Fall 2021: MATH 1132Q Calculus II Honors (TA)
 * Spring 2021: MATH 1132Q Calculus II (TA)
-* Fall 2020: MATH 1131Q Calculus I (TA)
+* Fall 2020: [MATH 1131Q Calculus I](https://courses.math.uconn.edu/fall2020/math-1131/) (TA)
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
 * Spring 2023: Sarah Hocutt, project on mathematical cryptography (in progress)
