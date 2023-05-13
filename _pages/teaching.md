@@ -12,7 +12,7 @@ nav: true
 * Spring 2023: [MATH 2210Q Applied Linear Algebra](https://asiminah.github.io/appliedlinalg/) (Instructor)
 * Fall 2022: [MATH 1020Q Problem Solving](https://courses.math.uconn.edu/fall2022/math-1020/) (Instructor)
 * Spring 2022: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2022/math-1132/) (TA)
-* Fall 2021: MATH 1132Q Calculus II Honors (TA)
+* Fall 2021: [MATH 1132Q Calculus II Honors](https://courses.math.uconn.edu/fall2021/math-1132/) (TA)
 * Spring 2021: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2021/math-1132/) (TA)
 * Fall 2020: [MATH 1131Q Calculus I](https://courses.math.uconn.edu/fall2020/math-1131/) (TA)
 
