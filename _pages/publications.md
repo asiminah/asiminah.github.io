@@ -7,7 +7,7 @@ nav: true
 ---
 
 **Publications:**
-3. Asimina S. Hamakiotes, Aaron Kriegman, and Wei-Lun Tsai, *Asymptotic Distribution of the Partition Crank*, Ramanujan Journal, Vol. 56 (2021), 803–820 ([arxiv](https://arxiv.org/abs/1909.12806)).
+1. Asimina S. Hamakiotes, Aaron Kriegman, and Wei-Lun Tsai, *Asymptotic Distribution of the Partition Crank*, Ramanujan Journal, Vol. 56 (2021), 803–820 ([arxiv](https://arxiv.org/abs/1909.12806)).
 2. Michael Allen, Nicholas Anderson, Asimina S. Hamakiotes, Ben Oltsik, and Holly Swisher, *Eta-quotients of prime or semiprime level and elliptic curves*, Involve, Vol. 13, No. 5 (2020), 879-900 ([arxiv](https://arxiv.org/abs/1901.10511)).
 
 <!--**Submitted:**-->
