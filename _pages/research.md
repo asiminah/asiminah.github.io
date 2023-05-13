@@ -8,7 +8,7 @@ nav: true
 
 My research interests are in arithmetic geometry and algebraic number theory. I am interested in studying elliptic curves and Galois representations. My advisor is [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/). 
 
-In the summer of 2022, I participated in the [Rethinking Number Theory 3 Workshop](https://sites.google.com/view/rethinkingnumbertheory-3/home?authuser=0). Let $$E$$ and $$E'$$ be $$2$$-isogenous elliptic curves defined over $$\mathbb{Q}$$. For our project, we were interested in studying the proportion of primes $$p$$ for which $$E(\mathbb{F}_p)\cong E'(\mathbb{F}_p)$$ and 
+In the summer of 2022, I participated in the [Rethinking Number Theory 3 Workshop](https://sites.google.com/view/rethinkingnumbertheory-3/home?authuser=0). Let $$E$$ and $$E'$$ be $$2$$-isogenous elliptic curves defined over $$\mathbb{Q}$$. For our project, we were interested in studying the proportion of primes $$p$$ for which $$E(\mathbb{F}_p)\cong E'(\mathbb{F}_p)$$ and $$E$$ 
 
 <!--I am currently working on computing the proportion of sneaky primes for pairs of elliptic curves (both non-CM and CM) with [John Cullinan](http://faculty.bard.edu/cullinan/about.html) and [Gabrielle Scullard](https://science.psu.edu/math/people/gns49).  -->
 
