@@ -11,7 +11,7 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM, July 10 - 14, 2023
+* [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM (Speaker), July 10 - 14, 2023
 
 
 **Past:**
