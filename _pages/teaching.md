@@ -21,7 +21,9 @@ nav: true
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
 
 **[Prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/) tutored at UConn:**
-* Winter 2022: [Algebra prelim](https://asiminah.github.io/algprelim/)
+* Summer 2023: [Algebra prelim](https://asiminah.github.io/algprelim/)
+* Winter 2022: Algebra prelim
+  
 
 **MATH 3710 Mathematical Modeling:**
 
