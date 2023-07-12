@@ -6,7 +6,7 @@ description: This page is intended as a resource for the PhD students at UConn t
 nav: false
 ---
 
-I am the algebra prelim tutor for winter 2022! 
+I am the algebra prelim tutor for summer 2023! (I was also the algebra prelim tutor for winter 2022). 
 
 A good first place to start studying is [UConn's past algebra prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/). Another good resource is Jeremy Teitelbaum's [course webage](https://jeremy9959.net/Math-5210/overview.html). 
 
