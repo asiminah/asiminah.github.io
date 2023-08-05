@@ -14,7 +14,7 @@ Although the course text that is always recommended for this prelim and used in 
 
 For general information on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
-**Here are the notes from the tutoring sessions:**
+**Here are the notes from the Winter tutoring sessions:**
 * Session one, <a href="/assets/pdf/AlgPrelim/AlgJan2021.pdf" target="_blank">notes</a> ([Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2021/05/jan2021alg.pdf))
 * Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2020.pdf" target="_blank">notes1</a> ([Aug. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/11/aug2020alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgJan2020.pdf" target="_blank">notes2</a> ([Jan. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/05/jan2020alg.pdf))
 * Session three, <a href="/assets/pdf/AlgPrelim/AlgAug2019.pdf" target="_blank">notes</a> ([Aug. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2019/08/aug2019alg.pdf))
@@ -22,6 +22,10 @@ For general information on how to study for prelims, you can read [this](https:/
 * Session five, <a href="/assets/pdf/AlgPrelim/AlgAug2018.pdf" target="_blank">notes</a> ([Aug. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2018alg.pdf)) 
 * Session six, <a href="/assets/pdf/AlgPrelim/AlgJan2018.pdf" target="_blank">notes1</a> ([Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/jan2018alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgAug2017.pdf" target="_blank">notes2</a> ([Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2017alg.pdf))
 
+**Here are the notes from the Summer tutoring sessions:**
+* Session one, <a href="/assets/pdf/AlgPrelim/AlgJan2017.pdf" target="_blank">notes</a> ([Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2017alg.pdf))
+* Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2016.pdf" target="_blank">notes</a> ([Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2016alg.pdf))
+* Session three, [Jan. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2016alg.pdf)
 
 
 **Here are some random notes of things that were helpful for me when I was studying:**
