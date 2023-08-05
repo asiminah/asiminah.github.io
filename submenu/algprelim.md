@@ -24,7 +24,7 @@ For general information on how to study for prelims, you can read [this](https:/
 
 **Here are the notes from the Summer tutoring sessions:**
 * Session one, <a href="/assets/pdf/AlgPrelim/AlgJan2017.pdf" target="_blank">notes</a> ([Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2017alg.pdf))
-* Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2016.pdf" target="_blank">notes</a> ([Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2016alg.pdf))
+* Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2016.pdf" target="_blank">notes</a> ([Aug. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2016alg.pdf))
 * Session three, [Jan. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2016alg.pdf)
 
 
