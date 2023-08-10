@@ -11,6 +11,7 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
+* UConn Math Club (Speaker), Sept. 20, 2023
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme), Sept. 30 - Oct. 1, 2023
 
 **Past:**
