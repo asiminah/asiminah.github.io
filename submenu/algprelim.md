@@ -29,7 +29,7 @@ For general information on how to study for prelims, you can read [this](https:/
 * Session three, <a href="/assets/pdf/AlgPrelim/AlgJan2016.pdf" target="_blank">notes</a> ([Jan. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2016alg.pdf))
 * Session four, <a href="/assets/pdf/AlgPrelim/AlgJan2010.pdf" target="_blank">notes</a> ([Jan. 2010 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2010alg.pdf))
 * Session five, <a href="/assets/pdf/AlgPrelim/AlgJan2012.pdf" target="_blank">notes</a> ([Jan. 2012 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2012alg.pdf))
-* Session six, ([Jan. 2011 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2011alg.pdf))
+* Session six, <a href="/assets/pdf/AlgPrelim/AlgJan2011.pdf" target="_blank">notes</a> ([Jan. 2011 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2011alg.pdf))
 
 
 **Here are some random notes of things that were helpful for me when I was studying:**
