@@ -14,7 +14,7 @@ nav: true
 * UConn SIGMA Seminar (Speaker), Sept. 15, 2023
 * UConn Math Club (Speaker), Sept. 20, 2023
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme), Sept. 30 - Oct. 1, 2023
-* University of Washington Number Theory Seminar, Jan. 23, 2024
+* University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 
 **Past:**
 * [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM (Speaker), July 10 - 14, 2023
