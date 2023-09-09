@@ -8,7 +8,7 @@ nav: false
 
 I have not been the complex analysis prelim tutor before, but I have taken the complex analysis prelim. Here I have shared all of my past prelim solutions from when I was studying. Hopefully this will be helpful to all of you who are studying for this prelim. 
 
-A good first place to start studying is [UConn's past geometry and topology prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/). For the course, we used *Topology* by James Munkres, and we used other sources for some of the algebraic topology material we covered. For general information or advice on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
+A good first place to start studying is [UConn's past complex analysis prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/). For general information or advice on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Past prelims:**
 * [Aug. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/10/aug2021geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2021.pdf" target="_blank">solutions</a>
