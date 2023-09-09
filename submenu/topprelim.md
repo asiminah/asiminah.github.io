@@ -28,6 +28,10 @@ A good first place to start studying is [UConn's past geometry and topology prel
 * [Jan. 2014 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2014geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2014.pdf" target="_blank">solutions</a>
 * [Aug. 2013 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2013geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2013.pdf" target="_blank">solutions</a>
 
+**Past homeworks:**
+
+**Past midterms:**
+
 
 <!--
 <a href="/assets/pdf/HamakiotesCV.pdf" target="_blank">Open PDF to see all Pages</a>
