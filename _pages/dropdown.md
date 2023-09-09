@@ -5,6 +5,10 @@ nav: true
 nav_order: 3
 dropdown: true
 children: 
+    - title: Blog
+      permalink: /blog/
+    - title: Resources
+      permalink: /resources/
     - title: MATH 2210Q
       permalink: /appliedlinalg/
     - title: Algebra Prelim
@@ -13,10 +17,7 @@ children:
       permalink: /topprelim/
     - title: Complex Prelim
       permalink: /cpxprelim/
-    - title: Blog
-      permalink: /blog/
-    - title: Resources
-      permalink: /resources/
+    
       
     #- title: Number Theory
     #  permalink: /numth/
