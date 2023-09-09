@@ -13,7 +13,9 @@ A good first place to start studying is [UConn's past algebra prelims](https://m
 For general information on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Past prelims:**
-* [Aug. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/10/aug2021geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2021.pdf" target="_blank">solutions</a> 
+* [Aug. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/10/aug2021geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2021.pdf" target="_blank">solutions</a>
+* [Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/05/jan2021geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2021.pdf" target="_blank">solutions</a>
+* [Aug. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2020/11/aug2020geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2020.pdf" target="_blank">solutions</a> 
 
 <!--
 <a href="/assets/pdf/HamakiotesCV.pdf" target="_blank">Open PDF to see all Pages</a>
