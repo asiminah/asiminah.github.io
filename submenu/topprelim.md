@@ -27,6 +27,8 @@ For general information on how to study for prelims, you can read [this](https:/
 * [Jan. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2016geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2016.pdf" target="_blank">solutions</a>
 * [Aug. 2015 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2015geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2015.pdf" target="_blank">solutions</a>
 * [Jan. 2015 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2015geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2015.pdf" target="_blank">solutions</a>
+* [Jan. 2014 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2014geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2014.pdf" target="_blank">solutions</a>
+* [Aug. 2013 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2013geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2013.pdf" target="_blank">solutions</a>
 
 
 <!--
