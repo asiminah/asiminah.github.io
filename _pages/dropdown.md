@@ -11,6 +11,8 @@ children:
       permalink: /algprelim/
     - title: Topology Prelim
       permalink: /topprelim/
+    - title: Complex Prelim
+      permalink: /cpxprelim/
     - title: Blog
       permalink: /blog/
     - title: Resources
