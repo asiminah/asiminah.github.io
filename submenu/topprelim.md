@@ -28,10 +28,19 @@ A good first place to start studying is [UConn's past geometry and topology prel
 * [Jan. 2014 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2014geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopJan2014.pdf" target="_blank">solutions</a>
 * [Aug. 2013 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2013geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2013.pdf" target="_blank">solutions</a>
 
+Here I have included past homeworks and midterms from when I took the course, but these are essentially just a collection of past prelim problems. 
+
 **Past homeworks:**
+* <a href="/assets/pdf/TopPrelim/TopHW1.pdf" target="_blank">Homework 1</a>
+* <a href="/assets/pdf/TopPrelim/TopHW2.pdf" target="_blank">Homework 2</a>
+* <a href="/assets/pdf/TopPrelim/TopHW3.pdf" target="_blank">Homework 3</a>
+* <a href="/assets/pdf/TopPrelim/TopHW4.pdf" target="_blank">Homework 4</a>
+* <a href="/assets/pdf/TopPrelim/TopHW5.pdf" target="_blank">Homework 5</a>
+* <a href="/assets/pdf/TopPrelim/TopHW6.pdf" target="_blank">Homework 6</a>
 
 **Past midterms:**
-
+* <a href="/assets/pdf/TopPrelim/TopMidterm1.pdf" target="_blank">Midterm 1</a>
+* <a href="/assets/pdf/TopPrelim/TopMidterm2.pdf" target="_blank">Midterm 2</a>
 
 <!--
 <a href="/assets/pdf/HamakiotesCV.pdf" target="_blank">Open PDF to see all Pages</a>
