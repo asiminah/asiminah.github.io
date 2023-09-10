@@ -11,7 +11,8 @@ I have not been the complex analysis prelim tutor before, but I have taken the c
 A good first place to start studying is [UConn's past complex analysis prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/). For general information or advice on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Past prelims:**
-* [Aug. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/10/aug2021geomtop.pdf) , <a href="/assets/pdf/TopPrelim/TopAug2021.pdf" target="_blank">solutions</a>
+* [Aug. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/10/aug2021cpx.pdf) , <a href="/assets/pdf/CpxPrelim/TopCpx2021.pdf" target="_blank">solutions</a>
+* [Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/05/jan2021cpx.pdf) , <a href="/assets/pdf/CpxPrelim/TopCpx2021.pdf" target="_blank">solutions</a>
 
 
 
