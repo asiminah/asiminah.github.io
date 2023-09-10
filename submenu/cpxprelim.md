@@ -21,6 +21,12 @@ A good first place to start studying is [UConn's past complex analysis prelims](
 * [Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2018cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxJan2018.pdf" target="_blank">solutions</a>
 * [Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2017cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxAug2017.pdf" target="_blank">solutions</a>
 * [Jan. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2017cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxJan2017.pdf" target="_blank">solutions</a>
+* [Aug. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2016cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxAug2016.pdf" target="_blank">solutions</a>
+* [Jan. 2016 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2016cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxJan2016.pdf" target="_blank">solutions</a>
+* [Jan. 2015 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2015cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxJan2015.pdf" target="_blank">solutions</a>
+* [Jan. 2014 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2014cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxJan2014.pdf" target="_blank">solutions</a>
+* [Aug. 2010 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2010cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxAug2010.pdf" target="_blank">solutions</a>
+* [Aug. 2005 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2005cpx.pdf) , <a href="/assets/pdf/CpxPrelim/CpxAug2005.pdf" target="_blank">solutions</a>
 
 
 
