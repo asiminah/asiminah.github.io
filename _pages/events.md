@@ -30,7 +30,7 @@ nav: true
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 * [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
 * [2022 Québec-Maine Number Theory Conference](https://archimede.mat.ulaval.ca/QUEBEC-MAINE/22/qm22.html) (Speaker), Oct. 15 - 16, 2022
-* [UConn Math Club](https://events.uconn.edu/event/94102/2022-10-05) (Speaker), Oct. 5, 2022
+* [UConn Math Club](https://events.uconn.edu/math-club/event/35959-math-clubcomputationally-hard-problems-and-their) (Speaker), Oct. 5, 2022
 * [AMS Fall Eastern Sectional Meeting](http://www.ams.org/meetings/sectional/2301_program.html) (Attending), Oct. 1, 2022
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/35607-sigma-seminarcomputing-the-proportion-of-sneaky) (Speaker), Sept. 30, 2022
 * [PAlmetto Number Theory Series (PANTS) XXXIV](https://webpages.charlotte.edu/aroy15/PANTS34/?fbclid=IwAR1LVh0wql_GhT_eP2o9ReMlVeU8zejGInVvAVG8mRLU6kwjt-R6SzIGqCs#) (Speaker), Sept. 24 - 25, 2022
