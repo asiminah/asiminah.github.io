@@ -12,7 +12,7 @@ nav: true
 
 **Upcoming:**
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/52069-sigma-seminar-frequently-asked-questions-on-quant-inte) (Speaker), Sept. 15, 2023
-* UConn Math Club (Speaker), Sept. 20, 2023
+* [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme), Sept. 30 - Oct. 1, 2023
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 
