@@ -11,11 +11,11 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme), Sept. 30 - Oct. 1, 2023
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 
 **Past:**
+* [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/52069-sigma-seminar-frequently-asked-questions-on-quant-inte) (Speaker), Sept. 15, 2023
 * [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM (Speaker), July 10 - 14, 2023
 * [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html) at CIRM, March 15 - 19, 2023
