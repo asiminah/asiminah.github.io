@@ -11,7 +11,7 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023
+<!-- * Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023 -->
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 
 **Past:**
