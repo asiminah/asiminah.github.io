@@ -6,7 +6,7 @@ description: Outreach is an important part of spreading mathematics and I am try
 nav: true
 ---
 
-I occasionally give talks to the [UConn Math Club](https://mathclub.math.uconn.edu/) for undergrads. I have also been on panels about applying to Research Experiences for Undergraduates (REUs) and applying to grad school. 
+I give talks to the [UConn Math Club](https://mathclub.math.uconn.edu/) for undergrads once a semester. I have also been on panels about applying to Research Experiences for Undergraduates (REUs) and applying to grad school. 
 * In Fall 2023, I gave a talk on the "Infinitude of the Primes".
 * In Spring 2023, I gave a talk on "Sums of Powers by L'Hopital's Rule". 
 * In Fall 2022, I gave a talk on "Computationally Hard Problems and Their Uses in Cryptography". 
