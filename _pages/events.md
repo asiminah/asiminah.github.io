@@ -12,6 +12,7 @@ nav: true
 
 **Upcoming:**
 <!-- * Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023 -->
+* <a href="/assets/pdf/OralExam.pdf" target="_blank">Oral exam</a>, Oct. 16, 2023
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 
 **Past:**
