@@ -13,7 +13,9 @@ nav: true
 **Upcoming:**
 <!-- * Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023 -->
 <!-- * <a href="/assets/pdf/OralExam.pdf" target="_blank">Oral exam</a>, Oct. 16, 2023 -->
+* UConn Algebra Seminar (Speaker), Jan. 17, 2024
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
+* UConn SIGMA Seminar (Speaker), Feb. 16, 2024
 
 **Past:**
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme), Sept. 30 - Oct. 1, 2023
