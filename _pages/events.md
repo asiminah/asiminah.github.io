@@ -16,6 +16,7 @@ nav: true
 * UConn Algebra Seminar (Speaker), Jan. 17, 2024
 * University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
+* Joint Columbia-CUNY-NYU Number Theory Seminar (Speaker), March 7, 2024
 
 **Past:**
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
