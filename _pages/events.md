@@ -14,7 +14,7 @@ nav: true
 <!-- * Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023 -->
 <!-- * <a href="/assets/pdf/OralExam.pdf" target="_blank">Oral exam</a>, Oct. 16, 2023 -->
 * UConn Algebra Seminar (Speaker), Jan. 17, 2024
-* University of Washington Number Theory Seminar (Speaker), Jan. 23, 2024
+* [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
 * Joint Columbia-CUNY-NYU Number Theory Seminar (Speaker), March 7, 2024
