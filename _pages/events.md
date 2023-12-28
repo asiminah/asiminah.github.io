@@ -17,7 +17,7 @@ nav: true
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
-* Joint Columbia-CUNY-NYU Number Theory Seminar (Speaker), March 7, 2024
+* [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
 
 **Past:**
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
