@@ -11,6 +11,8 @@ children:
       permalink: /resources/
     - title: MATH 2210Q
       permalink: /appliedlinalg/
+    - title: MATH 2705W
+      permalink: /techwritingmath/
     - title: Algebra Prelim
       permalink: /algprelim/
     - title: Topology Prelim
