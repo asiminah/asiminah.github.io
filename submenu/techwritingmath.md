@@ -60,7 +60,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 | Week  |      | Date    |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 1     |      | 1/15    |      |  Our class does not meet  | 
+| 1     |      | 1/15    |      |  - Our class does not meet this week | 
 | 2     |      | 1/22    |      |  - The importance of mathematical communication through formal writing  |  
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
 | 3     |      | 1/29    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
@@ -73,7 +73,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 |       |      |         |      |  - Good examples of mathematical writing                                 | 
 | 7     |      | 2/26    |      |  - Feedback and discussion on Assignment 2                               |  
 | 8     |      | 3/4     |      |  - Including graphics, images, tables, graphs, etc.                      |    
-|   |      | 3/10 - 3/16 |      |  Spring Recess                                                           |  
+|   |      | 3/10 - 3/16 |      |  - Spring Recess                                                         |  
 | 9     |      | 3/18    |      |  - Feedback and discussion on Assignment 3                               | 
 | 10    |      | 3/25    |      |  - Using formulas and equations in a proof and mathematical paper        |   
 |       |      |         |      |  - The role of examples                                                  |   
