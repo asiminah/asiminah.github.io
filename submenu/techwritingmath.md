@@ -58,12 +58,12 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 ### Class schedule
 
-| Week  |      | Lecture |      | Topic                                       | 
-| :---: | :--: | :---:   | :--: | :---                                        | 
-| 1/17  |      |  1.1    |      |  Intro to Linear Alg & Systems of Eqns.     |  
-|       |      |  1.2    |      |  Row Reduction & Echelon Forms              | 
-| 1/19  |      |  1.3    |      |  Vector Equations                           | 
-| 1/24  |      |  1.4    |      |  Matrix Equations                           | 
+| Week  |      | Date    |      | Topic                                                                   | 
+| :---: | :--: | :---:   | :--: | :---                                                                    | 
+| 1     |      | 1/15    |      |  - The importance of mathematical communication through formal writing  |  
+|       |      |         |      |  - Using $$\LaTeX$$                                                     | 
+| 2     |      | 1/22    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
+|       |      |         |      |  - Arranging mathematical ideas using these structures and typesetting them     | 
 |       |      |  1.5    |      |  Solution Sets of Linear Systems            |   
 | 1/26  |      |  1.7    |      |  Linear Independence                        |
 | 1/31  |      |  1.8    |      |  Linear Transformations                     | 
