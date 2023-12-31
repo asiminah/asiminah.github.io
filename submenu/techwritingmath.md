@@ -24,11 +24,12 @@ nav: false
 
 **Learning Objectives:**
 1. Write about mathematics clearly, using correct grammar, in a well-organized manner.
-2. Discuss mathematical ideas and results in a clear and concise manner that is understood by others.
-3. Understand your audience: who is the reader of your mathematical piece?
-4. Explain a proof in a manner that is easily understood by a reader.
-5. Use clear and appropriate examples to explain ideas and illustrate points.
-6. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
+2. Acquire basic skills in $$\LaTeX$$. 
+3. Discuss mathematical ideas and results in a clear and concise manner that is understood by others.
+4. Understand your audience: who is the reader of your mathematical piece?
+5. Explain a proof in a manner that is easily understood by a reader.
+6. Use clear and appropriate examples to explain ideas and illustrate points.
+7. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
 
 Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which sections and topics I plan to cover each class and what the corresponding video lectures are for those sections. Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch in advance before class in order to be able to complete the worksheets. 
 
