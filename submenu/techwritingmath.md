@@ -60,28 +60,29 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 | Week  |      | Date    |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 1     |      | 1/15    |      |  - The importance of mathematical communication through formal writing  |  
+| 1     |      | 1/15    |      |  Our class does not meet  | 
+| 2     |      | 1/22    |      |  - The importance of mathematical communication through formal writing  |  
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
-| 2     |      | 1/22    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
+| 3     |      | 1/29    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
 |       |      |         |      |  - Arranging mathematical ideas using these structures and typesetting them     | 
-| 3     |      | 1/29    |      |  - Mathematical logic basics                                             |   
+| 4     |      | 2/5     |      |  - Mathematical logic basics                                             |   
 |       |      |         |      |  - Translating symbols and quantifiers into words in writing             |
 |       |      |         |      |  - A proof of the quadratic formula                                      | 
-| 4     |      | 2/5     |      |  - Feedback and discussion on Assignment 1                               |  
-| 5     |      | 2/12    |      |  - Types of proofs and examples of proofs                                |    
+| 5     |      | 2/12    |      |  - Feedback and discussion on Assignment 1                               |  
+| 6     |      | 2/19    |      |  - Types of proofs and examples of proofs                                |    
 |       |      |         |      |  - Good examples of mathematical writing                                 | 
-| 6     |      | 2/19    |      |  - Feedback and discussion on Assignment 2                               |  
-| 7     |      | 2/26    |      |  - Including graphics, images, tables, graphs, etc.                      |   
-| 8     |      | 3/4     |      |  - Feedback and discussion on Assignment 3                               |  
-|   |      | 3/10 - 3/16 |      |  Spring Recess                                                           |       
-| 9     |      | 3/18    |      |  - Using formulas and equations in a proof and mathematical paper        |   
+| 7     |      | 2/26    |      |  - Feedback and discussion on Assignment 2                               |  
+| 8     |      | 3/4     |      |  - Including graphics, images, tables, graphs, etc.                      |    
+|   |      | 3/10 - 3/16 |      |  Spring Recess                                                           |  
+| 9     |      | 3/18    |      |  - Feedback and discussion on Assignment 3                               | 
+| 10    |      | 3/25    |      |  - Using formulas and equations in a proof and mathematical paper        |   
 |       |      |         |      |  - The role of examples                                                  |   
 |       |      |         |      |  - Writing theorems and papers about theorems                            |     
-| 10    |      | 3/25    |      |  - Writing about the work of a mathematician                             |     
-| 11    |      | 4/1     |      |  - Feedback and discussion on Assignment 4                               |     
-| 12    |      | 4/8     |      |  - Feedback and discussion on Assignment 5                               |    
-| 13    |      | 4/15    |      |  - Summary of the class                                                  |    
-| 14    |      | 4/22    |      |                                   |    
+| 11    |      | 4/1     |      |  - Writing about the work of a mathematician                             |     
+| 12    |      | 4/8     |      |  - Feedback and discussion on Assignment 4                               |     
+| 13    |      | 4/15    |      |  - Feedback and discussion on Assignment 5                               |    
+| 14    |      | 4/22    |      |  - Summary of the class                                                  |    
+  
  
 
 (Spring Recess is March 12-18, 2023.)
