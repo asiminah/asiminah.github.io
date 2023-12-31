@@ -85,7 +85,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
   
  
 
-(Spring Recess is March 12-18, 2023.)
+(Spring Recess is March 10-16, 2024.)
 
 **Student conduct code:** Students are expected to conduct themselves in accordance with UConn’s [Student Conduct Code](https://community.uconn.edu/the-student-code/).
 
