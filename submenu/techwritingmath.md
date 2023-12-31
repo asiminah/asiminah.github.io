@@ -42,16 +42,16 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 | Assignment Topic |       | Minimum number of pages |        |   Due Date   |        | Weight |       |  Tasks    | 
 | :----:           | :---: |  :----:                 | :----: |    :----:    | :----: | :----: | :---: |  :----:   | 
-| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
+| 1. Irrationality of the square root of 2 |  |  2   |        | Draft: 2/9   |        |  5%    |       |           | 
 |                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
-| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
-|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
-| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           |
-|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
-| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
-|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
-| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
-|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
+| 2. Quadratic formula |   |  2                      |        | Draft: 2/23  |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 3/3   |        |  15%   |       |           | 
+| 3. Math paper with graphics |   |  3               |        | Draft: 3/8   |        |  5%    |       |           |
+|                  |       |                         |        | Final: 3/24  |        |  15%   |       |           | 
+| 4. History of mathematics |    |  4                |        | Draft: 3/29  |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 4/7   |        |  15%   |       |           | 
+| 5. Applied mathematics |    |  4                   |        | Draft: 4/12  |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 4/21  |        |  15%   |       |           | 
 
 
 (All grades and assignments will be posted on HuskyCT.) 
