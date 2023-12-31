@@ -85,8 +85,8 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 | 10    |      | 3/25    |      |  - Using formulas and equations in a proof and mathematical paper        |   
 |       |      |         |      |  - The role of examples                                                  |   
 |       |      |         |      |  - Writing theorems and papers about theorems                            |     
-| 11    |      | 4/1     |      |  - Writing about the work of a mathematician                             |     
-| 12    |      | 4/8     |      |  - Feedback and discussion on Assignment 4                               |     
+| 11    |      | 4/1     |      |  - Feedback and discussion on Assignment 4                               |     
+| 12    |      | 4/8     |      |  - Writing about the work of a mathematician                             |     
 | 13    |      | 4/15    |      |  - Feedback and discussion on Assignment 5                               |    
 | 14    |      | 4/22    |      |  - Summary of the class                                                  |    
   
