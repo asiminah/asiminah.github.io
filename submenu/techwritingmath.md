@@ -22,9 +22,9 @@ nav: false
 
 ### Class structure
 
-Class structure
 
-Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which topics I plan to cover each class and when we will be doing feedback and discussions on assignments. 
+
+Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which topics I plan to cover each class and when we will be doing "feedback and discussions on assignment" sessions. 
 
 **Learning Objectives:**
 1. Write about mathematics clearly, using correct grammar, in a well-organized manner.
