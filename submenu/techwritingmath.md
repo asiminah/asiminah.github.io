@@ -43,7 +43,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 **Assignments:**
 
 
-| Assignment Topic |       |  Tasks for assignment   |       |  Due Date   | 
+| Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
 | :----            | :---: |  :----                  | :---: | :----:      |
 | 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/9   |
 | (min. 2 pages) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 2/18  |
