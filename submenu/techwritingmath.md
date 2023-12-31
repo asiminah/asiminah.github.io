@@ -2,7 +2,7 @@
 layout: page
 permalink: /techwritingmath/
 title: MATH 2705W
-description: This is the Spring 2024 class webpage for Section 001 of MATH 2705 Technical Writing in Math at UConn.  
+description: This is the Spring 2024 class webpage for Section 001 of MATH 2705W Technical Writing in Math at UConn.  
 nav: false
 ---
 
@@ -12,7 +12,7 @@ nav: false
 
 **Prerequisites:** ENGL 1007 or 1010 or 1011 or 2011, and MATH 1132Q or 2141Q; completion of or concurrent enrollment in either MATH 2110Q, 2142Q, 2210Q, or 2410Q; open only to Mathematics majors.
 
-**Textbook:** 
+**Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class.
 
 **Class:** Mondays at 10:10-11:00AM in MONT 113. 
 
