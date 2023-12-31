@@ -22,7 +22,13 @@ nav: false
 
 ### Class structure
 
-The structure of this class might be different than what you are used to. Instead of lecturing in class and having you do homework at home, you will watch some video lectures at home and then we will mainly focus on solving problems in class. In the beginning of class, I will lecture a little bit to recap the video lectures if necessary, and then I will hand out worksheets for you to work on in groups or independently (whatever you prefer). During class, we will take breaks to discuss problems and check answers.  
+**Learning Objectives:**
+1. Write about mathematics clearly, using correct grammar, in a well-organized manner.
+2. Discuss mathematical ideas and results in a clear and concise manner that is understood by others.
+3. Understand your audience: who is the reader of your mathematical piece?
+4. Explain a proof in a manner that is easily understood by a reader.
+5. Use clear and appropriate examples to explain ideas and illustrate points.
+6. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
 
 Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which sections and topics I plan to cover each class and what the corresponding video lectures are for those sections. Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch in advance before class in order to be able to complete the worksheets. 
 
@@ -41,15 +47,11 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 (All grades and assignments will be posted on HuskyCT.) 
 
-**Worksheets:** Worksheets will be posted and due on HuskyCT. There will be a worksheet for each section we cover that consists of basic problems, which you will be working on collaboratively with others during classtime. Worksheets are due on HuskyCT on Monday at 11:59PM of the following week and are graded for completion. Solutions will be posted on HuskyCT the following day at 12AM. You should be able to finish the worksheets in the allotted class time, but if not then you will also have the weekend to work on them. All worksheets should be scanned together into one PDF and uploaded to HuskyCT by Monday night. Each worksheet will be graded out of 3 points: 3 - fully complete, 2 - mostly complete, 1 - barely complete, 0 - incomplete. 
 
 **Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. Homework is due Monday at 11:59PM of the following week. The homeworks will be light and are just meant to make sure you are understanding the exercises you are doing in class and to help you prepare for the quiz. 
 
-**Quizzes:** There will be weekly quizzes in the beginning of every class on Tuesday. Each quiz will be on the previous weeks material, so each quiz will be on the material that was covered on the worksheets and homework due the previous night. Each quiz will consist of two problems and will take place in the first 10 minutes of class. Quizzes will be graded out of 10 points. 
 
-**Midterms:** There will be two midterms. Midterm 1 is on Thur. 2/16 and Midterm 2 is on Thur. 4/6. Practice midterms and review material will be posted on HuskyCT. We will also have review sessions in class on the Tuesday before the exam. 
-
-**Final exam:** The final exam will be cummulative and during finals week. The final exam is on Thursday, 5/4/23 from 1:00-3:00PM in FSB 102. No make-ups will be given unless for a reason approved by the Dean of Students. 
+**Final exam:** There is no final exam for this course. 
 
 
 
@@ -110,13 +112,4 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 **Final Exam Policy:** In accordance with UConn policy, students are required to be available for their final exam and/or complete any assessment during the time stated. If you have a conflict with this time you must obtain official permission to schedule a make-up exam with the [Dean of Students](http://dos.uconn.edu/). If permission is granted, the Dean of Students will notify the instructor. Please note that vacations, previously purchased tickets or reservations, graduations, social events, misreading the assessment schedule, and oversleeping are not viable reasons for rescheduling a final.
 
 
-<!-- 
 
-Quizzes will be weekly (2 random homework problems)
-
-Homework will be about 10 problems per week on MyMathLab (3-4 per section we cover that week)
-
-I will do a mostly flipped classroom style. A little bit of lecture plus problem solving session/working on worksheets. 
-I will do more lecture on the days we are covering harder sections. 
-
--->
