@@ -53,7 +53,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 | (min. 3 pages) | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | | Final: 3/24  |
 | 4. History of mathematics |       |  - Write about a famous mathematician  | | Draft: 3/29  |
 | (min. 4 pages) |       |  - Discuss some of the mathematician's work  | | Final: 4/7   |  
-| 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | 4   | | Draft: 4/12  | 
+| 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | Draft: 4/12  | 
 | (min. 4 pages) |        |           |    | Final: 4/21  |
 
 
