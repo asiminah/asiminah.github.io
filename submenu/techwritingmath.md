@@ -35,10 +35,10 @@ Class structure
 
 Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which topics I plan to cover each class and when we will be doing feedback and discussions on assignments. 
 
-
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Grading:** The course grade will be composed of five assignments. The breakdown will be as follows: 
+**Assignments:**
+
 
 | Assignment Topic |       |  Tasks for assignment   |       | Min. num. of pages |        |   Due Date   | 
 | :----            | :---: |  :----                  | :---: |    :----:               | :----: | :----:       | 
@@ -57,8 +57,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 (All grades and assignments will be posted on HuskyCT.) 
 
 
-**Homework:** There will be weekly homework on MyMathLab through HuskyCT. Each homework will be on the sections covered that week. Homework is due Monday at 11:59PM of the following week. The homeworks will be light and are just meant to make sure you are understanding the exercises you are doing in class and to help you prepare for the quiz. 
-
+**Grading:** The course grade will be composed of five assignments worth 20% each. For each assignment, the draft is worth 5% and the final is worth 15%. 
 
 **Final exam:** There is no final exam for this course. 
 
