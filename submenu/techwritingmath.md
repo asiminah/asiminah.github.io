@@ -40,7 +40,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Assignments:** There will be five assignments throughout the semester. You will need to submit a draft and final draft for each assignment. Drafts will be due on Friday's (so that I have enough time to grade them over the weekend) and final drafts will be due on Sunday's (so you have more time to work on them). You will be writing a paper roughly every 2-3 weeks throughout the semester. 
+**Assignments:** There will be five assignments throughout the semester. You will need to submit a draft and final draft for each assignment. Drafts will be due on Friday's (so that I have enough time to grade them over the weekend) and final drafts will be due on Sunday's (so you have more time to work on them). You will be writing a paper roughly every 2-3 weeks throughout the semester. Here is a brief description of the assignments (more detailed information will be provided on HuskyCT): 
 
 
 | Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
