@@ -40,7 +40,7 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **Grading:** The course grade will be composed of five assignments. The breakdown will be as follows: 
 
-| Assignment Topic |       |  Tasks for assignment   |       | Minimum number of pages |        |   Due Date   | 
+| Assignment Topic |       |  Tasks for assignment   |       | Min. num. of pages |        |   Due Date   | 
 | :----            | :---: |  :----                  | :---: |    :----:               | :----: | :----:       | 
 | 1. Irrationality of the square root of 2 | |  - Learn $$\LaTeX$$ basics and elaborate on handwritten text | |  2   | | Draft: 2/9   |
 |                  | |  - Use lemmas, theorems, examples, proofs, etc. | |                    | | Final: 2/18  |
