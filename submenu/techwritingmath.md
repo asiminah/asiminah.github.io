@@ -74,22 +74,15 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 | 7     |      | 2/26    |      |  - Including graphics, images, tables, graphs, etc.                      |   
 | 8     |      | 3/4     |      |  - Feedback and discussion on Assignment 3                               |  
 |   |      | 3/10 - 3/16 |      |  Spring Recess                                                           |       
-| 3/21  |      |  5.2    |      |  Characteristic Equation                    |   
-|       |      |  5.3    |      |  Diagonalization                            |   
-| 3/23  |      |  5.4    |      |  Eigenvectors & Linear Transformations      |     
-| 3/28  |      |  6.1    |      |  Inner Product & Orthogonality              |     
-|       |      |  6.2    |      |  Orthogonal Sets                            |     
-| 3/30  |      |  6.3    |      |  Orthogonal Projections                     |    
-| 4/4   |      | 1.1-5.4 |      |  Catch-up and Review Day                    |    
-| 4/6   |      | 1.1-5.4 |      |  Midterm 2                                  |    
-| 4/11  |      |  6.4    |      |  Gram–Schmidt                               |     
-|       |      |  6.5    |      |  Least-Squares Problems                     |    
-| 4/13  |      |  7.1    |      |  Diagonalization of Symmetric Matrices      |     
-| 4/18  |      |  7.2    |      |  Quadratic Forms                            |     
-|       |      |  7.3    |      |  Constrained Optimization                   |     
-| 4/20  |      |  7.4    |      |  Singular Value Decomposition (SVD)         |     
-| 4/25  |      |         |      |  Google PageRank and/or Review Day          |     
-| 4/27  |      | 1.1-7.4 |      |  Catchup and Review Day                     |     
+| 9     |      | 3/18    |      |  - Using formulas and equations in a proof and mathematical paper        |   
+|       |      |         |      |  - The role of examples                                                  |   
+|       |      |         |      |  - Writing theorems and papers about theorems                            |     
+| 10    |      | 3/25    |      |  - Writing about the work of a mathematician                             |     
+| 11    |      | 4/1     |      |  - Feedback and discussion on Assignment 4                               |     
+| 12    |      | 4/8     |      |  - Feedback and discussion on Assignment 5                               |    
+| 13    |      | 4/15    |      |  - Summary of the class                                                  |    
+| 14    |      | 4/22    |      |                                   |    
+ 
 
 (Spring Recess is March 12-18, 2023.)
 
