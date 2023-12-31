@@ -40,18 +40,18 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 **Assignments:**
 
 
-| Assignment Topic |       |  Tasks for assignment   |       | Min. num. of pages |        |   Due Date   | 
-| :----            | :---: |  :----                  | :---: |    :----:               | :----: | :----:       | 
-| 1. Irrationality of the square root of 2 | |  - Learn $$\LaTeX$$ basics and elaborate on handwritten text | |  2   | | Draft: 2/9   |
-|                  | |  - Use lemmas, theorems, examples, proofs, etc. | |                    | | Final: 2/18  |
-| 2. Quadratic formula | |  - Statement of quadratic formula | |  2                    |        | Draft: 2/23  | 
-|                  | |  - Include examples and references   | |                          |      | Final: 3/3   |
-| 3. Math paper with graphics | |  - Write about a theorem or result where graphs and graphics play a major role | | 3 | | Draft: 3/8   |
-|                  | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | |           | | Final: 3/24  |
-| 4. History of mathematics |       |  - Write about a famous mathematician  |     |  4       | | Draft: 3/29  |
-|                  |       |  - Discuss some of the mathematician's work  | |                 | | Final: 4/7   |  
+| Assignment Topic |       |  Tasks for assignment   |       |  Due Date   | 
+| :----            | :---: |  :----                  | :---: | :----:      |
+| 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/9   |
+| (min. num. of pages: 2) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 2/18  |
+| 2. Quadratic formula | | - Statement of quadratic formula | | Draft: 2/23  | 
+| (min. num. of pages: 2) | |  - Include examples and references | | Final: 3/3   |
+| 3. Math paper with graphics | | - Write about a theorem or result where graphs and graphics play a major role | | Draft: 3/8   |
+| (min. num. of pages: 3) | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | | Final: 3/24  |
+| 4. History of mathematics |       |  - Write about a famous mathematician  | | Draft: 3/29  |
+| (min. num. of pages: 4) |       |  - Discuss some of the mathematician's work  | | Final: 4/7   |  
 | 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | 4   | | Draft: 4/12  | 
-|                  |        |           |       |                         |        | Final: 4/21  |
+| (min. num. of pages: 4) |        |           |    | Final: 4/21  |
 
 
 (All grades and assignments will be posted on HuskyCT.) 
