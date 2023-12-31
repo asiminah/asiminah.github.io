@@ -12,6 +12,15 @@ nav: false
 
 **Prerequisites:** ENGL 1007 or 1010 or 1011 or 2011, and MATH 1132Q or 2141Q; completion of or concurrent enrollment in either MATH 2110Q, 2142Q, 2210Q, or 2410Q; open only to Mathematics majors.
 
+**Learning Objectives:**
+1. Write about mathematics clearly, using correct grammar, in a well-organized manner.
+2. Acquire basic skills in $$\LaTeX$$. 
+3. Discuss mathematical ideas and results in a clear and concise manner that is understood by others.
+4. Understand your audience: who is the reader of your mathematical piece?
+5. Explain a proof in a manner that is easily understood by a reader.
+6. Use clear and appropriate examples to explain ideas and illustrate points.
+7. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
+
 **Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class.
 
 **Class:** Mondays at 10:10-11:00AM in MONT 113. 
@@ -22,28 +31,27 @@ nav: false
 
 ### Class structure
 
-**Learning Objectives:**
-1. Write about mathematics clearly, using correct grammar, in a well-organized manner.
-2. Acquire basic skills in $$\LaTeX$$. 
-3. Discuss mathematical ideas and results in a clear and concise manner that is understood by others.
-4. Understand your audience: who is the reader of your mathematical piece?
-5. Explain a proof in a manner that is easily understood by a reader.
-6. Use clear and appropriate examples to explain ideas and illustrate points.
-7. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
+Class structure
 
-Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which sections and topics I plan to cover each class and what the corresponding video lectures are for those sections. Each week we will cover about three sections of the textbook. Each section may have 1-2 corresponding video lectures that you will need to watch in advance before class in order to be able to complete the worksheets. 
+Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which topics I plan to cover each class and when we will be doing feedback and discussions on assignments. 
+
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Grading:** The course grade will be composed of worksheets, homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
+**Grading:** The course grade will be composed of five assignments. The breakdown will be as follows: 
 
-| Course Component |       | Weight    | 
-| :----:           | :---: |  :----:   |   
-| Worksheets       |       |  10%      |  
-| Homework         |       |  10%      |
-| Quizzes          |       |  15%      |
-| Midterms (2)     |       |  20%      | 
-| Final exam       |       |  25%      | 
+| Assignment Topic |       | Minimum number of pages |        |   Due Date   |        | Weight |       |  Tasks    | 
+| :----:           | :---: |  :----:                 | :----: |    :----:    | :----: | :----: | :---: |  :----:   | 
+| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
+| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
+| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           |
+|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
+| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
+| Assignment 1     |       |  2                      |        | Draft: 2/9   |        |  5%    |       |           | 
+|                  |       |                         |        | Final: 2/18  |        |  15%   |       |           | 
 
 
 (All grades and assignments will be posted on HuskyCT.) 
