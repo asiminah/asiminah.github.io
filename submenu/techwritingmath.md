@@ -64,27 +64,16 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
 | 2     |      | 1/22    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
 |       |      |         |      |  - Arranging mathematical ideas using these structures and typesetting them     | 
-|       |      |  1.5    |      |  Solution Sets of Linear Systems            |   
-| 1/26  |      |  1.7    |      |  Linear Independence                        |
-| 1/31  |      |  1.8    |      |  Linear Transformations                     | 
-|       |      |  1.9    |      |  Matrix of Linear Transformations           |  
-| 2/2   |      |  2.1    |      |  Matrix Operations and Inverses             |    
-| 2/7   |      |  2.2    |      |  Inverse of a Matrix                        | 
-|       |      |  2.3    |      |  Characterizations of Invertible Matrices   |  
-| 2/9   |      |  3.1    |      |  Intro to Determinants                      |   
-|       |      |  3.2    |      |  Properties of Determinants                 | 
-| 2/14  |      | 1.1-2.3 |      |  Catch-up and Review Day                    |  
-| 2/16  |      | 1.1-2.3 |      |  Midterm 1                                  |   
-| 2/21  |      |  3.3    |      |  Cramer's Rule and Volumes                  |  
-|       |      |  4.1    |      |  Vector Spaces & Subspaces                  |   
-| 2/23  |      |  4.2    |      | Null Spaces, Columns Spaces and Lin. Transf.| 
-| 2/28  |      |  4.3    |      |  Bases and Linearly Independent Sets        |    
-|       |      |  4.4    |      |  Coordinate Systems                         |   
-| 3/2   |      |  4.5    |      |  Dimension of a Vector Space                | 
-| 3/7   |      |  4.6    |      |  Rank                                       |  
-|       |      |  4.7    |      |  Change of Basis                            |    
-| 3/9   |      |  5.1    |      |  Eigenvectors & Eigenvalues                 |  
-| 3/10 - 3/16  |      |      |      |  Spring Recess                  |      |  
+| 3     |      | 1/29    |      |  - Mathematical logic basics                                             |   
+|       |      |         |      |  - Translating symbols and quantifiers into words in writing             |
+|       |      |         |      |  - A proof of the quadratic formula                                      | 
+| 4     |      | 2/5     |      |  - Feedback and discussion on Assignment 1                               |  
+| 5     |      | 2/12    |      |  - Types of proofs and examples of proofs                                |    
+|       |      |         |      |  - Good examples of mathematical writing                                 | 
+| 6     |      | 2/19    |      |  - Feedback and discussion on Assignment 2                               |  
+| 7     |      | 2/26    |      |  - Including graphics, images, tables, graphs, etc.                      |   
+| 8     |      | 3/4     |      |  - Feedback and discussion on Assignment 3                               |  
+|   |      | 3/10 - 3/16 |      |  Spring Recess                                                           |       
 | 3/21  |      |  5.2    |      |  Characteristic Equation                    |   
 |       |      |  5.3    |      |  Diagonalization                            |   
 | 3/23  |      |  5.4    |      |  Eigenvectors & Linear Transformations      |     
