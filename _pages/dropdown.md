@@ -5,14 +5,14 @@ nav: true
 nav_order: 3
 dropdown: true
 children: 
-    - title: Blog
-      permalink: /blog/
-    - title: Resources
-      permalink: /resources/
     - title: MATH 2210Q
       permalink: /appliedlinalg/
     - title: MATH 2705W
       permalink: /techwritingmath/
+    - title: Blog
+      permalink: /blog/
+    - title: Resources
+      permalink: /resources/
     - title: Algebra Prelim
       permalink: /algprelim/
     - title: Topology Prelim
