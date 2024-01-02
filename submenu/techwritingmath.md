@@ -50,6 +50,7 @@ If you are interested in learning more about the purpose of a writing-intensive 
 
 ### Class structure
 
+This class meets once a week for 50 minutes. To make the most of our time together, in class I will be doing a combination of lecturing about good mathematical writing and also showing how to typeset mathematics on $$\LaTeX$$. I will also dedicate a few classes to going over general feedback/questions on the first draft of each assignment. 
 
 Towards the bottom of this page, I have posted the complete class schedule for the semester. I have written out which topics I plan to cover each class and when we will be doing "feedback and discussions on assignment" sessions. 
 
