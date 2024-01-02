@@ -21,7 +21,7 @@ nav: false
 6. Use clear and appropriate examples to explain ideas and illustrate points.
 7. Develop documents and presentations that effectively and correctly communicate mathematical ideas.
 
-**Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class.
+**Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class. I have also posted lots of helpful supplemental readings on HuskyCT in "Course Content" in the "Resources" folder. 
 
 **Class:** Mondays at 10:10-11:00AM in MONT 113. 
 
