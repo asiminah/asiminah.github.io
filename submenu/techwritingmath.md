@@ -57,7 +57,16 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Assignments:** There will be five assignments throughout the semester. You will need to submit a draft and final draft for each assignment. Drafts will be due on Friday's (so that I have enough time to grade them over the weekend) and final drafts will be due on Sunday's (so you have more time to work on them). You will be writing a paper roughly every 2-3 weeks throughout the semester. Here is a brief description of the assignments (more detailed information will be provided on HuskyCT): 
+**Assignments:** There will be five writing assignments throughout the semester. The minimum length of each assignment will vary, but the total number of pages between all of them will be at least 15 pages. You will need to submit a first draft and final draft for each assignment. First drafts will be due on Friday's at 11:59PM on HuskyCT (so that I have enough time to grade them over the weekend). You will receive feedback on first drafts over the weekend and we will go over general comments/questions in class the following Monday. Final drafts will be due on Sunday's at 11:59pm (so you have more time to work on them). You will be writing a paper roughly every 2-3 weeks throughout the semester. Here is a brief description of the assignments (more detailed information will be provided on HuskyCT): 
+
+For each assignment, you will first submit a draft
+of your paper, which will receive instructor feedback and insights. Then you will resubmit a final draft that
+has been revised to address the instructor feedback. Each draft of each assignment must be typeset using
+LATEX, and you will submit both the pdf version and the source code. Each assignment will be worth 20%
+of your grade. A rubric will be given on HuskyCT. Since part of the purpose of this class is to revise your
+writing, you must submit a first draft to receive credit for the assignment. It is, however, your
+final copy that will receive a grade. Extra credit will not be offered in this class. There is no final exam for
+this class.
 
 
 | Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
