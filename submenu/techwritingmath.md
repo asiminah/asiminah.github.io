@@ -57,7 +57,11 @@ Towards the bottom of this page, I have posted the complete class schedule for t
 
 **HuskyCT:** All announcements related to the course will be posted on HuskyCT. Assignments and grades will be posted on HuskyCT as well. 
 
-**Assignments:** There will be five writing assignments throughout the semester. The minimum length of each assignment will vary, but the total number of pages between all of them will be at least 15 pages. You will need to submit a first draft and final draft for each assignment. First drafts will be due on Friday's at 11:59PM on HuskyCT (so that I have enough time to grade them over the weekend). You will receive feedback on first drafts over the weekend and we will go over general comments/questions in class the following Monday. Final drafts will be due on Sunday's at 11:59pm (so you have more time to work on them). Final drafts should reflect that the first draft was revised to address the instructor's feedback. Each draft of each assignment must be typeset using $$\LaTeX$$, and you will submit both the pdf version and the source code on HuskyCT. You will be writing a paper roughly every 2-3 weeks throughout the semester. Here is a brief description of the assignments (more detailed information will be provided on HuskyCT): 
+**Assignments:** There will be five writing assignments throughout the semester. The minimum length of each assignment will vary, but the total number of pages between all of them will be at least 15 pages. You will need to submit a first draft and final draft for each assignment. 
+
+First drafts will be due on Friday's at 11:59PM on HuskyCT (so that I have enough time to grade them over the weekend). You will receive feedback on first drafts over the weekend and we will go over general comments/questions in class the following Monday. Final drafts will be due on Sunday's at 11:59pm on HuskyCT (so you have more time to work on them). Final drafts should reflect that the first draft was revised to address the instructor's feedback. 
+
+Each draft of each assignment must be typeset using $$\LaTeX$$, and you will submit both the pdf version and the source code on HuskyCT. You will be writing a paper roughly every 2-3 weeks throughout the semester. Here is a brief description of the assignments (more detailed information will be provided on HuskyCT): 
 
 | Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
 | :----            | :---: |  :----                  | :---: | :----:      |
