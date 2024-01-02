@@ -30,6 +30,23 @@ nav: false
 
 **General course page:** [Here](https://courses.math.uconn.edu/math-2705w/) is the generic course page for MATH 2705W. It does not have the specifics for this section, but it has more general information and other resources for the course that may not be on this page. 
 
+**“W” Course Criteria:** MATH 2705W is a writing intensive course. According to the General Education Guidelines at UConn, the following is a list of criteria for such courses:
+
+- Students are required to write a minimum of 15 pages (excluding reference pages) that have been revised
+for conceptual clarity and development of ideas, edited for expression, and proofread for grammatical
+and mechanical correctness.
+- The class must address writing in process, require revision, and provide substantial supervision of
+student writing.
+- The course must make explicit the relation between writing and learning.
+- The instructor must articulate the structure of student writing in the course.
+- There must be an explanation of the place and function of revision in the course.
+- Detail of how the page requirement will be met must be provided.
+- Students must pass the “W” component of the course in order to pass the course.
+
+If you are interested in learning more about the purpose of a writing-intensive course, visit [this link](https://geoc.uconn.edu/writing-competency/).
+
+
+
 
 ### Class structure
 
