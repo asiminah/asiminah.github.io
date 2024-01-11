@@ -17,6 +17,7 @@ nav: true
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
 * [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
 * [Modular Curves Workshop 3](https://math.mit.edu/~edgarc/MCW3.html), March 11 - 15, 2024
+* test
 
 
 **Past:**
