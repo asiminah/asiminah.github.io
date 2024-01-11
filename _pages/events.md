@@ -11,8 +11,6 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-<!-- * Math and Society (panelist), High School for Math, Science, and Engineering at CCNY, Oct. 25, 2023 -->
-<!-- * <a href="/assets/pdf/OralExam.pdf" target="_blank">Oral exam</a>, Oct. 16, 2023 -->
 * [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
