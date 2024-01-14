@@ -14,7 +14,7 @@ nav: true
 * [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
-* Brown Algebra/Number Theory Seminar (Speaker), Feb. 26, 2024
+* [Brown Algebra/Number Theory Seminar](https://www.brown.edu/academics/math/math-department-seminars-and-events) (Speaker), Feb. 26, 2024
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
 * [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
 * [Modular Curves Workshop 3](https://math.mit.edu/~edgarc/MCW3.html), March 11 - 15, 2024
