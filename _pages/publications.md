@@ -18,7 +18,8 @@ nav: true
 * Eduardo Dueñez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule* ([arxiv](https://arxiv.org/abs/2302.03624)). 
 
 **In Preparation:** 
-* Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori Watson, *Discriminant twins over number fields*. 
+* Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori Watson, *Discriminant twins over number fields*.
+* Asimina S. Hamakiotes, *Maximal abelian extensions of non-abelian division fields of elliptic curves with complex multiplication*.
 
 **Undergraduate honors thesis:**
 1. Asimina S. Hamakiotes, *The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings*, Baruch College CUNY Library (2020) ([academicworks](https://academicworks.cuny.edu/bb_etds/99/)).
