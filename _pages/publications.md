@@ -18,7 +18,7 @@ nav: true
 * Eduardo Dueñez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule* ([arxiv](https://arxiv.org/abs/2302.03624)). 
 
 **In Preparation:** 
-* Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson, *Towards a classification of $$p^2$$-discriminant ideal twins over number fields*.
+* Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson, *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*.
 * Asimina S. Hamakiotes, *Maximal abelian extensions of non-abelian division fields of elliptic curves with complex multiplication*.
 
 **Undergraduate honors thesis:**
