@@ -14,7 +14,7 @@ nav: true
 <!--**Submitted:**-->
 
 **Preprints:**
-* John Cullinan, Shanna Dobson, Linda Frey, Asimina S. Hamakiotes, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard, *The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II*.
+* John Cullinan, Shanna Dobson, Linda Frey, Asimina S. Hamakiotes, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard, *The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II* ([arxiv](https://arxiv.org/abs/2401.06250)).
 * Eduardo Dueñez, Asimina S. Hamakiotes and Steven J. Miller, *Sums of powers by L'Hopital's rule* ([arxiv](https://arxiv.org/abs/2302.03624)). 
 
 **In Preparation:** 
