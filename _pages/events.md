@@ -11,7 +11,6 @@ nav: true
 <!-- * [Binghamton University Graduate Combinatorics, Algebra, and Topology Conference (BUGCAT) 2022](http://seminars.math.binghamton.edu/BUGCAT/index.html) (Speaker), Nov. 5 - 6, 2022 -->
 
 **Upcoming:**
-* [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024 
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024
 * UConn SIGMA Seminar (Speaker), Feb. 16, 2024
 * [Brown Algebra/Number Theory Seminar](https://www.brown.edu/academics/math/math-department-seminars-and-events) (Speaker), Feb. 26, 2024
@@ -21,6 +20,7 @@ nav: true
 
 
 **Past:**
+* [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024 
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
 * [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/52069-sigma-seminar-frequently-asked-questions-on-quant-inte) (Speaker), Sept. 15, 2023
