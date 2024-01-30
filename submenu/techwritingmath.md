@@ -25,7 +25,7 @@ nav: false
 
 **Class:** Mondays at 10:10-11:00AM in MONT 113. 
 
-**Office hours:** TBD. 
+**Office hours:** Mondays at 11:00AM-12:30PM in MONT 322. 
 <!-- Tuesdays and Thursdays at 2:15-3:15PM on webex. You can access my webex link through HuskyCT. -->
 
 **General course page:** [Here](https://courses.math.uconn.edu/math-2705w/) is the generic course page for MATH 2705W. It does not have the specifics for this section, but it has more general information and other resources for the course that may not be on this page. 
