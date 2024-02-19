@@ -13,7 +13,6 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 **Upcoming:**
-* Greek Algebra & Number Theory (GANT) Seminar (Speaker), Feb. 19, 2024
 * [Brown Algebra/Number Theory Seminar](https://www.brown.edu/academics/math/math-department-seminars-and-events) (Speaker), Feb. 26, 2024
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
 * [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
@@ -22,6 +21,7 @@ nav: true
 
 
 **Past:**
+* Greek Algebra & Number Theory (GANT) Seminar (Speaker), Feb. 19, 2024
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024 
 * [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024 
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
