@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Here are my current and past research interests. 
+description: Here are my current and past research interests. Last updated August 2023.
 nav: true
 ---
 
