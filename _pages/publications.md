@@ -7,7 +7,7 @@ nav: true
 ---
 
 **Publications:**
-1. Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson, *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*, Women in Numbers 6 Proceedings ([arxiv](https://arxiv.org/abs/2403.01287)).
+1. Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson, *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*, to appear in Women in Numbers 6 Proceedings ([arxiv](https://arxiv.org/abs/2403.01287)).
 2. John Cullinan, Shanna Dobson, Linda Frey, Asimina S. Hamakiotes, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard, *The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II*, submitted ([arxiv](https://arxiv.org/abs/2401.06250)).
 3. Asimina S. Hamakiotes and Álvaro Lozano-Robledo, *Elliptic curves with complex multiplication and abelian division fields*, submitted ([arxiv](https://arxiv.org/abs/2308.00668)).
 4. Asimina S. Hamakiotes, Aaron Kriegman, and Wei-Lun Tsai, *Asymptotic Distribution of the Partition Crank*, Ramanujan Journal, Vol. 56 (2021), 803–820 ([arxiv](https://arxiv.org/abs/1909.12806)).
