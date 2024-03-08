@@ -13,12 +13,12 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 **Upcoming:**
-* [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
 * [Modular Curves Workshop 3](https://math.mit.edu/~edgarc/MCW3.html), March 11 - 15, 2024
 * UConn SIGMA Seminar (Speaker), April 19, 2024
 
 
 **Past:**
+* [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
 * [Arizona Winter School 2024](https://swc-math.github.io/aws/2024/index.html), March 2 - 6, 2024
 * [Brown Algebra/Number Theory Seminar](https://www.brown.edu/academics/math/math-department-seminars-and-events) (Speaker), Feb. 26, 2024
 * Greek Algebra & Number Theory (GANT) Seminar (Speaker), Feb. 19, 2024
