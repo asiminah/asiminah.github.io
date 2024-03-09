@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MATH 2705W: Technical Writing in Math
+title: MATH 2705W Technical Writing in Math
 description: This is the Spring 2024 class webpage for Section 001 of MATH 2705W Technical Writing in Math at UConn.  
 img: 
 importance: 1
