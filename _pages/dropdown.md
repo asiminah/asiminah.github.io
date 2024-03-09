@@ -13,6 +13,8 @@ children:
       permalink: /appliedlinalg/
     - title: MATH 2705W
       permalink: /techwritingmath/
+    - title: Prelims
+      permalink: /prelims/
     - title: Algebra Prelim
       permalink: /algprelim/
     - title: Topology Prelim
