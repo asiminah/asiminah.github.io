@@ -2,7 +2,7 @@
 layout: page
 title: Prelims
 permalink: /prelims/
-description: Here are past prelims and solutions at UConn. 
+description: This page is intended to be a resource for the PhD students at UConn taking the algebra, complex analysis, and/or geometry and topology prelim.  
 nav: false
 nav_order: 1
 display_categories: [Prelims]
