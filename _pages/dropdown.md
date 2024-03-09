@@ -23,7 +23,7 @@ children:
     #- title: Topology Prelim
     #  permalink: /topprelim/
     #- title: Complex Prelim
-      permalink: /cpxprelim/
+    #  permalink: /cpxprelim/
     
       
     #- title: Number Theory
