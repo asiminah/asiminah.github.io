@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-description: Here are the course webpages for courses I have taught/am teaching.   
+description: Here are the webpages for the courses I have taught/am currently teaching.   
 nav: false
 nav_order: 1
 display_categories: [UConn]
