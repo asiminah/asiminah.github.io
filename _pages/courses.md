@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses Taught
+title: Courses
 permalink: /courses/
 description: This page is intended to be a resource for the PhD students at UConn taking the algebra, complex analysis, and/or geometry and topology prelim.  
 nav: false
