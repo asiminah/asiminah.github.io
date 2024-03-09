@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MATH 2210Q: Applied Linear Algebra
+title: MATH 2210Q Applied Linear Algebra
 description: This is the Spring 2023 class webpage for Section 013 of MATH 2210Q Applied Linear Algebra at UConn.  
 img: 
 importance: 2
