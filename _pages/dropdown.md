@@ -15,11 +15,12 @@ children:
       permalink: /techwritingmath/
     - title: Prelims
       permalink: /prelims/
-    - title: Algebra Prelim
-      permalink: /algprelim/
-    - title: Topology Prelim
-      permalink: /topprelim/
-    - title: Complex Prelim
+      
+    #- title: Algebra Prelim
+    #  permalink: /algprelim/
+    #- title: Topology Prelim
+    #  permalink: /topprelim/
+    #- title: Complex Prelim
       permalink: /cpxprelim/
     
       
