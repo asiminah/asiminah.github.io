@@ -9,10 +9,12 @@ children:
       permalink: /blog/
     - title: Resources
       permalink: /resources/
-    - title: MATH 2210Q
-      permalink: /appliedlinalg/
-    - title: MATH 2705W
-      permalink: /techwritingmath/
+    - title: Courses Taught
+      permalink: /courses/
+    #- title: MATH 2210Q
+    #  permalink: /appliedlinalg/
+    #- title: MATH 2705W
+    #  permalink: /techwritingmath/
     - title: Prelims
       permalink: /prelims/
       
