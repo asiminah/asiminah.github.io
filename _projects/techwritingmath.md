@@ -81,7 +81,7 @@ Each draft of each assignment must be typeset using $$\LaTeX$$, and you will sub
 
 (All grades and assignments will be posted on HuskyCT.) 
 
-**Grading:** The course grade will be composed of five assignments worth 20% each. Each assignment will be graded out of 20 points, where the first draft is worth 5 points and the final draft is worth 15 points. For each assignment, you will have the opportunity to make up the points lost in the first draft in the final draft. The rubric is posted on HuskyCT. 
+**Grading:** The course grade will be composed of five assignments worth 20% each. Each assignment will be graded out of 20 points, where the first draft is worth 5 points and the final draft is worth 15 points. For each assignment, you will have the opportunity to make up the points lost in the first draft in the final draft. The rubric is posted on HuskyCT. All late assignments will recieve a 0. If you get a 0 on two of the final drafts of an assignment, then you will get an F in the course. 
 
 **Final exam:** There is no final exam for this course. 
 
