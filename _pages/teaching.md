@@ -8,9 +8,9 @@ nav: true
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 **Courses:**
-* Spring 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/techwritingmath/) (Instructor)
+* Spring 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Fall 2023: [MATH 1071Q Calculus for Business and Economics](https://courses.math.uconn.edu/fall2023/math-1071/) (Instructor)
-* Spring 2023: [MATH 2210Q Applied Linear Algebra](https://asiminah.github.io/appliedlinalg/) (Instructor)
+* Spring 2023: [MATH 2210Q Applied Linear Algebra](https://asiminah.github.io/projects/appliedlinalg/) (Instructor)
 * Fall 2022: [MATH 1020Q Problem Solving](https://courses.math.uconn.edu/fall2022/math-1020/) (Instructor)
 * Spring 2022: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2022/math-1132/) (TA)
 * Fall 2021: [MATH 1132Q Calculus II Honors](https://courses.math.uconn.edu/fall2021/math-1132/) (TA)
