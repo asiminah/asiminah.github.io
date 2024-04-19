@@ -14,6 +14,7 @@ nav: true
 
 **Upcoming:**
 * [The Mordell conjecture 100 years later](https://mordell.org/), July 8 - 12, 2024
+* [ANTS XVI](https://antsmath.org/ANTSXVI/), July 15 - 19, 2024
   
 
 **Past:**
