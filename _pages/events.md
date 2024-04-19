@@ -13,7 +13,7 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 **Upcoming:**
-* UConn SIGMA Seminar (Speaker), April 19, 2024
+* [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/62850-sigma-seminar-abelian-galois-extensions-and-division-p) (Speaker), April 19, 2024
 
 
 **Past:**
