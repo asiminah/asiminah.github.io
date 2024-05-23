@@ -9,7 +9,7 @@ children:
       permalink: /blog/
     - title: Resources
       permalink: /resources/
-    - title: Courses
+    - title: Courses Taught
       permalink: /courses/
     #- title: MATH 2210Q
     #  permalink: /appliedlinalg/
