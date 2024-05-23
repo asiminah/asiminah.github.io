@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Courses Taught
 permalink: /courses/
 description: Here are the webpages for the courses I have taught/am currently teaching.   
 nav: false
