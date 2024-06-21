@@ -17,6 +17,7 @@ nav: true
 * [ANTS XVI](https://antsmath.org/ANTSXVI/), July 15 - 19, 2024
 * [Teoría de Números en las Américas 2](https://matmor.unam.mx/birs-cmo/index.html), Sept. 8 - 13, 2024
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
+* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
   
 
 **Past:**
