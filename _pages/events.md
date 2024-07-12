@@ -20,7 +20,7 @@ nav: true
   
 
 **Past:**
-* [The Mordell conjecture 100 years later](https://mordell.org/) (Speaker), July 8 - 12, 2024
+* [The Mordell conjecture 100 years later](https://mordell.org/) (Speaker, [slides](https://mordell.org/lightning/Hamakiotes.pdf)), July 8 - 12, 2024
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/62850-sigma-seminar-abelian-galois-extensions-and-division-p) (Speaker), April 19, 2024
 * [Modular Curves Workshop 3](https://math.mit.edu/~edgarc/MCW3.html) at MIT, March 11 - 15, 2024
 * [Joint Columbia-CUNY-NYU Number Theory Seminar](http://www.math.columbia.edu/~goldfeld/ScheduleJointNTS42.html) (Speaker), March 7, 2024
