@@ -28,7 +28,9 @@ nav: true
 * [Brown Algebra/Number Theory Seminar](https://www.brown.edu/academics/math/math-department-seminars-and-events) (Speaker), Feb. 26, 2024
 * [Greek Algebra & Number Theory (GANT) Seminar](https://sites.google.com/view/gantseminar/home?authuser=0) (Speaker), Feb. 19, 2024
 * [University of Washington Number Theory Seminar](https://math.washington.edu/events/2024-01-23/elliptic-curves-complex-multiplication-and-abelian-division-fields) (Speaker), Jan. 23, 2024 
-* [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024 
+* [UConn Algebra Seminar](https://events.uconn.edu/mathematics-department/event/59852-elliptic-curves-with-complex-multiplication-and) (Speaker), Jan. 17, 2024
+
+2023
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
 * [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/52069-sigma-seminar-frequently-asked-questions-on-quant-inte) (Speaker), Sept. 15, 2023
@@ -42,6 +44,8 @@ nav: true
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/43815-sigma-seminarcomputationally-hard-problems-and) (Speaker), Feb. 17, 2023
 * [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
 * [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
+  
+2022
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
 * [Oregon State University (OSU) Number Theory Seminar](https://math.oregonstate.edu/numbertheory_seminar#:~:text=The%20Number%20Theory%20Seminar%20is,%2C%20representation%20theory%2C%20and%20more.) (Speaker), Oct. 18, 2022
 * [2022 Québec-Maine Number Theory Conference](https://archimede.mat.ulaval.ca/QUEBEC-MAINE/22/qm22.html) (Speaker), Oct. 15 - 16, 2022
@@ -53,6 +57,8 @@ nav: true
 * [PCMI 2022 Graduate Summer School: Number Theory Informed by Computation](https://www.ias.edu/pcmi/pcmi-2022-graduate-summer-school), July 17 - August 6, 2022
 * [Rethinking Number Theory 3 (RNT3)](https://sites.google.com/view/rethinkingnumbertheory/home), June 20 - July 1, 2022
 * [Connecticut Summer School in Number Theory (CTNT) 2022](https://ctnt-summer.math.uconn.edu/), June 6 - 12, 2022
+  
+2021
 * [PCMI 2021 Graduate Summer School (Virtual): Number Theory Informed by Computation](https://www.ias.edu/pcmi/programs/pcmi-2021-graduate-summer-school)
 * [Arizona Winter Semester 2021 (Virtual)](https://www.math.arizona.edu/~swc/aws/2021/index.html)
 
