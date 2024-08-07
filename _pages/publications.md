@@ -7,9 +7,7 @@ nav: true
 ---
 
 **Publications:**
-1. *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*, ([arxiv](https://arxiv.org/abs/2403.01287))
-   joint with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
-   (To appear in Research Directions in Number Theory: Women in Numbers VI)
+1. *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields* ([arxiv](https://arxiv.org/abs/2403.01287)) \ joint with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson \ (To appear in Research Directions in Number Theory: Women in Numbers VI)
 3. Alyson Deines, Asimina S. Hamakiotes, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson, *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*, to appear in Research Directions in Number Theory: Women in Numbers VI ([arxiv](https://arxiv.org/abs/2403.01287)).
 4. John Cullinan, Shanna Dobson, Linda Frey, Asimina S. Hamakiotes, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard, *The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II*, submitted ([arxiv](https://arxiv.org/abs/2401.06250)).
 5. Asimina S. Hamakiotes and Álvaro Lozano-Robledo, *Elliptic curves with complex multiplication and abelian division fields*, submitted ([arxiv](https://arxiv.org/abs/2308.00668)).
