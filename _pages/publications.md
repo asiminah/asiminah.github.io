@@ -8,7 +8,7 @@ nav: true
 
 **Publications:**
 1. [*Sums of powers by L'Hopital's rule*](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (Submitted)
-2. *Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields* ([arxiv](https://arxiv.org/abs/2403.01287)) <br /> joint with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
+2. [*Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
 3. *The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II* ([arxiv](https://arxiv.org/abs/2401.06250)) <br /> joint with John Cullinan, Shanna Dobson, Linda Frey, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard <br /> (Submitted)
 4. *Elliptic curves with complex multiplication and abelian division fields* ([arxiv](https://arxiv.org/abs/2308.00668)) <br /> joint with Álvaro Lozano-Robledo <br /> (Submitted)
 5. *Asymptotic Distribution of the Partition Crank* ([arxiv](https://arxiv.org/abs/1909.12806)) <br /> joint with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
