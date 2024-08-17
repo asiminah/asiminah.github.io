@@ -68,16 +68,16 @@ Each draft of each assignment must be typeset using $$\LaTeX$$, and you will sub
 
 | Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
 | :----            | :---: |  :----                  | :---: | :----:      |
-| 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/9   |
-| (min. 2 pages) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 2/18  |
-| 2. Quadratic formula | | - Statement of quadratic formula | | Draft: 2/23  | 
-| (min. 2 pages) | |  - Include examples and references | | Final: 3/3   |
-| 3. Math paper with graphics | | - Write about a theorem or result where graphs and graphics play a major role | | Draft: 3/8   |
-| (min. 3 pages) | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | | Final: 3/24  |
-| 4. History of mathematics |       |  - Write about a famous mathematician  | | Draft: 3/29  |
-| (min. 4 pages) |       |  - Discuss some of the mathematician's work  | | Final: 4/7   |  
-| 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | Draft: 4/12  | 
-| (min. 4 pages) |        |           |    | Final: 4/21  |
+| 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 9/22   |
+| (min. 2 pages) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 10/1  |
+| 2. Quadratic formula | | - Statement of quadratic formula | | Draft: 10/6  | 
+| (min. 2 pages) | |  - Include examples and references | | Final: 10/15   |
+| 3. Math paper with graphics | | - Write about a theorem or result where graphs and graphics play a major role | | Draft: 10/20   |
+| (min. 3 pages) | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | | Final: 10/29  |
+| 4. History of mathematics |       |  - Write about a famous mathematician  | | Draft: 11/3  |
+| (min. 4 pages) |       |  - Discuss some of the mathematician's work  | | Final: 11/12   |  
+| 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | Draft: 11/17  | 
+| (min. 4 pages) |        |           |    | Final: 12/3  |
 
 
 (All grades and assignments will be posted on HuskyCT.) 
