@@ -17,7 +17,9 @@ nav: true
 * [PAlmetto Number Theory Series (PANTS) XXXVIII](https://sites.google.com/wfu.edu/pants-2024/home) (Speaker), Sept. 21 - 22, 2024
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
-  
+
+<!-- [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2023-->
+<!-- [University of Virginia Number Theory Seminar](https://math.virginia.edu/seminars/ntsem/2024-25/) (Speaker), Dec. 6, 2023--> 
 
 **Past:**
 * [ANTS XVI](https://antsmath.org/ANTSXVI/) (Speaker, [slides](https://antsmath.org/ANTSXVI/lightning/Hamakiotes.pdf)), July 15 - 19, 2024
