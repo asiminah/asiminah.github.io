@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATH 2705W Technical Writing in Math
-description: This is the Spring 2024 class webpage for Section 001 of MATH 2705W Technical Writing in Math at UConn.  
+description: This is the Fall 2024 class webpage for Section 005 of MATH 2705W Technical Writing in Math at UConn.  
 img: 
 importance: 1
 category: UConn
@@ -24,9 +24,10 @@ category: UConn
 
 **Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class. I have also posted lots of helpful supplemental readings on HuskyCT in "Course Content" in the "Resources" folder. 
 
-**Class:** Mondays at 10:10-11:00AM in MONT 113. 
+**Class:** Wednesdays 1:25-2:15PM in MONT 113.
+<!-- Mondays at 10:10-11:00AM in MONT 113. -->
 
-**Office hours:** Mondays at 11:00AM-12:30PM in MONT 322. 
+**Office hours:** Wednesdays at 11:50AM-1:20PM in MONT 322. 
 <!-- Tuesdays and Thursdays at 2:15-3:15PM on webex. You can access my webex link through HuskyCT. -->
 
 **General course page:** [Here](https://courses.math.uconn.edu/math-2705w/) is the generic course page for MATH 2705W. It does not have the specifics for this section, but it has more general information and other resources for the course that may not be on this page. 
@@ -94,31 +95,34 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 | Week  |      | Date    |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
 | 1     |      | 1/15    |      |  - Our class does not meet this week | 
-| 2     |      | 1/22    |      |  - The importance of mathematical communication through formal writing  |  
+| 1     |      | 8/28    |      |  - The importance of mathematical communication through formal writing  |  
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
-| 3     |      | 1/29    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
+| 2     |      | 9/4    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
 |       |      |         |      |  - Arranging mathematical ideas using these structures and typesetting them     | 
-| 4     |      | 2/5     |      |  - Mathematical logic basics                                             |   
+| 3     |      | 9/11     |      |  - Mathematical logic basics                                             |   
 |       |      |         |      |  - Translating symbols and quantifiers into words in writing             |
 |       |      |         |      |  - A proof of the quadratic formula                                      | 
-| 5     |      | 2/12    |      |  - Feedback and discussion on Assignment 1                               |  
-| 6     |      | 2/19    |      |  - Types of proofs and examples of proofs                                |    
+| 4     |      | 9/18    |      |  - Feedback and discussion on Assignment 1                               |  
+| 5     |      | 9/25    |      |  - Types of proofs and examples of proofs                                |    
 |       |      |         |      |  - Good examples of mathematical writing                                 | 
-| 7     |      | 2/26    |      |  - Feedback and discussion on Assignment 2                               |  
-| 8     |      | 3/4     |      |  - Including graphics, images, tables, graphs, etc.                      |    
-|   |      | 3/10 - 3/16 |      |  - Spring Recess                                                         |  
-| 9     |      | 3/18    |      |  - Feedback and discussion on Assignment 3                               | 
-| 10    |      | 3/25    |      |  - Using formulas and equations in a proof and mathematical paper        |   
+| 6     |      | 10/2    |      |  - Feedback and discussion on Assignment 2                               |  
+| 7     |      | 10/9     |      |  - Including graphics, images, tables, graphs, etc.                      | 
+| 8     |      | 10/16    |      |  - Feedback and discussion on Assignment 3                               | 
+| 9    |      | 10/23    |      |  - Using formulas and equations in a proof and mathematical paper        |   
 |       |      |         |      |  - The role of examples                                                  |   
 |       |      |         |      |  - Writing theorems and papers about theorems                            |     
-| 11    |      | 4/1     |      |  - Feedback and discussion on Assignment 4                               |     
-| 12    |      | 4/8     |      |  - Writing about the work of a mathematician                             |     
-| 13    |      | 4/15    |      |  - Feedback and discussion on Assignment 5                               |    
-| 14    |      | 4/22    |      |  - Summary of the class                                                  |    
+| 10    |      | 10/30     |      |  - Feedback and discussion on Assignment 4                               | 
+| 11    |      | 11/6     |      |  - Writing about the work of a mathematician                             |     
+| 12    |      | 11/13    |      |  - Feedback and discussion on Assignment 5                               | 
+| 13    |      | 11/20    |      |  - Summary of the class                                                  |    
+|   |      | 11/24 - 11/30 |      |  - Spring Recess                                                         |  
+| 14    |      | 12/4    |      |  - How to make a beamer presentation                                        |
+   
+
   
  
 
-(Spring Recess is March 10-16, 2024.)
+(Thanksgiving Recess is November 24-30, 2024.)
 
 **Student conduct code:** Students are expected to conduct themselves in accordance with UConn’s [Student Conduct Code](https://community.uconn.edu/the-student-code/).
 
