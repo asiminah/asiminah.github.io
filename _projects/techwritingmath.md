@@ -94,7 +94,6 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 
 | Week  |      | Date    |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 1     |      | 1/15    |      |  - Our class does not meet this week | 
 | 1     |      | 8/28    |      |  - The importance of mathematical communication through formal writing  |  
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
 | 2     |      | 9/4    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
