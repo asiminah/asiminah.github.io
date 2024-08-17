@@ -113,9 +113,9 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 | 10    |      | 10/30     |      |  - Feedback and discussion on Assignment 4                               | 
 | 11    |      | 11/6     |      |  - Writing about the work of a mathematician                             |     
 | 12    |      | 11/13    |      |  - Feedback and discussion on Assignment 5                               | 
-| 13    |      | 11/20    |      |  - Summary of the class                                                  |    
-|   |      | 11/24 - 11/30 |      |  - Spring Recess                                                         |  
-| 14    |      | 12/4    |      |  - How to make a beamer presentation                                        |
+| 13    |      | 11/20    |      |  - How to make a beamer presentation                                                  |    
+|   |      | 11/24 - 11/30 |      |  - Thanksgiving Recess                                                 |  
+| 14    |      | 12/4    |      |  - Summary of the class                                         |
    
 
   
