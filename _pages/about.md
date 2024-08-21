@@ -22,7 +22,9 @@ My name is Asimina and I am a fifth year mathematics PhD student at the [Univers
 
 **I am on the 2024-2025 academic job market!**
 
+<!--
 In Spring 2020, I graduated from [Macaulay Honors](https://macaulay.cuny.edu/) at [Baruch College (CUNY)](https://www.baruch.cuny.edu/) with a BA in Mathematics and minors in Philosophy and Interdisciplinary studies of New York. In Fall 2017, I placed second at the [Traders@MIT](https://traders.mit.edu/#about) competition (the largest intercollegiate algorithmic trading competition in the country). In Spring 2018, I worked in the New York Stock Exchange (NYSE) with [Group One Trading](https://group1.com/) as a Trade Analyst Intern. In the summer of 2018, I participated in the NSF funded [number theory REU at Oregon State University](http://sites.science.oregonstate.edu/math_reu/index.html) and was advised by Holly Swisher. In Spring 2019, I studied abroad in [Budapest Semesters in Mathematics (BSM)](https://www.budapestsemesters.com/). In the summer of 2019, I participated in the NSF funded [number theory REU at Texas A&M University](https://www.math.tamu.edu/undergraduate/research/REU/) and was advised by Riad Masri. My senior year, I was the first student at Baruch to write an honors thesis in math, and was advised by Andrew Obus. 
+-->
 
 I have a 2 year old female German Shepherd named Athena. Her instagram is [@athenahamakiotes](https://www.instagram.com/athenahamakiotes/). In my free time, I like to do Brazilian jiu-jitsu. I also enjoy swimming, going on walks/hikes, and listening to music. 
 
