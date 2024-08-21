@@ -10,7 +10,7 @@ nav: true
 1. [*Towards a classification of* $$p^2$$*-discriminant ideal twins over number fields*](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
 2. [*The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II*](https://arxiv.org/abs/2401.06250), with John Cullinan, Shanna Dobson, Linda Frey, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard <br /> (To appear in the Journal of Number Theory)
 3. [*Asymptotic Distribution of the Partition Crank*](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
-4. [*Eta-quotients of prime or semiprime level and elliptic curves*](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
+4. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 **Preprints:**
 1. [*Elliptic curves with complex multiplication and abelian division fields*](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Submitted)
