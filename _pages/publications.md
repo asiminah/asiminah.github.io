@@ -27,7 +27,7 @@ nav: true
 <!--**Submitted:**-->
 
 **In Preparation:** 
-* Asimina S. Hamakiotes, *The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication*.
+* *The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication*.
 
 **Undergraduate honors thesis:**
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
