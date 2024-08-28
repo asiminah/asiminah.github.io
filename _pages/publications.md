@@ -20,6 +20,7 @@ nav: true
 
 **In Preparation:** 
 * *The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication* <br /> ([Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
+* *Genus formulas for families of modular curves*, with Jun Bo Lau
 
 **Undergraduate honors thesis:**
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
