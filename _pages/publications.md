@@ -27,7 +27,7 @@ nav: true
 <!--**Submitted:**-->
 
 **In Preparation:** 
-* *The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication* ((Magma Code)[https://github.com/asiminah/max-ab-extn-contained-in-div-flds]).
+* *The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication* ([Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds)).
 
 **Undergraduate honors thesis:**
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
