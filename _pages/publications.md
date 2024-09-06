@@ -13,7 +13,7 @@ nav: true
 4. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 **Preprints:**
-1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> ([Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
+1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 2. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Submitted)
 3. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (Submitted)
 
