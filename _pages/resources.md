@@ -29,6 +29,8 @@ nav: false
 * [NSF Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)
 * [National Defense Science and Engineering Graduate Fellowship Program (NDSEG)](https://ndseg.org/)
 * [Graduate Fellowship for STEM Diversity (GFSD)](https://stemfellowships.org/)
+* [Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program](https://www.smartscholarship.org/smart?utm_source=MDRe1&utm_medium=email&utm_campaign=SMART2025)
+
 
 **Research Experience for Undergraduates (REUs):**
 * [mathprograms](https://www.mathprograms.org/)
