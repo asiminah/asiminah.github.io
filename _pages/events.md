@@ -13,7 +13,6 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 **Upcoming:**
-* [PAlmetto Number Theory Series (PANTS) XXXVIII](https://sites.google.com/wfu.edu/pants-2024/home) (Speaker), Sept. 21 - 22, 2024
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
 * [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
 * [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2024
@@ -25,6 +24,7 @@ nav: true
 
 
 **Past:**
+* [PAlmetto Number Theory Series (PANTS) XXXVIII](https://sites.google.com/wfu.edu/pants-2024/home) (Speaker), Sept. 21 - 22, 2024
 * [Teoría de Números en las Américas 2](https://matmor.unam.mx/birs-cmo/index.html), Sept. 8 - 13, 2024
 * [ANTS XVI](https://antsmath.org/ANTSXVI/) (Speaker, [slides](https://antsmath.org/ANTSXVI/lightning/Hamakiotes.pdf)), July 15 - 19, 2024
 * [The Mordell conjecture 100 years later](https://mordell.org/) (Speaker, [slides](https://mordell.org/lightning/Hamakiotes.pdf)), July 8 - 12, 2024
