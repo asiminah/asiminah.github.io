@@ -19,6 +19,7 @@ nav: true
 * Fall 2020: [MATH 1131Q Calculus I](https://courses.math.uconn.edu/fall2020/math-1131/) (TA)
 
 **Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
+* Fall 2024: Giancarlo Stabler, project in progress
 * Spring 2023: Sarah Hocutt, project on mathematical cryptography (<a href="/assets/pdf/Lattice_Cryptography_DRP_Presentation.pdf" target="_blank">presentation</a>)
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
 
