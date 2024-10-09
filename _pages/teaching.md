@@ -7,7 +7,7 @@ nav: true
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
-**Courses:**
+**#Courses:**
 * Fall 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Spring 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Fall 2023: [MATH 1071Q Calculus for Business and Economics](https://courses.math.uconn.edu/fall2023/math-1071/) (Instructor)
@@ -18,7 +18,7 @@ nav: true
 * Spring 2021: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2021/math-1132/) (TA)
 * Fall 2020: [MATH 1131Q Calculus I](https://courses.math.uconn.edu/fall2020/math-1131/) (TA)
 
-**Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
+**##Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):**
 * Fall 2024: Giancarlo Stabler, project in progress
 * Spring 2023: Sarah Hocutt, project on mathematical cryptography (<a href="/assets/pdf/Lattice_Cryptography_DRP_Presentation.pdf" target="_blank">presentation</a>)
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
