@@ -14,13 +14,12 @@ nav: true
 
 **Upcoming:**
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
+* [Cornell University Number Theory Seminar](https://pi.math.cornell.edu/m/event-list-p/numtheory) (Speaker), Nov. 15, 2024 
 * [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
 * [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2024
 * [University of Virginia Number Theory Seminar](https://math.virginia.edu/seminars/ntsem/2024-25/) (Speaker), Dec. 6, 2024
 * University of Minnesota Student Number Theory Seminar (Speaker), Dec. 10, 2024
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
-
-<!-- * [Cornell University Number Theory Seminar](https://pi.math.cornell.edu/m/event-list-p/numtheory) (Speaker), Nov. 15, 2024 -->
 
 
 **Past:**
