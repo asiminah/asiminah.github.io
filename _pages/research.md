@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Here are my current and past research interests. Last updated August 2023.
+description: Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.
 nav: true
 ---
 
@@ -14,7 +14,7 @@ My research interests are in arithmetic geometry and algebraic number theory. I 
 
 3. In the spring of 2023, I participated in the Women in Numbers 6 workshop. Isogenous elliptic curves have the same conductor, but not necessarily the same minimal discriminant ideal. In our research project, we explicitly classify all $$p^2$$-isogenous elliptic curves defined over a number field with the same minimal discriminant ideal for odd prime $$p$$ where $$X_0(p^2)$$ has genus $$0$$, i.e., $$p=3$$ or $$5$$. As a consequence, we give a list of all $$p^2$$-isogenous discriminant (ideal) twins over $$\mathbb{Q}$$ for such $$p$$. This is joint work with Alyson Deines, [Andreea Iorga](https://math.cornell.edu/andreea-iorga), [Changningphaabi Namoijam](https://sites.google.com/view/changningphaabi), [Manami Roy](https://manamiroy.github.io/), and [Lori D. Watson](https://loridwatson.com/). 
 
-4. With Steven J. Miller and ...
+4. With [Steven J. Miller](https://web.williams.edu/Mathematics/sjmiller/public_html/) and [Eduardo Dueñez](https://eduardoduenez.wordpress.com/), I proved that the sum of the $$d^{th}$$-powers up to $$n$$ is a polynomial of degree $$d+1$$ in $$n$$ using L'Hopital's rule. For a positive integer $$d$$, let $$p_d(n) := 0^d + 1^d + 2^d + \cdots + n^d$$; i.e., $$p_d(n)$$ is the sum of the first $$d^{th}$$-powers up to $$n$$. It is well known that $$p_d(n)$$ is a polynomial of degree $$d+1$$ in $$n$$. While this is usually proved by induction, once $$d$$ is not small it is a challenge as one needs to know the polynomial for the inductive step. We show how this difficulty can be bypassed by giving a simple proof that $$p_d(n)$$ is a polynomial of degree $$d+1$$ in $$n$$ using L'Hopital's rule, and show how we can then determine the coefficients by Cramer's rule. This illustrates a general principle and the point of our paper: there's more than one path to a goal, different approaches have their advantages and disadvantages, and the more techniques one knows, the more likely one can successfully attack a problem. 
 
 5. In the summer of 2022, I participated in the Rethinking Number Theory 3 Workshop. Let $$E$$ and $$E'$$ be $$2$$-isogenous elliptic curves defined over $$\mathbb{Q}$$. For our project, we were interested in studying the proportion of primes $$p$$ for which $$E(\mathbb{F}_p)\cong E'(\mathbb{F}_p)$$ and $$E(\mathbb{F}_{p^2}) \not\cong E'(\mathbb{F}_{p^2})$$. When this happens, we call $$p$$ anomalous. There has been previous work done on this by [John Cullinan](http://faculty.bard.edu/cullinan/about.html) and [Nathan Kaplan](https://www.math.uci.edu/~nckaplan/index.html) (see [[1]](https://arxiv.org/abs/2301.09176)). In our project, we complete the classification begun in [1]. We give an explicit formula for the proportion of anomalous primes, depending on the images $$G$$ and $$G'$$ of the $$2$$-adic representations of $$E$$ and $$E'$$, respectively. We consider both the non-CM and CM case. This is joint work with John Cullinan and [Gabrielle Scullard](https://science.psu.edu/math/people/gns49).
 
