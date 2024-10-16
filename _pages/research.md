@@ -12,7 +12,7 @@ My research interests are in arithmetic geometry and algebraic number theory. I 
 
 2. With my advisor, Álvaro Lozano-Robledo, I studied when the $$\mathcal{l}$$-adic image of a Galois representation attached to an elliptic curve $$E$$ with CM can be abelian. Let $$K$$ be an imaginary quadratic field, and let $$\mathcal{O}_{K,f}$$ be an order in $$K$$ of conductor $$f \geq 1$$. Let $$E$$ be an elliptic curve with CM by $$\mathcal{O}_{K,f}$$ such that $$E$$ is defined by a model over $$\mathbb{Q}(j_{K,f})$$, where $$j_{K,f}=j(E)$$. In our project, we classify the values of $$N\geq 2$$ and the elliptic curves $$E/\mathbb{Q}(j_{K,f})$$ such that (i) the division field $$\mathbb{Q}(j_{K,f},E[N])$$ is an abelian extension of $$\mathbb{Q}(j_{K,f})$$, and (ii) the $$N$$-division field coincides with the $$N$$-th cyclotomic extension of the base field.
 
-3. In the spring of 2023, I participated in the Women in Numbers 6 workshop.
+3. In the spring of 2023, I participated in the Women in Numbers 6 workshop. Isogenous elliptic curves have the same conductor, but not necessarily the same minimal discriminant ideal. In our research project, we explicitly classify all $$p^2$$-isogenous elliptic curves defined over a number field with the same minimal discriminant ideal for odd prime $$p$$ where $$X_0(p^2)$$ has genus $$0$$, i.e., $$p=3$$ or $$5$$. As a consequence, we give a list of all $$p^2$$-isogenous discriminant (ideal) twins over $$\mathbb{Q}$$ for such $$p$$. This is joint work with Alyson Deines, [Andreea Iorga](https://math.cornell.edu/andreea-iorga), [Changningphaabi Namoijam](https://sites.google.com/view/changningphaabi), [Manami Roy](https://manamiroy.github.io/), and [Lori D. Watson](https://loridwatson.com/). 
 
 4. With Steven J. Miller and ...
 
