@@ -18,7 +18,7 @@ nav: true
 * [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
 * [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2024
 * [University of Virginia Number Theory Seminar](https://math.virginia.edu/seminars/ntsem/2024-25/) (Speaker), Dec. 6, 2024
-* University of Minnesota Student Number Theory Seminar (Speaker), Dec. 10, 2024
+* [University of Minnesota Student Number Theory Seminar](https://sites.google.com/view/marcellamanivel/home/number-theory-seminar) (Speaker), Dec. 10, 2024
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/), Jan. 15 - 16, 2025
 
