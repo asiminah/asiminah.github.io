@@ -13,7 +13,7 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 **Upcoming:**
-* UConn Math Club (Speaker), Oct. 30, 2024
+* [UConn Math Club](https://events.uconn.edu/math-club/event/196980-math-club-how-many-ways-can-you-sum-1-2-cdots-n-by-as) (Speaker), Oct. 30, 2024
 * [Cornell University Number Theory Seminar](https://pi.math.cornell.edu/m/event-list-p/numtheory) (Speaker), Nov. 15, 2024 
 * [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
 * [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2024
