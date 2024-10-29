@@ -12,7 +12,7 @@ nav: true
 
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
-**Upcoming:**
+### Upcoming:
 * [UConn Math Club](https://events.uconn.edu/math-club/event/196980-math-club-how-many-ways-can-you-sum-1-2-cdots-n-by-as) (Speaker), Oct. 30, 2024
 * [Cornell University Number Theory Seminar](https://pi.math.cornell.edu/m/event-list-p/numtheory) (Speaker), Nov. 15, 2024 
 * [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
@@ -23,7 +23,7 @@ nav: true
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/), Jan. 15 - 16, 2025
 
 
-**Past:**
+### Past:
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
 * [PAlmetto Number Theory Series (PANTS) XXXVIII](https://sites.google.com/wfu.edu/pants-2024/home) (Speaker), Sept. 21 - 22, 2024
 * [Teoría de Números en las Américas 2](https://matmor.unam.mx/birs-cmo/index.html), Sept. 8 - 13, 2024
