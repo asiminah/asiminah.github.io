@@ -6,7 +6,7 @@ description: Here are a few of my papers.
 nav: true
 ---
 
-**Publications:**
+### Publications:
 1. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (To appear in the Journal of the London Mathematical Society)
 2. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (To appear in Fibonacci Quarterly)
 3. [Towards a classification of $$p^2$$-discriminant ideal twins over number fields](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
@@ -14,15 +14,15 @@ nav: true
 5. [Asymptotic Distribution of the Partition Crank](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
 6. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
-**Preprints:**
+### Preprints:
 1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 
 <!--**Submitted:**-->
 
-**In Preparation:** 
+### In Preparation:
 * *Genus formulas for families of modular curves*, with Jun Bo Lau
 
-**Undergraduate honors thesis:**
+### Undergraduate honors thesis:
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
 
 
