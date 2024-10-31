@@ -7,7 +7,7 @@ nav: true
 ---
 
 I often give talks to the [UConn Math Club](https://mathclub.math.uconn.edu/) for undergrads. I have also been on panels about applying to Research Experiences for Undergraduates (REUs) and applying to grad school. 
-* In Fall 2024, I will give a talk about ....
+* In Fall 2024, I gave a talk on "How many ways can you sum $$1 + 2 + \cdots + n$$?". 
 * In Fall 2023, I gave a talk on the "Infinitude of the Primes".
 * In Spring 2023, I gave a talk on "Sums of Powers by L'Hopital's Rule". 
 * In Fall 2022, I gave a talk on "Computationally Hard Problems and Their Uses in Cryptography". 
