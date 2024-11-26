@@ -13,7 +13,6 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Ohio State University Number Theory Seminar](https://research.math.osu.edu/numbertheory/) (Speaker), Nov. 25, 2024
 * [The Graduate Center Arithmetic Geometry Seminar](https://sites.google.com/view/gc-arithmetic-geometry/home) (Speaker), Dec. 3, 2024
 * [University of Virginia Number Theory Seminar](https://math.virginia.edu/seminars/ntsem/2024-25/) (Speaker), Dec. 6, 2024
 * [University of Minnesota Student Number Theory Seminar](https://sites.google.com/view/marcellamanivel/home/number-theory-seminar) (Speaker), Dec. 10, 2024
@@ -23,6 +22,7 @@ nav: true
 
 
 ### Past:
+* [Ohio State University Number Theory Seminar](https://math.osu.edu/events/number-theory-seminar-asimina-hamakiotes) (Speaker), Nov. 25, 2024
 * [Cornell University Number Theory Seminar](https://pi.math.cornell.edu/m/node/11547) (Speaker), Nov. 15, 2024 
 * [UConn Math Club](https://events.uconn.edu/math-club/event/196980-math-club-how-many-ways-can-you-sum-1-2-cdots-n-by-as) (Speaker), Oct. 30, 2024
 * [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2317_special.html) (Speaker), Oct. 19 - 20, 2024
