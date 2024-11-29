@@ -21,7 +21,7 @@ nav: true
 
 ### In Preparation:
 * *Genus formulas for families of modular curves*, with Jun Bo Lau
-* *Bounds for the relative class number problem for function fields* with Santiago Arango-Pin ̃eros, María Chara, Kiran Kedlaya, and Gustavo Rama
+* *Bounds for the relative class number problem for function fields* with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama
 
 ### Undergraduate honors thesis:
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
