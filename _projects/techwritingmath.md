@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATH 2705W Technical Writing in Math
-description: This is the Fall 2024 class webpage for Section 005 of MATH 2705W Technical Writing in Math at UConn.  
+description: This is the Fall 2024 class webpage for Section 005 of MATH 2705W Technical Writing in Math at UConn. (This was also the Spring 2024 and Fall 2023 class webpage for MATH 2705W.)
 img: 
 importance: 1
 category: UConn
