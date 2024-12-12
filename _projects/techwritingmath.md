@@ -24,10 +24,12 @@ category: UConn
 
 **Textbook:** Although there is no textbook required for this course, we suggest “Mathematical Writing” by Franco Vivaldi (Springer Undergraduate Mathematics Series, 2014th Edition) as a valuable resource for this class. I have also posted lots of helpful supplemental readings on HuskyCT in "Course Content" in the "Resources" folder. 
 
-**Class:** Wednesdays 1:25-2:15PM in MONT 113.
+**Class:** Wednesdays 10:10-11:00AM in SHH 441.
+<!-- Wednesdays 1:25-2:15PM in MONT 113. -->
 <!-- Mondays at 10:10-11:00AM in MONT 113. -->
 
-**Office hours:** Wednesdays at 11:50AM-1:20PM in MONT 322. 
+**Office hours:** TBD in MONT 322.
+<!-- Wednesdays at 11:50AM-1:20PM in MONT 322. -->
 <!-- Tuesdays and Thursdays at 2:15-3:15PM on webex. You can access my webex link through HuskyCT. -->
 
 **General course page:** [Here](https://courses.math.uconn.edu/math-2705w/) is the generic course page for MATH 2705W. It does not have the specifics for this section, but it has more general information and other resources for the course that may not be on this page. 
