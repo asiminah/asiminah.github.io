@@ -26,7 +26,7 @@ nav: true
 
 ### [Prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/) tutored at UConn:
 * Summer 2023: [Algebra prelim](https://asiminah.github.io/algprelim/)
-* Winter 2022: Algebra prelim
+* Winter 2022: [Algebra prelim](https://asiminah.github.io/algprelim/)
   
 
 ### MATH 3710 Mathematical Modeling:
