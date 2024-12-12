@@ -98,34 +98,32 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 
 | Week  |      | Date    |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 1     |      | 8/28    |      |  - The importance of mathematical communication through formal writing  |  
+| 1     |      | 1/22    |      |  - The importance of mathematical communication through formal writing  |  
 |       |      |         |      |  - Using $$\LaTeX$$                                                     | 
-| 2     |      | 9/4    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
+| 2     |      | 1/29    |      |  - Basic elements: lemmas, theorems, proofs, examples, equations, numbering, cross-referencing  | 
 |       |      |         |      |  - Arranging mathematical ideas using these structures and typesetting them     | 
-| 3     |      | 9/11     |      |  - Mathematical logic basics                                             |   
+| 3     |      | 2/5     |      |  - Mathematical logic basics                                             |   
 |       |      |         |      |  - Translating symbols and quantifiers into words in writing             |
 |       |      |         |      |  - A proof of the quadratic formula                                      | 
-| 4     |      | 9/18    |      |  - Feedback and discussion on Assignment 1                               |  
-| 5     |      | 9/25    |      |  - Types of proofs and examples of proofs                                |    
+| 4     |      | 2/12    |      |  - Feedback and discussion on Assignment 1                               |  
+| 5     |      | 2/19    |      |  - Types of proofs and examples of proofs                                |    
 |       |      |         |      |  - Good examples of mathematical writing                                 | 
-| 6     |      | 10/2    |      |  - Feedback and discussion on Assignment 2                               |  
-| 7     |      | 10/9     |      |  - Including graphics, images, tables, graphs, etc.                      | 
-| 8     |      | 10/16    |      |  - Feedback and discussion on Assignment 3                               | 
-| 9    |      | 10/23    |      |  - Using formulas and equations in a proof and mathematical paper        |   
+| 6     |      | 2/26    |      |  - Feedback and discussion on Assignment 2                               |  
+| 7     |      | 3/5     |      |  - Including graphics, images, tables, graphs, etc.                      | 
+| 8     |      | 3/12    |      |  - Feedback and discussion on Assignment 3                               | 
+|       |      | 3/16 - 3/22 |      |  - Spring Recess                                                 |  
+| 9     |      | 3/26  |      |  - Using formulas and equations in a proof and mathematical paper        |   
 |       |      |         |      |  - The role of examples                                                  |   
 |       |      |         |      |  - Writing theorems and papers about theorems                            |     
-| 10    |      | 10/30     |      |  - Feedback and discussion on Assignment 4                               | 
-| 11    |      | 11/6     |      |  - Writing about the work of a mathematician                             |     
-| 12    |      | 11/13    |      |  - Feedback and discussion on Assignment 5                               | 
-| 13    |      | 11/20    |      |  - How to make a beamer presentation                                                  |    
-|   |      | 11/24 - 11/30 |      |  - Thanksgiving Recess                                                 |  
-| 14    |      | 12/4    |      |  - Summary of the class                                         |
+| 10    |      | 4/2     |      |  - Feedback and discussion on Assignment 4                               | 
+| 11    |      | 4/9     |      |  - Writing about the work of a mathematician                             |     
+| 12    |      | 4/16    |      |  - Feedback and discussion on Assignment 5                               | 
+| 13    |      | 4/23    |      |  - How to make a beamer presentation                                                  |    
+| 14    |      | 4/29    |      |  - Summary of the class                                         |
    
 
-  
- 
 
-(Thanksgiving Recess is November 24-30, 2024.)
+(Spring Recess is March 16-22, 2025.)
 
 **Student conduct code:** Students are expected to conduct themselves in accordance with UConn’s [Student Conduct Code](https://community.uconn.edu/the-student-code/).
 
