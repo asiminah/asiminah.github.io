@@ -17,6 +17,7 @@ nav: true
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/), Jan. 15 - 16, 2025
 * Louisiana State University Algebra and Number Theory Seminar (Speaker), Jan. 21, 2025
 * Inaugural Graduate Research Forum at UConn (Speaker), Jan. 25, 2025
+* Kansas State University Number Theory Seminar (Speaker), Feb. 12, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 <!--* [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025-->
 
