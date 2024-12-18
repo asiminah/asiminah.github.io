@@ -15,8 +15,8 @@ nav: true
 6. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 ### Preprints:
-1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
-2. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama
+1. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama
+2. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 
 <!--**Submitted:**-->
 
