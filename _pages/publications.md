@@ -16,12 +16,12 @@ nav: true
 
 ### Preprints:
 1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
+2. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama
 
 <!--**Submitted:**-->
 
 ### In Preparation:
 * *Genus formulas for families of modular curves*, with Jun Bo Lau
-* *Bounds for the relative class number problem for function fields* with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama
 
 ### Undergraduate honors thesis:
 1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
