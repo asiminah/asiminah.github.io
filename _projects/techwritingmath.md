@@ -49,6 +49,7 @@ student writing.
 
 If you are interested in learning more about the purpose of a writing-intensive course, visit [this link](https://geoc.uconn.edu/writing-competency/).
 
+**Writing Center:** Personalized support is available for all your writing projects. Bring your questions, plans, or drafts to the center and talk them through with a fellow UConn student. You can make an appointment or drop in (see [here](https://writingcenter.uconn.edu) for hours and policies). We offer synchronous online sessions and asynchronous written feedback too. All services are free, and all are welcome.
 
 
 ### Class structure
@@ -92,7 +93,6 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 **Final exam:** There is no final exam for this course. 
 
 
-
 ### Class schedule
 
 | Week  |      | Date    |      | Topic                                                                   | 
@@ -123,8 +123,6 @@ All late assignments will recieve a 0. If you get a 0 on two of the final drafts
 
 
 (Spring Recess is March 16-22, 2025.)
-
-**Writing Center:** Personalized support is available for all your writing projects. Bring your questions, plans, or drafts to the center and talk them through with a fellow UConn student. You can make an appointment or drop in (see [here](https://writingcenter.uconn.edu) for hours and policies). We offer synchronous online sessions and asynchronous written feedback too. All services are free, and all are welcome.
 
 **Student conduct code:** Students are expected to conduct themselves in accordance with UConn’s [Student Conduct Code](https://community.uconn.edu/the-student-code/).
 
