@@ -13,7 +13,6 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/), Jan. 15 - 16, 2025
 * Louisiana State University Algebra and Number Theory Seminar (Speaker), Jan. 21, 2025
 * Kansas State University Number Theory Seminar (Speaker), Feb. 12, 2025
@@ -24,6 +23,8 @@ nav: true
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
+
 2024
 * [University of Minnesota Student Number Theory Seminar](https://sites.google.com/view/marcellamanivel/home/number-theory-seminar) (Speaker), Dec. 10, 2024
 * [University of Virginia Number Theory Seminar](https://math.virginia.edu/seminars/ntsem/2024-25/) (Speaker), Dec. 6, 2024
