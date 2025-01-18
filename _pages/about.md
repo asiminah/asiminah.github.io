@@ -1,13 +1,13 @@
 ---
 layout: about
-image: /assets/img/Asimina.jpg
+image: /assets/img/AsiminaAthena.jpg
 title: About
 permalink: /
 <!-- subtitle: <a href='#'>asimina.hamakiotes@uconn.edu</a> -->
 
 profile:
   align: right
-  image: Asimina.jpg
+  image: AsiminaAthena.jpg
   address: >
     <p>Office: MONT 322</p>
     <p>University of Conn.</p>
