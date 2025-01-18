@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: AsiminaAthena.jpg
+  image: Asimina.jpg
   address: >
     <p>Office: MONT 322</p>
     <p>University of Conn.</p>
