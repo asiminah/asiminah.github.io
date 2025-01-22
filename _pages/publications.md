@@ -15,13 +15,13 @@ nav: true
 6. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 ### Preprints:
-1. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (Submitted, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
-2. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
+1. [Genus formulas for families of modular curves](https://arxiv.org/abs/2501.10883), with Jun Bo Lau
+2. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (Submitted, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
+3. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 
 <!--**Submitted:**-->
 
 ### In Preparation:
-* *Genus formulas for families of modular curves*, with Jun Bo Lau
 * *Towards a classification of n-discriminant ideal twins over number fields*, with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
 
 ### Undergraduate honors thesis:
