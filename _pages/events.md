@@ -13,6 +13,7 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
+* [UConn Math Club](https://events.uconn.edu/event/747540-math-club-opportunities-at-the-nsa-by-asimina-hamakio) (Speaker), Feb. 5, 2025
 * Kansas State University Number Theory Seminar (Speaker), Feb. 12, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
