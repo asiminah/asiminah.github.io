@@ -13,7 +13,6 @@ nav: true
 <!-- (<a href="/assets/pdf/AbDivFld.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [UConn Math Club](https://events.uconn.edu/event/747540-math-club-opportunities-at-the-nsa-by-asimina-hamakio) (Speaker), Feb. 5, 2025
 * [Kansas State University Number Theory Seminar](https://events.k-state.edu/event/number-theory-seminar-5844?utm_campaign=widget&utm_medium=widget&utm_source=Kansas+State+University+Events) (Speaker), Feb. 12, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
@@ -22,6 +21,7 @@ nav: true
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [UConn Math Club](https://events.uconn.edu/event/747540-math-club-opportunities-at-the-nsa-by-asimina-hamakio) (Speaker), Feb. 5, 2025
 * [Louisiana State University Algebra and Number Theory Seminar](https://www.math.lsu.edu/calendar?selecttime=all&selectevent=Algebra+and+Number+Theory+Seminar) (Speaker), Jan. 21, 2025
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/) (Speaker), Jan. 15 - 16, 2025
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
