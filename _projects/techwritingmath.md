@@ -74,12 +74,16 @@ Each draft of each assignment must be typeset using $$\LaTeX$$, and you will sub
 | :----            | :---: |  :----                  | :---: | :----:      |
 | 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/16   |
 | (min. 2 pages) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 2/25  |
+|                | |                                 |       |                          |
 | 2. Quadratic formula | | - Statement of quadratic formula | | Draft: 3/2  | 
 | (min. 2 pages) | |  - Include examples and references | | Final: 3/11   |
+|                | |                                 |       |                          |
 | 3. Math paper with graphics | | - Write about a theorem or result where graphs and graphics play a major role | | Draft: 3/23   |
 | (min. 3 pages) | |  - Use graphics, diagrams, matrices, arrays, hyper-reference, tables, and bibliography | | Final: 4/1  |
+|                | |                                 |       |                          |
 | 4. History of mathematics |       |  - Write about a famous mathematician  | | Draft: 4/6  |
 | (min. 4 pages) |       |  - Discuss some of the mathematician's work  | | Final: 4/15   |  
+|                | |                                 |       |                          |
 | 5. Applied mathematics | |  - Write about a real-world application of mathematicians  | | Draft: 4/20  | 
 | (min. 4 pages) |        |           |    | Final: 4/29  |
 
