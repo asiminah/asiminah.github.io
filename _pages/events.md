@@ -16,6 +16,7 @@ nav: true
 * [The Legacy of John Tate, and Beyond](https://www.math.harvard.edu/event/the-legacy-of-john-tate-and-beyond/), March 17 - 21, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
+* [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/home), May 5 - 9, 2025
 * [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc#section-2) at ICERM, June 23 - 27, 2025
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
