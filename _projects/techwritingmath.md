@@ -72,7 +72,7 @@ Each draft of each assignment must be typeset using $$\LaTeX$$, and you will sub
 
 | Assignment Topic |       |  Tasks for assignment   |       |  Due Date of assignment  | 
 | :----            | :---: |  :----                  | :---: | :----:      |
-| 1. Irrationality of the square root of 2 | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/16   |
+| 1. Irrationality of $$\sqrt{2}$$ | | - Learn $$\LaTeX$$ basics and elaborate on handwritten text | | Draft: 2/16   |
 | (min. 2 pages) | | - Use lemmas, theorems, examples, proofs, etc. | | Final: 2/25  |
 |                | |                                 |       |                          |
 | 2. Quadratic formula | | - Statement of quadratic formula | | Draft: 3/2  | 
