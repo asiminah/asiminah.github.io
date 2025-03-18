@@ -19,6 +19,8 @@ nav: true
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
 * [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/home) (Project Assistant), May 5 - 9, 2025
 * [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc#section-2) at ICERM, June 23 - 27, 2025
+* [LMFDB, Computation, and Number Theory (LuCaNT)](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant) at ICERM (Speaker), July 7 - 11, 2025
+
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
@@ -54,7 +56,7 @@ nav: true
 * [Maine-Quebec Number Theory Conference](https://mainequebecnt.github.io/#Programme) (Speaker), Sept. 30 - Oct. 1, 2023
 * [UConn Math Club](https://events.uconn.edu/math-club/event/48380-infinitude-of-the-primes) (Speaker), Sept. 20, 2023
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/52069-sigma-seminar-frequently-asked-questions-on-quant-inte) (Speaker), Sept. 15, 2023
-* [LMFDB, Computation, and Number Theory](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM (Speaker), July 10 - 14, 2023
+* [LMFDB, Computation, and Number Theory (LuCaNT)](https://icerm.brown.edu/events/sc-23-lucant/) at ICERM (Speaker), July 10 - 14, 2023
 * [Arithmetic Statistics Conference](https://conferences.cirm-math.fr/2675.html) at CIRM, March 15 - 19, 2023
 * [Arithmetic Statistics Research School](https://conferences.cirm-math.fr/2679.html) at CIRM, March 8 - 12, 2023
 * [Women In Numbers 6 (WIN6)](https://www.birs.ca/events/2023/5-day-workshops/23w5175), March 26 - 31, 2023 
