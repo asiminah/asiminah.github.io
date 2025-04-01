@@ -14,7 +14,6 @@ nav: true
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Thesis Defense](https://events.uconn.edu/event/879070-doctoral-dissertation-oral-defense-of-asimina-s) (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>), April 1, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 * Wesleyan Algebra Seminar (Speaker), April 18, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
@@ -26,6 +25,7 @@ nav: true
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Thesis Defense](https://events.uconn.edu/event/879070-doctoral-dissertation-oral-defense-of-asimina-s), April 1, 2025
 * [The Legacy of John Tate, and Beyond](https://www.math.harvard.edu/event/the-legacy-of-john-tate-and-beyond/), March 17 - 21, 2025
 * [Kansas State University Number Theory Seminar](https://events.k-state.edu/event/number-theory-seminar-5844?utm_campaign=widget&utm_medium=widget&utm_source=Kansas+State+University+Events) (Speaker), Feb. 12, 2025
 * [UConn Math Club](https://events.uconn.edu/event/747540-math-club-opportunities-at-the-nsa-by-asimina-hamakio) (Speaker), Feb. 5, 2025
