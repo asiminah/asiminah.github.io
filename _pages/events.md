@@ -14,7 +14,7 @@ nav: true
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Thesis Defense](https://events.uconn.edu/event/879070-doctoral-dissertation-oral-defense-of-asimina-s), April 1, 2025
+* [Thesis Defense](https://events.uconn.edu/event/879070-doctoral-dissertation-oral-defense-of-asimina-s) (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>), April 1, 2025
 * [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
 * Wesleyan Algebra Seminar (Speaker), April 18, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
