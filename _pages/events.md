@@ -14,7 +14,7 @@ nav: true
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025
+* [AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_special.html) (Speaker), April 5 - 6, 2025 (<a href="/assets/pdf/Hamakiotes_AMS_talk.pdf" target="_blank">talk</a>)
 * Wesleyan Algebra Seminar (Speaker), April 18, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
 * [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/home) (Project Assistant), May 5 - 9, 2025
