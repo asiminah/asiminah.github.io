@@ -27,7 +27,7 @@ nav: true
 ### Ph.D. Thesis:
 * Coming soon...
 
-### Undergraduate honors thesis:
+### Undergraduate Honors Thesis:
 * [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
 
 
