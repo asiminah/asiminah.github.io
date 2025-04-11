@@ -24,8 +24,11 @@ nav: true
 ### In Preparation:
 * *Towards a classification of n-discriminant ideal twins over number fields*, with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
 
+### Ph.D. Thesis:
+Coming soon...
+
 ### Undergraduate honors thesis:
-1. [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
+[The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
 
 
 <!--
