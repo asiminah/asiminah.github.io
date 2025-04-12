@@ -87,5 +87,6 @@ nav: true
 * [Arizona Winter Semester 2021 (Virtual)](https://www.math.arizona.edu/~swc/aws/2021/index.html)
 
 ### Number Theory Conferences (new and old):
-* [Numbertheory.org](http://www.numbertheory.org/ntw/N3.html)
-* [Researchseminars.org](https://researchseminars.org)
+* [Conferences in Number Theory](http://www.numbertheory.org/ntw/N3.html)
+* [Conferences in Arithmetic Geometry](https://mathweb.ucsd.edu/~kedlaya/cgi-bin/confs.cgi)
+<!-- * [Researchseminars.org](https://researchseminars.org) -->
