@@ -89,4 +89,4 @@ nav: true
 ### Number Theory Conferences (new and old):
 * [Conferences in Number Theory](http://www.numbertheory.org/ntw/N3.html)
 * [Conferences in Arithmetic Geometry](https://mathweb.ucsd.edu/~kedlaya/cgi-bin/confs.cgi)
-<!-- * [Researchseminars.org](https://researchseminars.org) -->
+* [Seminars in Number Theory](https://researchseminars.org)
