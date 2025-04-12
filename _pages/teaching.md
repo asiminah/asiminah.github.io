@@ -7,7 +7,7 @@ nav: true
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
-### Courses:
+### Courses Taught at UConn:
 * Spring 2025: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Fall 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Spring 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
@@ -29,7 +29,7 @@ nav: true
 * Winter 2022: [Algebra prelim](https://asiminah.github.io/algprelim/)
   
 
-### MATH 3710 Mathematical Modeling:
+### MATH 3710 Mathematical Modeling at UConn:
 
 Summer 2022 I was apart of a CLAS Course Improvement Mini Grant with [David T. McArdle](https://david-mcardle.scholar.uconn.edu/). The goal was to create a modular, inquiry-based modeling course. In particular, the learning objectives of the modules were to have the students 
 * demonstrate an understanding of how mathematical models can be implemented in various STEM fields, 
