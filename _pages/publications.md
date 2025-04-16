@@ -25,7 +25,7 @@ nav: true
 * *Towards a classification of n-discriminant ideal twins over number fields*, with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
 
 ### Ph.D. Thesis:
-* Abelian Extensions Arising from Elliptic Curves with Complex Multiplication (link coming soon...)
+* [Abelian Extensions Arising from Elliptic Curves with Complex Multiplication](https://collections.ctdigitalarchive.org/node/3905584?search=Hamakiotes) <br /> (University of Connecticut Library (2025))
 
 ### Undergraduate Honors Thesis:
 * [The Distribution of the Greatest Common Divisors of Elements in Quadratic Integer Rings](https://academicworks.cuny.edu/bb_etds/99/) <br /> (Baruch College CUNY Library (2020))
