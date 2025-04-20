@@ -55,22 +55,24 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+email: ahamakiotes@fordham.edu
+facebook_id: Asimina Hamakiotes
 github_username: asiminah
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+# gitlab_username: # your GitLab user name
+# twitter_username: # your Twitter handle
 linkedin_username: Asimina Hamakiotes
 scholar_userid: OwHGqV4AAAAJ&hl
 orcid_id: 0000-0003-3819-857X
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
 research_gate_profile: Asimina-Hamakiotes
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+# blogger_url: # your blogger URL
+# work_url: # work page URL
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
+# dblp_url: # your DBLP profile url
+# stackoverflow_id: #your stackoverflow id
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
