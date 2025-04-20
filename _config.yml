@@ -73,6 +73,10 @@ research_gate_profile: Asimina-Hamakiotes
 # wikidata_id: # your wikidata id
 # dblp_url: # your DBLP profile url
 # stackoverflow_id: #your stackoverflow id
+# custom_social: # can be any name here other than the ones already defined above
+  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  # title: Custom Social
+  # url: https://www.alberteinstein.com/
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
