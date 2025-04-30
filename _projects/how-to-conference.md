@@ -7,7 +7,7 @@ importance: 3
 category: Grad School
 ---
 
-In progress...
+In progress still... 
 
 
 When thinking about graduate school, we often think of milestones that includeimportant things like  passing qualifying exams, preparing oral exams, writing papers, and defending our thesis. An aspect that is often overlooked or forgotten is attending conferences successfully.  A seemingly less important part of graduate school that we should also think about is attending conferences! Regardless of whether you attend to give a talk or be a participantjust attend, it’s an important part of grad school that should be emphasized as because it allows you to network by getting your name out there and meeting new people in your field. 
