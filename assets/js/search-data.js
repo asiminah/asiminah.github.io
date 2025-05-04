@@ -37,6 +37,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-outreach",
+          title: "Outreach",
+          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "dropdown-blog",
               title: "Blog",
               description: "",
@@ -65,21 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/prelims/";
               },
-            },{id: "nav-outreach",
-          title: "Outreach",
-          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/outreach/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "projects-choosing-an-advisor",
+            },{id: "projects-choosing-an-advisor",
           title: 'Choosing an Advisor',
           description: "",
           section: "Projects",handler: () => {
