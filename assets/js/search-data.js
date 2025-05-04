@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-events",
-          title: "Events",
-          description: "Here is a list of number theory related events and conferences that I will attend/have attended.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/events/";
-          },
-        },{id: "nav-outreach",
+  },{id: "nav-outreach",
           title: "Outreach",
           description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
           section: "Navigation",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-events",
+          title: "Events",
+          description: "Here is a list of number theory related events and conferences that I will attend/have attended.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/events/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
