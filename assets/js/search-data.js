@@ -527,18 +527,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/writecv/";
             },},{
-        id: 'social-facebook',
-        title: 'Facebook',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("https://facebook.com/Asimina Hamakiotes", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/asiminah", "_blank");
+          window.open("mailto:%61%68%61%6D%61%6B%69%6F%74%65%73@%66%6F%72%64%68%61%6D.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -553,13 +546,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=OwHGqV4AAAAJ&hl", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0003-3819-857X", "_blank");
         },
       },{
         id: 'social-researchgate',
