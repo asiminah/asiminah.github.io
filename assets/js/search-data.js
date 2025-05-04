@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/events/";
           },
+        },{id: "nav-outreach",
+          title: "Outreach",
+          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Here are all of my papers.",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
-          },
-        },{id: "nav-outreach",
-          title: "Outreach",
-          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/outreach/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
