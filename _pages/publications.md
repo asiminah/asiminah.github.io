@@ -20,6 +20,10 @@ nav_order: 5
 2. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (Submitted, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
 3. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 
+<!-- [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (To appear in the Journal of Number Theory, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
+
+[The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (To appear in Mathematische Zeitschrift, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds)) -->
+
 <!--**Submitted:**-->
 
 ### In Preparation:
