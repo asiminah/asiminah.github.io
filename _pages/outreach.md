@@ -4,7 +4,7 @@ permalink: /outreach/
 title: Outreach
 description: Outreach is an important part of spreading mathematics and I am trying to help in any way I can. 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 I often give talks to the [UConn Math Club](https://mathclub.math.uconn.edu/) for undergrads. I have also been on panels about applying to Research Experiences for Undergraduates (REUs) and applying to grad school. 
