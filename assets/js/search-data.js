@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "Last updated January 2025.",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-research",
+          title: "Research",
+          description: "Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
