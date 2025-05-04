@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "Here are all of my papers.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-events",
           title: "Events",
           description: "Here is a list of number theory related events and conferences that I will attend/have attended.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Here are all of my papers.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
