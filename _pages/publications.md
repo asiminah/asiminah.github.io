@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Here are all of my papers.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 ### Publications:
