@@ -4,6 +4,7 @@ permalink: /research/
 title: Research
 description: Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.
 nav: true
+nav_order: 5
 ---
 
 My research interests are in arithmetic geometry and algebraic number theory. I am interested in studying elliptic curves and Galois representations. My advisor is [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/). 
