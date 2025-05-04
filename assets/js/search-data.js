@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-outreach",
-          title: "Outreach",
-          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/outreach/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "Last updated January 2025.",
           section: "Navigation",
@@ -79,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/prelims/";
               },
-            },{id: "projects-choosing-an-advisor",
+            },{id: "nav-outreach",
+          title: "Outreach",
+          description: "Outreach is an important part of spreading mathematics and I am trying to help in any way I can.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
+        },{id: "projects-choosing-an-advisor",
           title: 'Choosing an Advisor',
           description: "",
           section: "Projects",handler: () => {
