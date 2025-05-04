@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "dropdown-blog",
               title: "Blog",
               description: "",
@@ -72,14 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/prelims/";
               },
-            },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
