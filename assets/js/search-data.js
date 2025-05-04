@@ -172,8 +172,8 @@ ninja.data = [{
           window.open("mailto:%61%68%61%6D%61%6B%69%6F%74%65%73@%66%6F%72%64%68%61%6D.%65%64%75", "_blank");
         },
       },{
-        id: 'social-arxiv',
-        title: 'Arxiv',
+        id: 'social-arxiv_id',
+        title: 'Arxiv_id',
         section: 'Socials',
         handler: () => {
           window.open("", "_blank");
