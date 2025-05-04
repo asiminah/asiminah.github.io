@@ -32,7 +32,7 @@ In Spring 2020, I graduated from [Macaulay Honors](https://macaulay.cuny.edu/) a
 
 I have a 4.5 year old female German Shepherd named Athena. Her instagram is [@athenahamakiotes](https://www.instagram.com/athenahamakiotes/). In my free time, I like to do Brazilian jiu-jitsu and judo. I also enjoy swimming, going on walks/hikes, and listening to music. 
 
-If you would like to contact me, my email is [asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu).
+If you would like to contact me, my email is [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
