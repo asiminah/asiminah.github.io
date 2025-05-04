@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "dropdown-blog",
               title: "Blog",
               description: "",
@@ -78,6 +71,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/outreach/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "projects-choosing-an-advisor",
           title: 'Choosing an Advisor',
