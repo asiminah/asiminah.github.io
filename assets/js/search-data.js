@@ -161,7 +161,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Asimina Hamakiotes", "_blank");
+          window.open("https://www.linkedin.com/in/asimina-hamakiotes", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=OwHGqV4AAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
