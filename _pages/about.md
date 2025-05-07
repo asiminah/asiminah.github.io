@@ -9,9 +9,9 @@ profile:
   align: right
   image: AsiminaAthena.jpg
   address: >
-    <p>Office: MONT 322</p>
-    <p>University of Conn.</p>
-    <p>Storrs, CT 06269</p>
+    <p>Office: TBD</p>
+    <p>Fordham University</p>
+    <p>Lincoln Center, NYC 06269</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
