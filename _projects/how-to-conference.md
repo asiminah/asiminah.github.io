@@ -9,7 +9,7 @@ category: Grad School
 
 In progress still... 
 
-[Here](https://maa.org/math-values/how-to-conference/) is the link. 
+This blog post was written for the [MAA Math Values](https://maa.org/math-values/) blog. Here is a slightly different (unedited) version of the blog post. The official version can be found [here](https://maa.org/math-values/how-to-conference/). 
 
 ### Opening remarks 
 
