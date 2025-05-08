@@ -9,6 +9,9 @@ category: Grad School
 
 In progress still... 
 
+[Here](https://maa.org/math-values/how-to-conference/) is the link. 
+
+### Opening remarks 
 
 When thinking about graduate school, we often think of milestones that includeimportant things like  passing qualifying exams, preparing oral exams, writing papers, and defending our thesis. An aspect that is often overlooked or forgotten is attending conferences successfully.  A seemingly less important part of graduate school that we should also think about is attending conferences! Regardless of whether you attend to give a talk or be a participantjust attend, it’s an important part of grad school that should be emphasized as because it allows you to network by getting your name out there and meeting new people in your field. 
 
@@ -32,5 +35,7 @@ Suppose you have come up with a list of a realistic number of people you’d lik
 
 Well, one way you can do this is by attending their talk and asking them a question afterwards. If the speaker has a lot of questions after their talk, then you can wait and ask them during a coffee break or lunch. This option is nice because you will get more one-on-one time with the speaker as opposed to the 5-10 minutes after their talk. 
 Another way is perhaps you know of the speaker and have read their work. You could start by introducing yourself and telling them you really enjoyed reading their book/paper/notes on whatever. Everyone loves a good compliment and (probably) no one is going to quiz you on how well you know their work. Sometimes the most “famous” people seem to be the most intimidating, but oftentimesoften times they are the nicest! 
+
+### Closing remarks
 
 I find that at conferences people love to meet young motivated early career mathematicians like us grad students, so it’s enough to just talk about what you’re working on, ask questions, and be yourself. If you’re not doing any research yet, then that’s okay, you can still talk to people! You can tell them what phase you are in grad school, if you’re doing a reading course or working on passing qualifying exams, what you think you’re interested in studying, or anything. Everyone at these conferences was a grad student at some point and might have great advice to give you. 
