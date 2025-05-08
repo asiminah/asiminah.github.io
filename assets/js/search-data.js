@@ -111,7 +111,7 @@ ninja.data = [{
               window.location.href = "/projects/gradapps/";
             },},{id: "projects-how-to-conference",
           title: 'How to Conference',
-          description: "(working on this post)",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/how-to-conference/";
             },},{id: "projects-considering-grad-school",
