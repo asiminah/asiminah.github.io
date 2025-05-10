@@ -7,7 +7,7 @@ importance: 3
 category: Grad School
 ---
 
-This blog post was written for the [MAA Math Values blog](https://maa.org/math-values/). Here is a slightly different (unedited) version of the blog post. The official version can be found [here](https://maa.org/math-values/how-to-conference/). 
+This blog post was written for the [MAA Math Values blog](https://maa.org/math-values/). Here is a slightly different, but mostly exactly the same (unedited) version of the blog post. The official version can be found [here](https://maa.org/math-values/how-to-conference/). 
 
 ### Opening remarks 
 
