@@ -11,7 +11,7 @@ This blog post was written for the [MAA Math Values blog](https://maa.org/math-v
 
 ### Opening remarks 
 
-When thinking about graduate school, we often think of milestones that include important things like passing qualifying exams, preparing oral exams, writing papers, and defending our thesis. An aspect that is often overlooked or forgotten is attending conferences successfully. Regardless of whether you attend to give a talk or be a participant, it’s an important part of grad school that should be emphasized because it allows you to network by getting your name out there and meeting new people in your field. 
+When thinking about graduate school, we often think of milestones that include important things like passing qualifying exams, preparing oral exams, writing papers, and defending our thesis. An aspect that is often overlooked or forgotten is attending conferences successfully. Regardless of whether you attend to give a talk or be a participant, it’s an important part of graduate school that should be emphasized because it allows you to network by getting your name out there and meeting new people in your field. 
 
 ### How to find conferences to attend
 
@@ -32,7 +32,7 @@ How to network at conferences
 
 ### How to network at conferences
 
-Suppose you have come up with a list of a realistic number of people you’d like to meet at a conference. How do you talk to them? Sometimes this can be quite intimidating, but you should remember that most people at conferences are happy to meet new people and perhaps in the same boat as you where they are also nervous to talk to new people! Whenever you meet someone, you should introduce yourself: tell the person your name, where you go to grad school, what year you are in, and what you’re interested in studying. You should also ask them for the same information (even if you have looked them up before the conference and know the answers). This is easier said than done, but there are also other ways you can initiate conversations with people. 
+Suppose you have come up with a list of a realistic number of people you’d like to meet at a conference. How do you talk to them? Sometimes this can be quite intimidating, but you should remember that most people at conferences are happy to meet new people and perhaps in the same boat as you where they are also nervous to talk to new people! Whenever you meet someone, you should introduce yourself: tell the person your name, where you go to graduate school, what year you are in, and what you’re interested in studying. You should also ask them for the same information (even if you have looked them up before the conference and know the answers). This is easier said than done, but there are also other ways you can initiate conversations with people. 
 
 One way you can do this is by attending their talk and asking them a question afterwards. If the speaker has a lot of questions after their talk, then you can wait and ask them during a coffee break or lunch. This option is nice because you will get more one-on-one time with the speaker as opposed to one answer from the speaker after their talk. 
 Another way to start a conversation is by introducing yourself and telling the person you really enjoyed reading their book/paper/notes. Everyone loves a good compliment and (probably) no one is going to quiz you on how well you know their work. Sometimes the most “famous” people seem to be the most intimidating, but oftentimesoften times they are the nicest! 
