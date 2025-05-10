@@ -29,6 +29,9 @@ nav_order: 5
 ### In Preparation:
 * *Towards a classification of n-discriminant ideal twins over number fields*, with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
 
+### Other Writing
+* [How to Conference](https://maa.org/math-values/how-to-conference/) <br /> (Blog post for the MAA Math Values blog)
+
 ### Ph.D. Thesis:
 * [Abelian Extensions Arising from Elliptic Curves with Complex Multiplication](https://ctdigitalarchive.org/node/3905584) <br /> (University of Connecticut Library (2025))
 
