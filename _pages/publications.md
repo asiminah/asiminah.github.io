@@ -29,7 +29,7 @@ nav_order: 5
 ### In Preparation:
 * *Towards a classification of n-discriminant ideal twins over number fields*, with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson
 
-### Other Writing
+### Other Writing:
 * [How to Conference](https://maa.org/math-values/how-to-conference/) <br /> (Blog post for the MAA Math Values blog)
 
 ### Ph.D. Thesis:
