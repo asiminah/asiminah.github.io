@@ -2,7 +2,7 @@
 layout: page
 title: Courses Taught
 permalink: /courses/
-description: Here are the webpages for courses I have taught and am currently teaching. Testing new
+description: Here are the webpages for courses I have taught and am currently teaching. Testing new now
 nav: false
 nav_order: 1
 display_categories: [Fordham, UConn]
@@ -29,7 +29,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-1">
     {%- for project in sorted_projects -%}
       {% include projects.liquid %}
     {%- endfor %}
@@ -50,7 +50,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-1">
     {%- for project in sorted_projects -%}
       {% include projects.liquid %}
     {%- endfor %}
