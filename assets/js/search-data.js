@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for at the University of Connecticut.",
+          description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
