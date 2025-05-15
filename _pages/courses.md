@@ -2,7 +2,7 @@
 layout: page
 title: Courses Taught
 permalink: /courses/
-description: Here are the webpages for courses I have taught and am currently teaching. Testing again
+description: Here are the webpages for courses I have taught and am currently teaching. Testing 
 nav: false
 nav_order: 1
 display_categories: [Fordham, UConn]
@@ -20,7 +20,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.liquid %}
     {%- endfor %}
@@ -41,7 +41,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.liquid %}
     {%- endfor %}
