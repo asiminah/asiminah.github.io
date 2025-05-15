@@ -104,6 +104,11 @@ ninja.data = [{
           description: "(working on this post)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
+            },},{id: "projects-math-1206-calculus-i",
+          title: 'MATH 1206 Calculus I',
+          description: "This is the Fall 2025 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fordham-calc1/";
             },},{id: "projects-applying-to-grad-school",
           title: 'Applying to Grad School',
           description: "",
