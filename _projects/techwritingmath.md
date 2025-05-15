@@ -3,7 +3,7 @@ layout: page
 title: MATH 2705W Technical Writing in Math
 description: This is the Spring 2025 class webpage for Section 004 of MATH 2705W Technical Writing in Math at UConn. (This was also the Fall and Spring 2024 class webpage for my sections of MATH 2705W.)
 img: 
-importance: 1
+importance: 3
 category: UConn
 ---
 
