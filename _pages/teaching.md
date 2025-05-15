@@ -10,7 +10,7 @@ nav_order: 7
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 ### Courses Taught at UConn:
 
-## University of Connecticut
+#### University of Connecticut
 * Spring 2025: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Fall 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
 * Spring 2024: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
