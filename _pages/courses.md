@@ -2,7 +2,7 @@
 layout: page
 title: Courses Taught
 permalink: /courses/
-description: Here are the webpages for courses I have taught and am currently teaching. 
+description: Here are the webpages for courses I have taught and am currently teaching. Testing again
 nav: false
 nav_order: 1
 display_categories: [Fordham, UConn]
