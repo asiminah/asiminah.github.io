@@ -61,6 +61,10 @@ max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
+
+#idk where this goes, I added it
+custom_css: assets/css/custom.css
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
