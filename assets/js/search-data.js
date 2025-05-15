@@ -109,6 +109,11 @@ ninja.data = [{
           description: "This is the Fall 2025 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fordham-calc1/";
+            },},{id: "projects-math-2008-vector-calculus",
+          title: 'MATH 2008 Vector Calculus',
+          description: "This is the Fall 2025 class webpage for Section L01 of MATH 2008 Vector Calculus (Calculus III) at Fordham.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fordham-calc3/";
             },},{id: "projects-applying-to-grad-school",
           title: 'Applying to Grad School',
           description: "",
