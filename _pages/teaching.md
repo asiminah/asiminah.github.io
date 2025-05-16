@@ -11,7 +11,9 @@ nav_order: 7
 ### Courses Taught:
 
 **Fordham University**
-* Fall 2025: TBD
+* Fall 2025:
+  - MATH 1206 Calculus I
+  - MATH 2008 Vector Calculus (Calculus III)
 
 **University of Connecticut**
 * Spring 2025: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
