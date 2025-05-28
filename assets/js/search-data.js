@@ -181,11 +181,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=OwHGqV4AAAAJ&hl", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-arXiv_id',
+        title: 'Arxiv_id',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/search/?query=asimina+hamakiotes&searchtype=all&source=header", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
