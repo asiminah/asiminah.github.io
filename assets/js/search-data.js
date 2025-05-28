@@ -181,6 +181,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=OwHGqV4AAAAJ&hl", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/search/?query=asimina+hamakiotes&searchtype=all&source=header", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
