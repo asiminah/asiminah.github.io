@@ -50,7 +50,7 @@ scholar_userid: OwHGqV4AAAAJ&hl
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/arxiv.svg # can be png, svg, jpg
+  logo: assets/arxiv.svg # can be png, svg, jpg
   # title: arXiv
   url: https://arxiv.org/search/?query=asimina+hamakiotes&searchtype=all&source=header
 # custom_social: # can be any name here other than the ones already defined above
