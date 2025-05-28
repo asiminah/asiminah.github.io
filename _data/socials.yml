@@ -51,7 +51,7 @@ scholar_userid: OwHGqV4AAAAJ&hl
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
   logo: assets/arxiv.svg # can be png, svg, jpg
-  # title: arXiv
+  title: arXiv
   url: https://arxiv.org/search/?query=asimina+hamakiotes&searchtype=all&source=header
 # custom_social: # can be any name here other than the ones already defined above
   # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
