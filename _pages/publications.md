@@ -8,21 +8,19 @@ nav_order: 5
 ---
 
 ### Publications:
-1. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Journal of the London Mathematical Society, Vol. 110, No. 6 (2024), e70031)
-2. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (To appear in Fibonacci Quarterly)
-3. [Towards a classification of $$p^2$$-discriminant ideal twins over number fields](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
-4. [The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II](https://arxiv.org/abs/2401.06250), with John Cullinan, Shanna Dobson, Linda Frey, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard <br /> (Journal of Number Theory, Vol. 266 (2025), 131-165)
-5. [Asymptotic Distribution of the Partition Crank](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
-6. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
+1. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (To appear in the Journal of Number Theory, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
+2. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Journal of the London Mathematical Society, Vol. 110, No. 6 (2024), e70031)
+3. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (To appear in Fibonacci Quarterly)
+4. [Towards a classification of $$p^2$$-discriminant ideal twins over number fields](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
+5. [The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II](https://arxiv.org/abs/2401.06250), with John Cullinan, Shanna Dobson, Linda Frey, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard <br /> (Journal of Number Theory, Vol. 266 (2025), 131-165)
+6. [Asymptotic Distribution of the Partition Crank](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
+7. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 ### Preprints:
 1. [Genus formulas for families of modular curves](https://arxiv.org/abs/2501.10883), with Jun Bo Lau <br /> (Submitted)
-2. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (Submitted, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
-3. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
+2. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Submitted, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
 
-<!-- [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (To appear in the Journal of Number Theory, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
-
-[The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (To appear in Mathematische Zeitschrift, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds)) -->
+<!-- [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (To appear in Mathematische Zeitschrift, [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds)) -->
 
 <!--**Submitted:**-->
 
