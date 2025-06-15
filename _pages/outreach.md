@@ -22,7 +22,7 @@ I helped organize the [Mathematics Continued Conference (MCC)](https://mcc.math.
 
 ### Directed Reading Program
 
-I am a mentor in the [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/) at UConn. 
+I was a mentor in the [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/) at UConn. 
 * In Fall 2024, I mentored a student through reading "Number Theory and Geometry: An Introduction to Arithmetic Geometry", by Álvaro Lozano-Robledo.
 * In Spring 2023, I mentored a student through reading "An Introduction to Mathematical Cryptography", by Jeffrey Hoffstein, Jill Pipher, and Joseph H. Silverman.
-* In spring 2022, I mentored a student through reading "Elliptic Curves, Modular Forms, and Their L-Functions", by Álvaro Lozano-Robledo. 
+* In Spring 2022, I mentored a student through reading "Elliptic Curves, Modular Forms, and Their L-Functions", by Álvaro Lozano-Robledo. 
