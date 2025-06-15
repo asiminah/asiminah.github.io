@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### Undergrad Math Club
+### Undergraduate Math Club
 
 I often give talks to the [UConn Math Club](https://mathclub.math.uconn.edu/) for undergrads. I have also been on panels about applying to Research Experiences for Undergraduates (REUs) and applying to grad school. 
 * In Spring 2025, I gave a talk on "Opportunities at the NSA".
