@@ -15,14 +15,13 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc#section-2) at ICERM, June 23 - 27, 2025
 * [LMFDB, Computation, and Number Theory (LuCaNT)](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant) at ICERM, July 7 - 11, 2025
 * [LMFDB Workshop](https://math.mit.edu/~roed/conferences/LMFDB25/) at MIT, July 14 - 18, 2025
-
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc#section-2) at ICERM, June 23 - 27, 2025
 * [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/home) (Project Assistant), May 5 - 9, 2025
 * [37th Automorphic Forms Workshop](http://automorphicformsworkshop.org/index.html) (Speaker), April 30 - May 4, 2025
 * Wesleyan Algebra Seminar (Speaker), April 18, 2025
