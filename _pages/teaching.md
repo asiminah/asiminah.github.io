@@ -12,8 +12,8 @@ nav_order: 7
 
 **Fordham University**
 * Fall 2025:
-  - MATH 1206 Calculus I
-  - MATH 2008 Vector Calculus (Calculus III)
+  - [MATH 1206 Calculus I](https://asiminah.github.io/projects/fordham-calc1/)
+  - [MATH 2008 Vector Calculus (Calculus III)](https://asiminah.github.io/projects/fordham-calc3/)
 
 **University of Connecticut**
 * Spring 2025: [MATH 2705W Technical Writing in Mathematics](https://asiminah.github.io/projects/techwritingmath/) (Instructor)
