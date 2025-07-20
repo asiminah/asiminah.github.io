@@ -39,7 +39,18 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Homework:**
 
-**Grading:**
+**Grading:** The course grade will be composed of worksheets/quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
+
+| Course Component |       | Weight    | 
+| :----:           | :---: |  :----:   |   
+| Worksheets/Quizzes       |       |  15%      |  
+| Homework         |       |  15%      |
+| Midterms (2)     |       |  20%      | 
+| Final exam       |       |  30%      | 
+
+
+(All grades and assignments will be posted on Blackboard.) 
+
 
 **Exams:** 
 * Midterm 1
@@ -47,4 +58,12 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 * Final
 
 **Math Help Room:**
+
+
+## Class schedule
+
+
+
+
+
 
