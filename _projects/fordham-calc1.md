@@ -28,7 +28,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | Office | | Office | | Office  |
 | Office Hours | | Office Hours | | Office Hours   |
 |                | |                                 |       |                          |
-| **Lectures** | | Monday/Wednesday at 11:30AM - 12:45PM in Room TBD | | Monday/Wednesday at 1:00PM - 02:15PM in Room TBD  |
+| **Lectures** | | Mon./Wed. at 11:30AM - 12:45PM in Room TBD | | Mon./Wed. at 1:00PM - 02:15PM in Room TBD  |
 |                | |                                 |       |                          |
 | **Recitations** | | TBD | | TBD  | 
 |                | |                                 |       |                          |
