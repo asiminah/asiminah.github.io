@@ -45,7 +45,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | :----:           | :---: |  :----:   |   
 | Worksheets/Quizzes       |       |  15%      |  
 | Homework         |       |  15%      |
-| Midterms (2)     |       |  20%      | 
+| Midterm 1   |       |  20%      | 
+| Midterm 2     |       |  20%      | 
 | Final exam       |       |  30%      | 
 
 
