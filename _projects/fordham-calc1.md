@@ -35,7 +35,16 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 
 
+## Class structure
 
+**Homework:**
 
+**Grading:**
 
+**Exams:** 
+* Midterm 1
+* Midterm 2
+* Final
+
+**Math Help Room:**
 
