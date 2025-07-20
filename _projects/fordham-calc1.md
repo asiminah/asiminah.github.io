@@ -17,6 +17,6 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Class:**
 * Section L01 meets Monday's and Wednesday's at 11:30AM - 12:45PM in Room TBD.
-* Section L02 meets Monday's and Wednesday's at 01:00PM - 02:15PM in Room TBD. 
+* Section L02 meets Monday's and Wednesday's at 1:00PM - 02:15PM in Room TBD. 
 
 **Office Hours:** TBD
