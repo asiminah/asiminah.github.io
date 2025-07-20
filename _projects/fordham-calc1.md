@@ -20,30 +20,15 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 * Office:
 * Office Hours: TBD
 
-**Recitation Instructor for Section L01:** Dr. Sayantika Mondal
-* Contact:
-* Office:
-* Office Hours:
-
-**Recitation Instructor for Section L02:** Dr. Han-Bom Moon
-* Contact:
-* Office:
-* Office Hours:
-
-**Lectures:**
-* Section L01 meets Monday's and Wednesday's at 11:30AM - 12:45PM in Room TBD.
-* Section L02 meets Monday's and Wednesday's at 1:00PM - 02:15PM in Room TBD.
-
-**Recitations:**
 
 |  |       |  Section L01   |       |  Section L02  | 
-| :----     | :---: |  :----                  | :---: | :----:      |
+| :----     | :---: |  :----:       | :---: | :----:      |
 | **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
 | Contact | | email | | email  |
 | Office | | Office | | Office  |
 | Office Hours | | Office Hours | | Office Hours   |
 |                | |                                 |       |                          |
-| **Lectures** | | Mon./Wed. at 11:30AM - 12:45PM in Room TBD | | Mon./Wed. at 1:00PM - 02:15PM in Room TBD  |
+| **Lectures** | | M/W at 11:30AM - 12:45PM in Room TBD | | M/W at 1:00PM - 02:15PM in Room TBD  |
 |                | |                                 |       |                          |
 | **Recitations** | | TBD | | TBD  | 
 |                | |                                 |       |                          |
