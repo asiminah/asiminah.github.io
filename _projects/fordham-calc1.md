@@ -13,7 +13,7 @@ category: Fordham
 
 Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
 
-**Textbook:** James Stewart's "Calculus", 9th edition.
+**Textbook:** James Stewart, Daniel K. Clegg, and Saleem Watson's "Calculus", 9th edition.
 
 **Class:**
 * Section L01 meets Monday's and Wednesday's at 11:30AM - 12:45PM in Room TBD.
