@@ -37,7 +37,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 ### Class structure
 
-**Homework:**
+**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Homework is due ...
 
 **Grading:** The course grade will be composed of worksheets/quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
 
