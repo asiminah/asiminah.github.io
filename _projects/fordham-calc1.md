@@ -15,8 +15,24 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Textbook:** James Stewart, Daniel K. Clegg, and Saleem Watson's "Calculus", 9th edition.
 
-**Class:**
-* Section L01 meets Monday's and Wednesday's at 11:30AM - 12:45PM in Room TBD.
-* Section L02 meets Monday's and Wednesday's at 1:00PM - 02:15PM in Room TBD. 
+**Lecture Instructor:** Dr. Asimina Hamakiotes
+* Contact: ahamakiotes@fordham.edu
+* Office:
+* Office Hours: TBD
 
-**Office Hours:** TBD
+**Recitation Instructor for Section L01:** Dr. Sayantika Mondal
+* Contact:
+* Office:
+* Office Hours:
+
+**Recitation Instructor for Section L02:** Dr. Han-Bom Moon
+* Contact:
+* Office:
+* Office Hours:
+
+**Lectures:**
+* Section L01 meets Monday's and Wednesday's at 11:30AM - 12:45PM in Room TBD.
+* Section L02 meets Monday's and Wednesday's at 1:00PM - 02:15PM in Room TBD.
+
+**Recitations:**
+
