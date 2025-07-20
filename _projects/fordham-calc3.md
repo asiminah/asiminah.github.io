@@ -88,9 +88,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 (Thanksgiving Recess is November 26-30, 2025.)
 
-**Student conduct code:** 
-
-**Academic Integrity Statement:** 
+**Academic Integrity Statement:** This course expects all students to act in accordance with the [Academic Integrity Policy](https://www.fordham.edu/resources/policies/academic-integrity-policy/) at Fordham University. Because questions of intellectual property are important to the field of this course, we will discuss academic honesty as a topic and not just a policy. If you have questions about academic integrity or intellectual property, you should consult with your instructor. 
 
 **Students with Disabilities:** 
 
