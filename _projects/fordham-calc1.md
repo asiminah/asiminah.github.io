@@ -84,7 +84,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 10/22 |      |         |      |                            | 
 | 10/27 |      |         |      |                             |     
 | 10/29 |      |         |      |                                | 
-| 11/3  |      |         |      |                                                    |    
+| 11/3  |      |         |      |                                                    |  
+| 11/5  |      |         |      |                                           |
 | 11/10 |      |         |      |                                           |
 | 11/12 |      |         |      |                                           |
 | 11/17 |      |         |      |                                           |
