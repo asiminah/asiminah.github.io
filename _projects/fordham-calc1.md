@@ -36,3 +36,21 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Recitations:**
 
+|  |       |  Section L01   |       |  Section L02  | 
+| :----     | :---: |  :----                  | :---: | :----:      |
+| **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
+| Contact | | email | | email  |
+| Office | | Office | | Office  |
+| Office Hours | | Office Hours | | Office Hours   |
+|                | |                                 |       |                          |
+| **Lectures** | | Mon./Wed. at 11:30AM - 12:45PM in Room TBD | | Mon./Wed. at 1:00PM - 02:15PM in Room TBD  |
+|                | |                                 |       |                          |
+| **Recitations** | | TBD | | TBD  | 
+|                | |                                 |       |                          |
+
+
+
+
+
+
+
