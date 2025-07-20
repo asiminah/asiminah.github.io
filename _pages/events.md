@@ -15,7 +15,6 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [LMFDB Workshop](https://math.mit.edu/~roed/conferences/LMFDB25/) at MIT, July 14 - 18, 2025
 * [Preliminary Arizona Winter School (PAWS) 2025](https://swc-math.github.io/aws/2026/2026PAWS.html) (Problem Session Leader), Sept. 22 - Nov. 21, 2025
 * [AMS Fall Eastern Virtual Sectional Meeting](https://www.ams.org/meetings/sectional/2330_program.html) (Speaker), Oct. 25 - 26, 2025
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
@@ -23,6 +22,7 @@ nav_order: 3
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [LMFDB Workshop](https://math.mit.edu/~roed/conferences/LMFDB25/) at MIT, July 14 - 18, 2025
 * [LMFDB, Computation, and Number Theory (LuCaNT)](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant) at ICERM, July 7 - 11, 2025
 * [Algebraic Points on Curves](https://icerm.brown.edu/program/topical_workshop/tw-25-apc#section-2) at ICERM, June 23 - 27, 2025
 * [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/home) (Project Assistant), May 5 - 9, 2025
