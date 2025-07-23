@@ -10,7 +10,7 @@ nav_order: 5
 ### Publications:
 1. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (To appear in the Journal of Number Theory, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
 2. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Journal of the London Mathematical Society, Vol. 110, No. 6 (2024), e70031)
-3. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (To appear in Fibonacci Quarterly)
+3. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (The Fibonacci Quarterly (2025), 1-11)
 4. [Towards a classification of $$p^2$$-discriminant ideal twins over number fields](https://arxiv.org/abs/2403.01287), with Alyson Deines, Andreea Iorga, Changningphaabi Namoijam, Manami Roy, and Lori D. Watson <br /> (To appear in Research Directions in Number Theory: Women in Numbers VI)
 5. [The probability of non-isomorphic group structures of isogenous elliptic curves in finite field extensions, II](https://arxiv.org/abs/2401.06250), with John Cullinan, Shanna Dobson, Linda Frey, Roberto Hernandez, Nathan Kaplan, Jorge Mello, and Gabrielle Scullard <br /> (Journal of Number Theory, Vol. 266 (2025), 131-165)
 6. [Asymptotic Distribution of the Partition Crank](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
