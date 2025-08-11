@@ -17,7 +17,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: ahamakiotes@fordham.edu
-* Office:
+* Office: TBD
 * Office Hours: TBD
 
 
@@ -25,8 +25,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | :----     | :---: |  :----:       | :---: | :----:      |
 | **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
 | Contact | | smondal6@fordham.edu | | hmoon8@fordham.edu  |
-| Office | | Office | | LL817B  |
-| Office Hours | | Office Hours | | Office Hours   |
+| Office | | TBD | | LL817B  |
+| Office Hours | | TBD | | TBD   |
 |                | |                                 |       |                          |
 | **Lectures** | | Mon./Wed. at 11:30AM - 12:45PM in Room TBD | | Mon./Wed. at 1:00PM - 02:15PM in Room TBD  |
 |                | |                                 |       |                          |
