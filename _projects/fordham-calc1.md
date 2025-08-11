@@ -54,9 +54,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 
 **Exams:** 
-* Midterm 1
-* Midterm 2
-* Final
+* Midterm 1: Oct. 8, 2025
+* Midterm 2: Nov. 19, 2025
+* Final: TBD
 
 **Math Help Room:**
 
@@ -76,8 +76,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 9/24  |      |         |      |                                  | 
 | 9/29  |      |         |      |                              |  
 | 10/1  |      |         |      |                         | 
-| 10/6  |      |         |      |                              | 
-| 10/8  |      |         |      |                                                  |  
+| 10/6  |      |         |      | Exam Review                      | 
+| 10/8  |      |         |      | Midterm 1                                        |  
 | 10/13 |      |         |      |  Columbus Day        |   
 | 10/15 |      |         |      |                                               |   
 | 10/20 |      |         |      |                               |     
@@ -88,8 +88,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 11/5  |      |         |      |                                           |
 | 11/10 |      |         |      |                                           |
 | 11/12 |      |         |      |                                           |
-| 11/17 |      |         |      |                                           |
-| 11/19 |      |         |      |                                           |
+| 11/17 |      |         |      |  Exam Review                               |
+| 11/19 |      |         |      |  Midterm 2                           |
 | 11/24 |      |         |      |                                           |
 | 11/26 |      |         |      |  Thanksgiving Recess                                         |
 | 12/1  |      |         |      |                                           |
