@@ -65,36 +65,36 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 | Date  |      | Section |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/27  |      |         |      |  - TBD  |  
+| 8/27  |      |  1.5    |      |  Limit of a function  |  
 | 9/1   |      |         |      | Labor Day   | 
-| 9/3   |      |         |      |      | 
-| 9/8   |      |         |      |                                             |   
-| 9/10  |      |         |      |              |
-| 9/15  |      |         |      |                                       | 
-| 9/17  |      |         |      |                               |  
-| 9/22  |      |         |      |                           |    
-| 9/24  |      |         |      |                                  | 
-| 9/29  |      |         |      |                              |  
-| 10/1  |      |         |      |                         | 
-| 10/6  |      |         |      | Exam Review                      | 
-| 10/8  |      |         |      | Midterm 1                                        |  
+| 9/3   |      |  1.6    |      |  Limit laws   | 
+| 9/8   |      |  1.8    |      |  Continuity                                  |   
+| 9/10  |      | 2.1, 2.2 |      |  Rate of change, derivative  |
+| 9/15  |      | 2.3     |      |  Differentiation formulas                      | 
+| 9/17  |      | 2.4     |      |  Derivatives of trigonometric functions         |  
+| 9/22  |      | 2.5     |      |  Chain rule             |    
+| 9/24  |      | 2.6     |      |  Implicit differentiation                     | 
+| 9/29  |      | 2.8     |      |  Related rates            |  
+| 10/1  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
+| 10/6  |      |         |      |  Exam Review                      | 
+| 10/8  |      |         |      |  Midterm 1                                        |  
 | 10/13 |      |         |      |  Columbus Day        |   
-| 10/15 |      |         |      |                                               |   
-| 10/20 |      |         |      |                               |     
-| 10/22 |      |         |      |                            | 
-| 10/27 |      |         |      |                             |     
-| 10/29 |      |         |      |                                | 
-| 11/3  |      |         |      |                                                    |  
-| 11/5  |      |         |      |                                           |
-| 11/10 |      |         |      |                                           |
-| 11/12 |      |         |      |                                           |
+| 10/15 |      | 3.2     |      |  Mean value theorem                                  |   
+| 10/20 |      | 3.3     |      |  Shape of graph              |     
+| 10/22 |      | 3.4     |      |  Horizontal/vertical asymptotes     | 
+| 10/27 |      | 3.7     |      |  Optimization problems            |     
+| 10/29 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
+| 11/3  |      | 4.2     |      |  Definite integral                                |  
+| 11/5  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
+| 11/10 |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
+| 11/12 |      | 5.1     |      |  Area between curves                         |
 | 11/17 |      |         |      |  Exam Review                               |
 | 11/19 |      |         |      |  Midterm 2                           |
-| 11/24 |      |         |      |                                           |
+| 11/24 |      | 6.1     |      |  Inverse functions and their derivatives                 |
 | 11/26 |      |         |      |  Thanksgiving Recess                                         |
-| 12/1  |      |         |      |                                           |
-| 12/3  |      |         |      |                                           |
-| 12/8  |      |         |      |                                           |
+| 12/1  |      | 6.2     |      |  Exponential functions and their derivatives                       |
+| 12/3  |      | 6.3, 6.4 |      |  Logarithmic functions and their derivatives                   |
+| 12/8  |      |         |      |  Final Review                           |
 
 
 (Thanksgiving Recess is November 26-30, 2025.)
