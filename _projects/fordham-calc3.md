@@ -20,8 +20,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 **Class:** Monday's and Thursday's at 2:30-3:45PM in TBD. 
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
-* Contact: ahamakiotes@fordham.edu
-* Office:
+* Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
+* Office: TBD
 * Office Hours: TBD
 
 ### Class structure
@@ -43,9 +43,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 
 **Exams:** 
-* Midterm 1
-* Midterm 2
-* Final
+* Midterm 1: Oct. 9, 2025
+* Midterm 2: Nov. 20, 2025
+* Final: TBD
 
 **Math Help Room:**
 
@@ -54,36 +54,36 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 | Date  |      | Section |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/28  |      |         |      |  - TBD  |  
+| 8/28  |      |         |      | Review of 3D geometry, dot/cross products, and lines and planes in 3D |  
 | 9/1   |      |         |      | Labor Day   | 
-| 9/4   |      |         |      |      | 
-| 9/8   |      |         |      |                                             |   
-| 9/11  |      |         |      |              |
-| 9/15  |      |         |      |                                       | 
-| 9/18  |      |         |      |                               |  
-| 9/22  |      |         |      |                           |    
-| 9/25  |      |         |      |                                  | 
-| 9/29  |      |         |      |                              |  
-| 10/2  |      |         |      |                         | 
-| 10/6  |      |         |      |                              | 
-| 10/9  |      |         |      |                                                  |  
+| 9/4   |      |         |      | Vector functions   | 
+| 9/8   |      |         |      | Geometry of curves/Motion in spaces                       |   
+| 9/11  |      |         |      | Functions of several variables  |
+| 9/15  |      |         |      | Limits and continuity                     | 
+| 9/18  |      |         |      | Partial derivatives                  |  
+| 9/22  |      |         |      | Tangent planes             |    
+| 9/25  |      |         |      | Chain rule, directional derivatives                    | 
+| 9/29  |      |         |      | Gradient and extremal values, maximum and minimum     |  
+| 10/2  |      |         |      | Lagrange multiplier    | 
+| 10/6  |      |         |      |  Exam Review                            | 
+| 10/9  |      |         |      |  Midterm 1                                |  
 | 10/13 |      |         |      |  Columbus Day        |   
-| 10/16 |      |         |      |                                               |   
-| 10/20 |      |         |      |                               |     
-| 10/23 |      |         |      |                            | 
-| 10/27 |      |         |      |                             |     
-| 10/30 |      |         |      |                                | 
-| 11/3  |      |         |      |                                                    |    
-| 11/6 |      |         |      |                                           |
-| 11/10 |      |         |      |                                           |
-| 11/13 |      |         |      |                                           |
-| 11/17 |      |         |      |                                           |
-| 11/20 |      |         |      |                                           |
-| 11/24 |      |         |      |                                           |
+| 10/16 |      |         |      |  Multiple integral                                    |   
+| 10/20 |      |         |      |  Double integral in polar coordinates             |     
+| 10/23 |      |         |      |  Applications of double integrals        | 
+| 10/27 |      |         |      |  Spherical/cylindrical coordinate systems         |     
+| 10/30 |      |         |      |  Change of variables           | 
+| 11/3  |      |         |      |  Vector fields                           |    
+| 11/6  |      |         |      |  Line integrals                              |
+| 11/10 |      |         |      |  Fundamental theorem of line integrals                |
+| 11/13 |      |         |      |  Green’s theorem                         |
+| 11/17 |      |         |      |  Exam Review                                |
+| 11/20 |      |         |      |  Midterm 2                            |
+| 11/24 |      |         |      |  Parametric surfaces/surface area                      |
 | 11/27 |      |         |      |  Thanksgiving Recess                                         |
-| 12/1  |      |         |      |                                           |
-| 12/4  |      |         |      |                                           |
-| 12/8  |      |         |      |                                           |
+| 12/1  |      |         |      |  Surface integrals/Curl and divergence                    |
+| 12/4  |      |         |      |  Stokes’ theorem, divergence theorem                         |
+| 12/8  |      |         |      | Final Review           |
 
 
 (Thanksgiving Recess is November 26-30, 2025.)
