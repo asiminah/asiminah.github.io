@@ -54,35 +54,35 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 | Date  |      | Section |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/28  |      |         |      | Review of 3D geometry, dot/cross products, and lines and planes in 3D |  
+| 8/28  |      | 12.1, 12.3, 12.4, 12.5 |      | Review of 3D geometry, dot/cross products, and lines and planes in 3D |  
 | 9/1   |      |         |      | Labor Day   | 
-| 9/4   |      |         |      | Vector functions   | 
-| 9/8   |      |         |      | Geometry of curves/Motion in spaces                       |   
-| 9/11  |      |         |      | Functions of several variables  |
-| 9/15  |      |         |      | Limits and continuity                     | 
-| 9/18  |      |         |      | Partial derivatives                  |  
-| 9/22  |      |         |      | Tangent planes             |    
-| 9/25  |      |         |      | Chain rule, directional derivatives                    | 
-| 9/29  |      |         |      | Gradient and extremal values, maximum and minimum     |  
-| 10/2  |      |         |      | Lagrange multiplier    | 
+| 9/4   |      | 13.1    |      | Vector functions   | 
+| 9/8   |      | 13.3, 13.4 |      | Geometry of curves/Motion in spaces                       |   
+| 9/11  |      | 14.1    |      | Functions of several variables  |
+| 9/15  |      | 14.2    |      | Limits and continuity                     | 
+| 9/18  |      | 14.3    |      | Partial derivatives                  |  
+| 9/22  |      | 14.4    |      | Tangent planes             |    
+| 9/25  |      | 14.5, 14.6 |      | Chain rule, directional derivatives                    | 
+| 9/29  |      | 14.6, 14.7 |      | Gradient and extremal values, maximum and minimum     |  
+| 10/2  |      | 14.8    |      | Lagrange multiplier    | 
 | 10/6  |      |         |      |  Exam Review                            | 
 | 10/9  |      |         |      |  Midterm 1                                |  
 | 10/13 |      |         |      |  Columbus Day        |   
-| 10/16 |      |         |      |  Multiple integral                                    |   
-| 10/20 |      |         |      |  Double integral in polar coordinates             |     
-| 10/23 |      |         |      |  Applications of double integrals        | 
-| 10/27 |      |         |      |  Spherical/cylindrical coordinate systems         |     
-| 10/30 |      |         |      |  Change of variables           | 
-| 11/3  |      |         |      |  Vector fields                           |    
-| 11/6  |      |         |      |  Line integrals                              |
-| 11/10 |      |         |      |  Fundamental theorem of line integrals                |
-| 11/13 |      |         |      |  Green’s theorem                         |
+| 10/16 |      | 15.1, 15.2 |      |  Multiple integral                                    |   
+| 10/20 |      | 15.3    |      |  Double integral in polar coordinates             |     
+| 10/23 |      | 15.4    |      |  Applications of double integrals        | 
+| 10/27 |      | 15.7, 15.8 |      |  Spherical/cylindrical coordinate systems         |     
+| 10/30 |      | 15.9    |      |  Change of variables           | 
+| 11/3  |      | 16.1    |      |  Vector fields                           |    
+| 11/6  |      | 16.2    |      |  Line integrals                              |
+| 11/10 |      | 16.3    |      |  Fundamental theorem of line integrals                |
+| 11/13 |      | 16.4    |      |  Green’s theorem                         |
 | 11/17 |      |         |      |  Exam Review                                |
 | 11/20 |      |         |      |  Midterm 2                            |
-| 11/24 |      |         |      |  Parametric surfaces/surface area                      |
+| 11/24 |      | 16.6    |      |  Parametric surfaces/surface area                      |
 | 11/27 |      |         |      |  Thanksgiving Recess                                         |
-| 12/1  |      |         |      |  Surface integrals/Curl and divergence                    |
-| 12/4  |      |         |      |  Stokes’ theorem, divergence theorem                         |
+| 12/1  |      | 16.5 ,16.7 |      |  Surface integrals/Curl and divergence                    |
+| 12/4  |      | 16.8, 16.9 |      |  Stokes’ theorem, divergence theorem                         |
 | 12/8  |      |         |      | Final Review           |
 
 
