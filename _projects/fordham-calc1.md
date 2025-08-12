@@ -17,7 +17,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
-* Office: TBD
+* Office: LL817F
 * Office Hours: TBD
 
 
@@ -39,11 +39,13 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Homework is due ...
 
-**Grading:** The course grade will be composed of worksheets/quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
+**Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
+
+**Grading:** The course grade will be composed of quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
-| Worksheets/Quizzes       |       |  15%      |  
+| Quizzes       |       |  15%      |  
 | Homework         |       |  15%      |
 | Midterm 1   |       |  20%      | 
 | Midterm 2     |       |  20%      | 
@@ -54,9 +56,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 
 **Exams:** 
-* Midterm 1: Oct. 8, 2025
-* Midterm 2: Nov. 19, 2025
-* Final: TBD
+* **Midterm 1:** Oct. 8, 2025
+* **Midterm 2:** Nov. 19, 2025
+* **Final:** TBD
 
 **Math Help Room:**
 
@@ -77,7 +79,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 9/29  |      | 2.8     |      |  Related rates            |  
 | 10/1  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
 | 10/6  |      |         |      |  Exam Review                      | 
-| 10/8  |      |         |      |  Midterm 1                                        |  
+| 10/8  |      |         |      |  **Midterm 1**                                        |  
 | 10/13 |      |         |      |  Columbus Day        |   
 | 10/15 |      | 3.2     |      |  Mean value theorem                                  |   
 | 10/20 |      | 3.3     |      |  Shape of graph              |     
@@ -89,7 +91,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 11/10 |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
 | 11/12 |      | 5.1     |      |  Area between curves                         |
 | 11/17 |      |         |      |  Exam Review                               |
-| 11/19 |      |         |      |  Midterm 2                           |
+| 11/19 |      |         |      |  **Midterm 2**                           |
 | 11/24 |      | 6.1     |      |  Inverse functions and their derivatives                 |
 | 11/26 |      |         |      |  Thanksgiving Recess                                         |
 | 12/1  |      | 6.2     |      |  Exponential functions and their derivatives                       |
