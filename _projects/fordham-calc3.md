@@ -37,12 +37,12 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
-**Grading:** The course grade will be composed of quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
+**Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
-| :----:           | :---: |  :----:   |   
-| Quizzes       |       |  15%      |  
+| :----:           | :---: |  :----:   |    
 | Homework         |       |  15%      |
+| Quizzes       |       |  15%      | 
 | Midterm 1   |       |  20%      | 
 | Midterm 2     |       |  20%      | 
 | Final exam       |       |  30%      | 
