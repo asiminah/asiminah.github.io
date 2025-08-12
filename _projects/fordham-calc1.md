@@ -33,11 +33,16 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | **Recitations** | | Mon. at 4:00-4:50PM in Room TBD | | Wed. at 10:00-10:50AM in Room TBD  | 
 |                | |                                 |       |                          |
 
+**Math Help Room:**
 
 
 ### Class structure
 
-**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz.
+This class meets twice a week for lecture and once a week for recitation. Towards the bottom of this page, I have posted the tentative class schedule for the semester. I have written out which sections and topics of the textbook I plan to cover each class. 
+
+**Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
+
+**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
@@ -65,7 +70,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 * **Final:** TBD
 -->
 
-**Math Help Room:**
+
+**Make-up policy:** No make-up exams will be given after the exam date. If you know that you will miss an exam and have a good excuse, then you must let the instructor know in advance. You must follow the university's policy on excused absences. In case of illness or other emergency on an exam date, contact the instructor by email as soon as possible so that appropriate arrangements can be made.
 
 
 ### Class schedule
