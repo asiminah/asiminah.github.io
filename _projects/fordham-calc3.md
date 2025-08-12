@@ -19,9 +19,16 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Class:** Monday's and Thursday's at 2:30-3:45PM in TBD. 
 
+**Recitations:** Thursday's at 8:30-9:20AM in TBD. 
+
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
+* Office Hours: TBD
+
+**Recitation Instructor:** TBD
+* Contact: TBD
+* Office: TBD
 * Office Hours: TBD
 
 ### Class structure
