@@ -116,7 +116,7 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Students with Disabilities:** If you would like to request accommodations due to a documented disability, please contact the Office of Disability Services (ODS) as soon as possible. The ODS will then let the instructor know what types of accommodations should be provided (but not the nature of the disability). You are also encouraged to let the instructor know any aspects of the course that are not easily accessible to you so that the instructor can provide any appropriate support. The ODS is located at LL408 and can be reached by email at [disabilityservices@fordham.edu](mailto:disabilityservices@fordham.edu). Accommodations are NOT retroactive, so you need to register with ODS prior to receiving your accommodations.
 
-**Final Exam Policy:** 
+<!-- **Final Exam Policy:** -->
 
 
 
