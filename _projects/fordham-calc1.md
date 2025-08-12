@@ -18,7 +18,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
-* Office Hours: TBD
+* Office Hours: Thursday's at 12:25-2:25PM in LL817F
 
 
 |  |       |  Section L01   |       |  Section L02  | 
