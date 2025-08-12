@@ -21,12 +21,14 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
-* Office: TBD
+* Office: LL817F
 * Office Hours: TBD
 
 ### Class structure
 
 **Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Homework is due ...
+
+**Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
 **Grading:** The course grade will be composed of worksheets/quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
 
