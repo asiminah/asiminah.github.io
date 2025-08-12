@@ -30,11 +30,11 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
-**Grading:** The course grade will be composed of worksheets/quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
+**Grading:** The course grade will be composed of quizzes, homework, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |   
-| Worksheets/Quizzes       |       |  15%      |  
+| Quizzes       |       |  15%      |  
 | Homework         |       |  15%      |
 | Midterm 1   |       |  20%      | 
 | Midterm 2     |       |  20%      | 
@@ -45,9 +45,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 
 **Exams:** 
-* Midterm 1: Oct. 9, 2025
-* Midterm 2: Nov. 20, 2025
-* Final: TBD
+* **Midterm 1:** Oct. 9, 2025
+* **Midterm 2:** Nov. 20, 2025
+* **Final:** TBD
 
 **Math Help Room:**
 
@@ -68,7 +68,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 9/29  |      | 14.6, 14.7 |      | Gradient and extremal values, maximum and minimum     |  
 | 10/2  |      | 14.8    |      | Lagrange multiplier    | 
 | 10/6  |      |         |      |  Exam Review                            | 
-| 10/9  |      |         |      |  Midterm 1                                |  
+| 10/9  |      |         |      |  **Midterm 1**                                |  
 | 10/13 |      |         |      |  Columbus Day        |   
 | 10/16 |      | 15.1, 15.2 |      |  Multiple integral                                    |   
 | 10/20 |      | 15.3    |      |  Double integral in polar coordinates             |     
@@ -80,7 +80,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | 11/10 |      | 16.3    |      |  Fundamental theorem of line integrals                |
 | 11/13 |      | 16.4    |      |  Green’s theorem                         |
 | 11/17 |      |         |      |  Exam Review                                |
-| 11/20 |      |         |      |  Midterm 2                            |
+| 11/20 |      |         |      |  **Midterm 2**                            |
 | 11/24 |      | 16.6    |      |  Parametric surfaces/surface area                      |
 | 11/27 |      |         |      |  Thanksgiving Recess                                         |
 | 12/1  |      | 16.5 ,16.7 |      |  Surface integrals/Curl and divergence                    |
