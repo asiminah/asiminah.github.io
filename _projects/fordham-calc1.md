@@ -43,6 +43,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam.
 
+**Final exam:** The final exam will be cummulative and during finals week. The final exam is on TBD. No make-ups will be given unless for a reason approved by the Dean of Students.
+
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
