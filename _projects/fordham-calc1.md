@@ -41,6 +41,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
+**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam.
+
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
@@ -54,11 +56,12 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 (All grades and assignments will be posted on Blackboard.) 
 
-
+<!--
 **Exams:** 
 * **Midterm 1:** Oct. 8, 2025
 * **Midterm 2:** Nov. 19, 2025
 * **Final:** TBD
+-->
 
 **Math Help Room:**
 
