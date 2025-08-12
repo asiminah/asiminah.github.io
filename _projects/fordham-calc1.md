@@ -37,7 +37,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 ### Class structure
 
-**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Homework is due ...
+**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz.
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points.
 
