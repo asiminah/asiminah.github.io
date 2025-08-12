@@ -68,6 +68,7 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 * **Final:** TBD
 -->
 
+**Make-up policy:** No make-up exams will be given after the exam date. If you know that you will miss an exam and have a good excuse, then you must let the instructor know in advance. You must follow the university's policy on excused absences. In case of illness or other emergency on an exam date, contact the instructor by email as soon as possible so that appropriate arrangements can be made.
 
 ### Class schedule
 
