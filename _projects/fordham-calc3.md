@@ -58,7 +58,6 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 | Midterm 2     |       |  20%      | 
 | Final exam       |       |  30%      | 
 
-
 (All grades and assignments will be posted on Blackboard.) 
 
 <!--
