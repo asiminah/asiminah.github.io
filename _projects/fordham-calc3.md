@@ -26,7 +26,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 * Office: LL817F
 * Office Hours: Thursday's at 12:25-2:25PM in LL817F
 
-**Recitation Instructor:** Susan 
+**Recitation Instructor:** Susan Rutter
 * Contact: [srutter1@fordham.edu](mailto:srutter1@fordham.edu)
 * Office: TBD
 * Office Hours: TBD
