@@ -10,7 +10,7 @@ profile:
   image: AsiminaAthena.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: TBD</p>
+    <p>Office: LL817F</p>
     <p>Fordham University, Lincoln Center</p>
     <p>New York, NY 10023</p>
 
