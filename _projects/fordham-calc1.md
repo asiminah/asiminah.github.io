@@ -25,12 +25,12 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | :----     | :---: |  :----:       | :---: | :----:      |
 | **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
 | Contact | | [smondal6@fordham.edu](mailto:smondal6@fordham.edu) | | [hmoon8@fordham.edu](mailto:hmoon8@fordham.edu)  |
-| Office | | TBD | | LL817B  |
+| Office | | Math Help Room | | LL817B  |
 | Office Hours | | TBD | | MW 9:00-9:50AM, T 9-11AM, or by appointment  |
 |                | |                                 |       |                          |
-| **Lectures** | | MW at 11:30AM-12:45PM in Room TBD | | MW at 1:00PM-02:15PM in Room TBD  |
+| **Lectures** | | MW at 11:30AM-12:45PM in LL510 | | MW at 1:00PM-02:15PM in LL510  |
 |                | |                                 |       |                          |
-| **Recitations** | | M at 4:00-4:50PM in Room TBD | | W at 10:00-10:50AM in Room TBD  | 
+| **Recitations** | | M at 4:00-4:50PM in LL510 | | W at 10:00-10:50AM in LL510  | 
 |                | |                                 |       |                          |
 
 **Math Help Room:** Additional help (outside of the lecturer and recitation leader's office hours) can be found in the Math Help Room without making an appointment. The Math Help Room is staffed by math professors and undergraduate tutors during some time blocks between 9:00AM and 5:00PM from Monday's through Friday's. The Math Help Room is located in LL810 or LL812, depending on the time. More information with the Math Help Room schedule will be posted once it is known. 
