@@ -26,9 +26,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
 | Contact | | [smondal6@fordham.edu](mailto:smondal6@fordham.edu) | | [hmoon8@fordham.edu](mailto:hmoon8@fordham.edu)  |
 | Office | | TBD | | LL817B  |
-| Office Hours | | TBD | | MW 9:00 - 9:50AM, T 9 - 11AM, or by appointment  |
+| Office Hours | | TBD | | MW 9:00-9:50AM, T 9-11AM, or by appointment  |
 |                | |                                 |       |                          |
-| **Lectures** | | MW at 11:30AM - 12:45PM in Room TBD | | MW at 1:00PM - 02:15PM in Room TBD  |
+| **Lectures** | | MW at 11:30AM-12:45PM in Room TBD | | MW at 1:00PM-02:15PM in Room TBD  |
 |                | |                                 |       |                          |
 | **Recitations** | | M at 4:00-4:50PM in Room TBD | | W at 10:00-10:50AM in Room TBD  | 
 |                | |                                 |       |                          |
