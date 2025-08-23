@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- **I am on the 2024-2025 academic job market!** -->
 
-My name is Asimina and in Fall 2025, I will be a Peter M. Curran Visiting Assistant Professor at [Fordham University](https://www.fordham.edu/). In Spring 2025, I completed my Ph.D. in Mathematics from the [University of Connecticut (UConn)](https://uconn.edu/) under [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/), where I was supported by the [Graduate Fellowship for STEM Diversity (GFSD)](https://stemfellowships.org/) from 2022 - 2025. My interests are in number theory and algebra, specifically, arithmetic geometry and algebraic number theory. 
+My name is Asimina and in Fall 2025, I am a Peter M. Curran Visiting Assistant Professor at [Fordham University](https://www.fordham.edu/). In Spring 2025, I completed my Ph.D. in Mathematics from the [University of Connecticut (UConn)](https://uconn.edu/) under [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/), where I was supported by the [Graduate Fellowship for STEM Diversity (GFSD)](https://stemfellowships.org/) from 2022 - 2025. My interests are in number theory and algebra, specifically, arithmetic geometry and algebraic number theory. 
 
 <!-- My name is Asimina and in Fall 2025, I will be a Peter M. Curran Visiting Assistant Professor at [Fordham University](https://www.fordham.edu/). My interests are in number theory and algebra, specifically, arithmetic geometry and algebraic number theory. My post-doctoral mentor is [A. Raghuram](https://sites.google.com/site/math4raghuram/home?authuser=0). 
 
