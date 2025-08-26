@@ -50,11 +50,12 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
 
-| :----     | :---: |  :----:       | 
+|                 |      |               |
+| :----           | :--: |  :----:       | 
 | **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM  | 
-|                | |                                 |     
+|                 | |                                 |     
 | **Section L02** | | Wednesday, December 17, 2025 at 1:30PM-3:30PM | 
-|                | |                                 |       
+|                 | |                                 |       
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
