@@ -44,7 +44,7 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Midterms:** There will be two midterms. Midterm 1 is on Thurs. 10/9 and Midterm 2 is on Thurs. 11/20. We will have review sessions in class on Monday the week of the exam.
 
-**Final exam:** The final exam will be cummulative and during finals week. The final exam is on TBD. No make-ups will be given unless for a reason approved by the Dean of Students.
+**Final exam:** The final exam will be cummulative and during finals week. The final exam is on **Monday, December 15, 2025 at 1:30PM-3:30PM**. No make-ups will be given unless for a reason approved by the Dean of Students.
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
