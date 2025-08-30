@@ -64,4 +64,4 @@ horizontal: false
 {% endif %}
 </div>
 
-Feel free to email me ([asimina.hamakiotes@uconn.edu](mailto:asimina.hamakiotes@uconn.edu)) with any questions you would like to see answered!
+Feel free to email me ([ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)) with any questions you would like to see answered!
