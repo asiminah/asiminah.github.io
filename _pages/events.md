@@ -19,6 +19,7 @@ nav_order: 3
 * [Preliminary Arizona Winter School (PAWS) 2025](https://swc-math.github.io/aws/2026/2026PAWS.html) (Problem Session Leader), Sept. 22 - Nov. 21, 2025
 * [AMS Fall Eastern Virtual Sectional Meeting](https://www.ams.org/meetings/sectional/2330_program.html) (Speaker), Oct. 25 - 26, 2025
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
+* [Arizona Winter School (AWS) 2026](https://swc-math.github.io/aws/2026/index.html) (Problem Session Leader), March 7 - 11, 2026
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
