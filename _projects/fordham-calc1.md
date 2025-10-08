@@ -44,9 +44,9 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
 
-**Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points. There will be no make-up quizzes unless there are extenuating circumstances. 
+**Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points. There will be no make-up quizzes. 
 
-**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam.
+**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
 
