@@ -27,6 +27,9 @@ nav_order: 7
 * Spring 2021: [MATH 1132Q Calculus II](https://courses.math.uconn.edu/spring2021/math-1132/) (TA)
 * Fall 2020: [MATH 1131Q Calculus I](https://courses.math.uconn.edu/fall2020/math-1131/) (TA)
 
+### AshMath:
+I like to make YouTube videos explaining problems that my students, family, or non-math friends struggle with. Feel free to send me a math problem you'd like explained. [Here](https://www.youtube.com/@AshMath1729) is a link to my YouTube channel! 
+
 ### Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):
 * Fall 2024: Giancarlo Stabler, project on number theory and geometry (<a href="/assets/pdf/Giancarlo_DRP_Final_Presentation.pdf" target="_blank">presentation</a>)
 * Spring 2023: Sarah Hocutt, project on mathematical cryptography (<a href="/assets/pdf/Lattice_Cryptography_DRP_Presentation.pdf" target="_blank">presentation</a>)
