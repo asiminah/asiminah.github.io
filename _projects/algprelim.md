@@ -16,12 +16,12 @@ Although the course text that is always recommended for this prelim and used in 
 For general information on how to study for prelims, you can read [this](https://asiminah.github.io/projects/quals/) blog post. 
 
 **Here are the notes from the Winter 2022 tutoring sessions:**
-* Session one, <a href="/assets/pdf/AlgPrelim/AlgJan2021.pdf" target="_blank">notes</a> ([Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2021/05/jan2021alg.pdf))
-* Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2020.pdf" target="_blank">notes1</a> ([Aug. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/11/aug2020alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgJan2020.pdf" target="_blank">notes2</a> ([Jan. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2020/05/jan2020alg.pdf))
-* Session three, <a href="/assets/pdf/AlgPrelim/AlgAug2019.pdf" target="_blank">notes</a> ([Aug. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2019/08/aug2019alg.pdf))
-* Session four, <a href="/assets/pdf/AlgPrelim/AlgJan2019.pdf" target="_blank">notes</a> ([Jan. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2019/07/jan2019alg.pdf)) 
-* Session five, <a href="/assets/pdf/AlgPrelim/AlgAug2018.pdf" target="_blank">notes</a> ([Aug. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2018alg.pdf)) 
-* Session six, <a href="/assets/pdf/AlgPrelim/AlgJan2018.pdf" target="_blank">notes1</a> ([Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/jan2018alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgAug2017.pdf" target="_blank">notes2</a> ([Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/2511/2018/12/aug2017alg.pdf))
+* Session one, <a href="/assets/pdf/AlgPrelim/AlgJan2021.pdf" target="_blank">notes</a> ([Jan. 2021 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2021/05/jan2021alg.pdf))
+* Session two, <a href="/assets/pdf/AlgPrelim/AlgAug2020.pdf" target="_blank">notes1</a> ([Aug. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2020/11/aug2020alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgJan2020.pdf" target="_blank">notes2</a> ([Jan. 2020 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2020/05/jan2020alg.pdf))
+* Session three, <a href="/assets/pdf/AlgPrelim/AlgAug2019.pdf" target="_blank">notes</a> ([Aug. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2019/08/aug2019alg.pdf))
+* Session four, <a href="/assets/pdf/AlgPrelim/AlgJan2019.pdf" target="_blank">notes</a> ([Jan. 2019 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2019/07/jan2019alg.pdf)) 
+* Session five, <a href="/assets/pdf/AlgPrelim/AlgAug2018.pdf" target="_blank">notes</a> ([Aug. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2018alg.pdf)) 
+* Session six, <a href="/assets/pdf/AlgPrelim/AlgJan2018.pdf" target="_blank">notes1</a> ([Jan. 2018 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/jan2018alg.pdf)), <a href="/assets/pdf/AlgPrelim/AlgAug2017.pdf" target="_blank">notes2</a> ([Aug. 2017 prelim](https://math.uconn.edu/wp-content/uploads/sites/3655/2018/12/aug2017alg.pdf))
 
 
 **Here are the notes from the Summer 2023 tutoring sessions:**
