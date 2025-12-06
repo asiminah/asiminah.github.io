@@ -49,11 +49,10 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 **Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
-
 |                 |      |               |
 | :----           | :--: |  :----:       | 
-| **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM  | 
-| **Section L02** | | Wednesday, December 17, 2025 at 1:30PM-3:30PM | 
+| **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM in LL510 | 
+| **Section L02** | | Wednesday, December 17, 2025 at 1:30PM-3:30PM in LL510 | 
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
