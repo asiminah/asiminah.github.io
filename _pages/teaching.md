@@ -31,10 +31,16 @@ nav_order: 7
 ### AshMath:
 I like to make YouTube videos explaining problems that my students, family, or non-math friends struggle with. Feel free to send me a math problem you'd like explained. [Here](https://www.youtube.com/@AshMath1729) is a link to my YouTube channel! 
 
+
+### Arizona Winter School (AWS)/Preliminary Arizona Winter School (PAWS):
+Fall 2025 I was a part of the PAWS on Mathematical cryptography and algorithms in number theory. I served as a Problem Session Leader for the lecture series on "Analysis and implementation of algorithms in number theory". The problem sets I helped write for the lecture series can be found [here](https://swc-math.github.io/aws/2026/2026PAWS.html). Spring 2026 I will be a part of the AWS on Computational Aspects of Arithmetic Geometry and Cryptography. I will serve as a Problem Session Leader for "Analysis of algorithms in number theory" and "Introduction to Magma". The materials I prepare will be found [here](https://swc-math.github.io/aws/2026/index.html).
+
+
 ### Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):
 * Fall 2024: Giancarlo Stabler, project on number theory and geometry (<a href="/assets/pdf/Giancarlo_DRP_Final_Presentation.pdf" target="_blank">presentation</a>)
 * Spring 2023: Sarah Hocutt, project on mathematical cryptography (<a href="/assets/pdf/Lattice_Cryptography_DRP_Presentation.pdf" target="_blank">presentation</a>)
 * Spring 2022: Sierra Woods, project on elliptic curves (<a href="/assets/pdf/Elliptic_Curves_FINAL_PRESENTATION.pdf" target="_blank">presentation</a>)
+
 
 ### [Prelims](https://math.uconn.edu/degree-programs/graduate/preliminary-exams/) tutored at UConn:
 * Summer 2023: [Algebra prelim](https://asiminah.github.io/algprelim/)
