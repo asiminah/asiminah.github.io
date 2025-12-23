@@ -33,7 +33,8 @@ I like to make YouTube videos explaining problems that my students, family, or n
 
 
 ### Arizona Winter School (AWS)/Preliminary Arizona Winter School (PAWS):
-Fall 2025 I was a part of the PAWS on Mathematical cryptography and algorithms in number theory. I served as a Problem Session Leader for the lecture series on "Analysis and implementation of algorithms in number theory". The problem sets I helped write for the lecture series can be found [here](https://swc-math.github.io/aws/2026/2026PAWS.html). Spring 2026 I will be a part of the AWS on Computational Aspects of Arithmetic Geometry and Cryptography. I will serve as a Problem Session Leader for "Analysis of algorithms in number theory" and "Introduction to Magma". The materials I prepare will be found [here](https://swc-math.github.io/aws/2026/index.html).
+* Fall 2025 I was a part of the PAWS on Mathematical cryptography and algorithms in number theory. I served as a Problem Session Leader for the lecture series on "Analysis and implementation of algorithms in number theory". The problem sets I helped write for the lecture series can be found [here](https://swc-math.github.io/aws/2026/2026PAWS.html).
+* Spring 2026 I will be a part of the AWS on Computational Aspects of Arithmetic Geometry and Cryptography. I will serve as a Problem Session Leader for "Analysis of algorithms in number theory" and "Introduction to Magma". The materials I prepare will be found [here](https://swc-math.github.io/aws/2026/index.html).
 
 
 ### Students mentored through UConn's [Directed Reading Program (DRP)](https://math.uconn.edu/degree-programs/undergraduate/directed-reading-program/):
