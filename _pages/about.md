@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/AsiminaAthena.jpg
+image: /assets/img/Hamakiotes_Headshot.jpg
 title: About
 permalink: /
 <!-- subtitle: <a href='#'>asimina.hamakiotes@uconn.edu</a> -->
