@@ -36,7 +36,7 @@ EVERYTHING BELOW NEEDS TO BE EDITED FOR MATH 2011.
 
 This class meets twice a week for lecture and once a week for recitation. Towards the bottom of this page, I have posted the tentative class schedule for the semester. I have written out which sections and topics of the textbook I plan to cover each class. 
 
-**Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
+**Participation and Attendance:** You are expected to attend and fully participate in every class. This includes being called on to answer questions, ask questions, and discuss examples, and more. In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
 
 **Homework:** The exercises in the textbook will be the homework's for this course. Homework will be submitted on dropbox (more information will be provided on blackboard about how to submit homework, etc.). Homework is due on Sunday's at 11:59PM. All late homeworks will recieve a 0. 
 
