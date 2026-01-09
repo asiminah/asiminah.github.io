@@ -15,13 +15,15 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 
 **Prerequisite:** MATH 1206 (Calculus I).
 
-**Textbook:** TBD
+**Textbook:** Rolf J. Ryham's textbook (will distribute in class).
+
+**Software:** Python 3, vim
 
 **Class:** Monday’s and Wednesday’s at 11:30AM-12:45PM in TBD.
 
 **Recitations:** Monday’s at 1-1:50PM in TBD.
 
-**Lecture Instructor:** Dr. Asimina Hamakiotes
+**Lecture and Recitation Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
 * Office Hours: TBD in LL817F
@@ -36,30 +38,25 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
 
-**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
+**Homework:** The exercises in the textbook will be the homework's for this course. Homework will be submitted on dropbox (more information will be provided on blackboard about how to submit homework, etc.). Homework is due on Sunday's at 11:59PM. All late homeworks will recieve a 0. 
 
-**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
+**Midterm:** There will be one midterm. Midterm 1 is on TBD. There will be no make-up exams unless.
 
-**Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
+**Final Project:** The final project will be cummulative and during the last week of classes (more information about the final project will be posted on blackboard). No make-ups will be given unless for a reason approved by the Dean of Students.
 
-**Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
+**Grading:** The course grade will be composed of participation, homework, labs, midterm, and a final project. The breakdown will be as follows: 
 
 | Course Component |       | Weight    | 
-| :----:           | :---: |  :----:   |    
-| Homework         |       |  15%      |
+| :----:           | :---: |  :----:   |  
+| Participation    |       |  10%      |
+| Homework         |       |  20%      |
 | Labs             |       |  20%      | 
-| Midterm          |       |  20%      | 
-| Final exam       |       |  30%      | 
+| Midterm          |       |  25%      | 
+| Final exam       |       |  25%      | 
 
 
 (All grades and assignments will be posted on Blackboard.) 
 
-<!--
-**Exams:** 
-* **Midterm 1:** Oct. 8, 2025
-* **Midterm 2:** Nov. 19, 2025
-* **Final:** TBD
--->
 
 
 **Make-up policy:** No make-up exams will be given after the exam date. If you know that you will miss an exam and have a good excuse, then you must let the instructor know in advance. You must follow the university's policy on excused absences. In case of illness or other emergency on an exam date, contact the instructor by email as soon as possible so that appropriate arrangements can be made.
@@ -67,36 +64,36 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 ### Class schedule
 
-| Date  |      | Section |      | Topic                                                                   | 
+| Date  |      | Chapter |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 1/12  |      |  1.5    |      |  Limit of a function  |  
-| 1/14  |      |         |      | Labor Day   | 
-| 1/21  |      |  1.6    |      |  Limit laws   | 
-| 1/26  |      |  1.8    |      |  Continuity                                  |   
-| 1/28  |      | 2.1, 2.2 |      |  Rate of change, derivative  |
-| 2/2   |      | 2.3     |      |  Differentiation formulas                      | 
-| 2/4   |      | 2.4     |      |  Derivatives of trigonometric functions         |  
-| 2/9   |      | 2.5     |      |  Chain rule             |    
-| 2/11  |      | 2.6     |      |  Implicit differentiation                     | 
-| 2/17  |      | 2.8     |      |  Related rates            |  
-| 2/18  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
-| 2/23  |      |         |      |  Exam Review                      | 
-| 2/25  |      |         |      |  **Midterm 1**                                        |  
-| 3/2 |      |         |      |  Columbus Day        |   
-| 3/4 |      | 3.2     |      |  Mean value theorem                                  |   
-| 3/16 |      | 3.3     |      |  Shape of graph              |     
-| 3/18 |      | 3.4     |      |  Horizontal/vertical asymptotes     | 
-| 3/23 |      | 3.7     |      |  Optimization problems            |     
-| 3/25 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
-| 3/30  |      | 4.2     |      |  Definite integral                                |  
-| 4/1  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
-| 4/8 |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
-| 4/13 |      | 5.1     |      |  Area between curves                         |
-| 4/15 |      |         |      |  Exam Review                               |
-| 4/20 |      |         |      |  **Midterm 2**                           |
-| 4/22 |      | 6.1     |      |  Inverse functions and their derivatives                 |
-| 4/27 |      |         |      |  Thanksgiving Recess                                         |
-| 4/29  |      | 6.2     |      |  Exponential functions and their derivatives                       |
+| 1/12  |      |  1      |      |  Introduction to Linux  |  
+| 1/14  |      |  2      |      | Introduction to Python   | 
+| 1/21  |      |  3      |      |  Flow control  | 
+| 1/26  |      |  4      |      |  Containers                                  |   
+| 1/28  |      |  4      |      |  Containers        |
+| 2/2   |      |  5      |      |  Functions and classes                     | 
+| 2/4   |      |  5      |      |  Functions and classes         |  
+| 2/9   |      |  6      |      |  Complexity                 |    
+| 2/11  |      |  6      |      |  Complexity                    | 
+| 2/17  |      |  7      |      |  Vectors           |  
+| 2/18  |      |  7      |      |  Vectors         | 
+| 2/23  |      |  8      |      |  Projection                     | 
+| 2/25  |      |         |      |  **Midterm**                                        |  
+| 3/2   |      |  9      |      |  Matrices        |   
+| 3/4   |      |  9      |      |  Matrices                                  |   
+| 3/16  |      |  10     |      |  Row reduction              |     
+| 3/18  |      |  10     |      |  Row reduction     | 
+| 3/23  |      |  11     |      |  Invertibility            |     
+| 3/25  |      |  11     |      |  Invertibility                | 
+| 3/30  |      |  12     |      |  Transpose                                |  
+| 4/1   |      |  12     |      |  Transpose            |
+| 4/8   |      |  13     |      |  Least squares                  |
+| 4/13  |      |  14     |      |  Sparse matrices                        |
+| 4/15  |      |  14     |      |  Sparse matrices                              |
+| 4/20  |      |  15     |      |  Gradient descent                           |
+| 4/22  |      |  15     |      |  Gradient descent                |
+| 4/27  |      |         |      |  Final project                                         |
+| 4/29  |      |         |      |  Final project                      |
 
 
 (Spring Recess is March 9-15, 2026 and Easter Recess is April 2-6, 2026.)
