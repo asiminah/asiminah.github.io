@@ -37,6 +37,8 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Participation and Attendance:** You are expected to attend and fully participate in every class. This includes being called on to answer questions, ask questions, and discuss examples, and more. In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
 
+**Labs:** The labs in the textbook will be started (and ideally done) during recitation. Labs will be submitted on dropbox (more information will be provided on blackboard about how to submit labs, etc.). Labs are due on Sunday's at 11:59PM. All late labs will recieve a 0. 
+
 **Homework:** The exercises in the textbook will be the homework's for this course. Homework will be submitted on dropbox (more information will be provided on blackboard about how to submit homework, etc.). Homework is due on Sunday's at 11:59PM. All late homeworks will recieve a 0. 
 
 **Midterm:** There will be one midterm. Midterm 1 is on TBD. There will be no make-up exams unless.
@@ -48,8 +50,8 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 | Course Component |       | Weight    | 
 | :----:           | :---: |  :----:   |  
 | Participation    |       |  10%      |
-| Homework         |       |  20%      |
 | Labs             |       |  20%      | 
+| Homework         |       |  20%      |
 | Midterm          |       |  25%      | 
 | Final exam       |       |  25%      | 
 
