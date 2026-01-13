@@ -41,7 +41,7 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Homework:** The exercises in the textbook will be the homework's for this course. Homework will be submitted on dropbox (more information will be provided on blackboard about how to submit homework, etc.). Homework is due on Sunday's at 11:59PM. All late homeworks will recieve a 0. 
 
-**Midterm:** There will be one midterm. Midterm 1 is on TBD. There will be no make-up exams unless.
+**Midterm:** There will be one midterm. Midterm 1 is on Wednesday 2/25/2026 in class. There will be no make-up exams unless.
 
 **Final Project:** The final project will be cummulative and during the last week of classes (more information about the final project will be posted on blackboard). No make-ups will be given unless for a reason approved by the Dean of Students.
 
