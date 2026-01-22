@@ -15,12 +15,14 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
 * [Arizona Winter School (AWS) 2026](https://swc-math.github.io/aws/2026/index.html) (Problem Session Leader), March 7 - 11, 2026
+* Dartmouth Algebra/Number Theory Seminar (Speaker), May 12, 2026
+* [The Eisenstein ideal and Galois representations, looking forward after 50 years](https://sites.google.com/pitt.edu/eisenstein2026/), May 18 - 22, 2026
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
 * Penn State University Algebra and Number Theory Seminar (Speaker), Dec. 2, 2025
 * [AMS Fall Eastern Virtual Sectional Meeting](https://www.ams.org/meetings/sectional/2330_program.html) (Speaker), Oct. 25 - 26, 2025
 * [Preliminary Arizona Winter School (PAWS) 2025](https://swc-math.github.io/aws/2026/2026PAWS.html) (Problem Session Leader), Sept. 22 - Nov. 21, 2025
