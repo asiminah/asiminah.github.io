@@ -25,6 +25,8 @@ nav_order: 3
 
 ### Past:
 * [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
+
+2025
 * Penn State University Algebra and Number Theory Seminar (Speaker), Dec. 2, 2025
 * [AMS Fall Eastern Virtual Sectional Meeting](https://www.ams.org/meetings/sectional/2330_program.html) (Speaker), Oct. 25 - 26, 2025
 * [Preliminary Arizona Winter School (PAWS) 2025](https://swc-math.github.io/aws/2026/2026PAWS.html) (Problem Session Leader), Sept. 22 - Nov. 21, 2025
