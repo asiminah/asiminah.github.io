@@ -16,6 +16,8 @@ nav_order: 3
 
 ### Upcoming:
 * [Arizona Winter School (AWS) 2026](https://swc-math.github.io/aws/2026/index.html) (Problem Session Leader), March 7 - 11, 2026
+* [Bayou Arithmetic Research Days (BARD)](https://bardsmath.com/) (Plenary Speaker), April 17, 2026
+* Lafayette College Mathematical Adventures And Diversions Seminar (Speaker), April 30, 2026
 * Dartmouth Algebra/Number Theory Seminar (Speaker), May 12, 2026
 * [The Eisenstein ideal and Galois representations, looking forward after 50 years](https://sites.google.com/pitt.edu/eisenstein2026/), May 18 - 22, 2026
 * [Third Congress of Greek Mathematicians, TCGM-2026](https://hms.gr/third-congress-of-greek-mathematicians-tcgm-2026-june-29-july-4-2026-athens-greece/) (Speaker), June 19 - July 3, 2026
