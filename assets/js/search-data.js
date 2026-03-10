@@ -104,11 +104,11 @@ ninja.data = [{
           description: "(working on this post)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
-            },},{id: "projects-math-1206-calculus-i",
-          title: 'MATH 1206 Calculus I',
-          description: "This is the Fall 2025 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham.",
+            },},{id: "projects-math-1203-applied-calculus-i",
+          title: 'MATH 1203 Applied Calculus I',
+          description: "This is the Fall 2026 class webpage for Sections L01 of MATH 1203 Applied Calculus I at Fordham.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/fordham-appliedCalc/";
+              window.location.href = "/projects/fordham-applied-calc/";
             },},{id: "projects-math-1206-calculus-i",
           title: 'MATH 1206 Calculus I',
           description: "This is the Fall 2025 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham.",
