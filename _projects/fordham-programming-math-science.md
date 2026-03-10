@@ -3,7 +3,7 @@ layout: page
 title: MATH 2011 Programming for Math and Science
 description: This is the Spring 2026 class webpage for Section L01 of MATH 2011 Programming for Math and Science at Fordham. 
 img: 
-importance: 1
+importance: 2
 category: Fordham
 ---
 
