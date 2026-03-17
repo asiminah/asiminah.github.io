@@ -22,7 +22,7 @@ nav_order: 3
 * [Third Congress of Greek Mathematicians, TCGM-2026](https://hms.gr/third-congress-of-greek-mathematicians-tcgm-2026-june-29-july-4-2026-athens-greece/) (Speaker), June 19 - July 3, 2026
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
-* Union College Student Seminar (Speaker), Sept. 17, 2026
+* Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
