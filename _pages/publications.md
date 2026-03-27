@@ -18,7 +18,8 @@ nav_order: 5
 8. [Asymptotic Distribution of the Partition Crank](https://arxiv.org/abs/1909.12806), with Aaron Kriegman and Wei-Lun Tsai <br /> (Ramanujan Journal, Vol. 56 (2021), 803–820)
 9. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
-<!-- ### Preprints: -->
+### Preprints:
+* [On the density of coprime reductions of elliptic curves](https://arxiv.org/abs/2603.24915), with Sung Min Lee, Jacob Mayle, and Tian Wang
 
 <!--**Submitted:**-->
 
