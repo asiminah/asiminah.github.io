@@ -22,6 +22,7 @@ nav_order: 3
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
+* [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10-11, 2026
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
