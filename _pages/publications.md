@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Publications:
 1. [The maximal abelian extension contained in a division field of an elliptic curve over $$\mathbb{Q}$$ with complex multiplication](https://arxiv.org/abs/2408.16164) <br /> (Mathematische Zeitschrift, Vol. 312, No. 30 (2026), [Magma Code](https://github.com/asiminah/max-ab-extn-contained-in-div-flds))
-2. [Genus formulas for families of modular curves](https://arxiv.org/abs/2501.10883), with Jun Bo Lau <br /> (To appear in LuCaNT proceedings, Contemporary Mathematics 2025)
+2. [Genus formulas for families of modular curves](https://arxiv.org/abs/2501.10883), with Jun Bo Lau <br /> (Contemporary Mathematics, 840, 293-310, (2026))
 3. [Bounds for the relative class number problem for function fields](https://arxiv.org/abs/2412.12467), with Santiago Arango-Piñeros, María Chara, Kiran Kedlaya, and Gustavo Rama <br /> (Journal of Number Theory, Vol. 278 (2026), 977-1010, [SageMath and Magma Code](https://github.com/sarangop1728/twice-class-number))
 4. [Elliptic curves with complex multiplication and abelian division fields](https://arxiv.org/abs/2308.00668), with Álvaro Lozano-Robledo <br /> (Journal of the London Mathematical Society, Vol. 110, No. 6 (2024), e70031)
 5. [Sums of powers by L'Hopital's rule](https://arxiv.org/abs/2302.03624), with Eduardo Dueñez and Steven J. Miller <br /> (The Fibonacci Quarterly (2025), 1-11)
