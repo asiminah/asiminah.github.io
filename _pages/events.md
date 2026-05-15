@@ -15,7 +15,6 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* Dartmouth Algebra/Number Theory Seminar (Speaker), May 12, 2026
 * [The Eisenstein ideal and Galois representations, looking forward after 50 years](https://sites.google.com/pitt.edu/eisenstein2026/), May 18 - 22, 2026
 * [Third Congress of Greek Mathematicians (TCGM) 2026](https://hms.gr/third-congress-of-greek-mathematicians-tcgm-2026-june-29-july-4-2026-athens-greece/) (Speaker), June 29 - July 4, 2026
 * [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html), July 6 - 10, 2026
@@ -27,6 +26,7 @@ nav_order: 3
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* Dartmouth Algebra/Number Theory Seminar (Speaker), May 12, 2026
 * Lafayette College Mathematical Adventures And Diversions Seminar (Speaker), April 30, 2026
 * [Bayou Arithmetic Research Days (BARD)](https://bardsmath.com/) (Plenary Speaker), April 17, 2026
 * [Arizona Winter School (AWS) 2026](https://swc-math.github.io/aws/2026/index.html) (Problem Session Leader), March 7 - 11, 2026
