@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATH 1206 Calculus I
-description: This is the Fall 2025 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham. 
+description: This is the Fall 2026 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham. (This was also the Fall 2025 class webpage for my sections of MATH 1206.)
 img: 
 importance: 3
 category: Fordham
@@ -18,19 +18,19 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
-* Office Hours: Thursday's at 12:15-2:15PM in LL817F
+* Office Hours: TBD in LL817F
 
 
 |  |       |  Section L01   |       |  Section L02  | 
 | :----     | :---: |  :----:       | :---: | :----:      |
-| **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
-| Contact | | [smondal6@fordham.edu](mailto:smondal6@fordham.edu) | | [hmoon8@fordham.edu](mailto:hmoon8@fordham.edu)  |
-| Office | | Math Help Room | | LL817B  |
-| Office Hours | | Th at 10-11AM in LL810 | | MW 9:00-9:50AM, T 9-11AM, or by appointment  |
+| **Recitation Instructor** | | TBD | | TBD   |
+| Contact | | [TBD](mailto:smondal6@fordham.edu) | | [TBD](mailto:hmoon8@fordham.edu)  |
+| Office | | TBD | | TBD  |
+| Office Hours | | TBD | | TBD  |
 |                | |                                 |       |                          |
-| **Lectures** | | MW at 11:30AM-12:45PM in LL510 | | MW at 1:00PM-02:15PM in LL510  |
+| **Lectures** | | MW at 11:30AM-12:45PM in TBD | | MW at 1:00PM-02:15PM in TBD  |
 |                | |                                 |       |                          |
-| **Recitations** | | M at 4:00-4:50PM in LL510 | | W at 10:00-10:50AM in LL510  | 
+| **Recitations** | | M at 4:00-4:50PM in TBD | | W at 10:00-10:50AM in TBD  | 
 |                | |                                 |       |                          |
 
 **Math Help Room:** Additional help (outside of the lecturer and recitation leader's office hours) can be found in the Math Help Room without making an appointment. The Math Help Room is staffed by math professors and undergraduate tutors during some time blocks between 9:00AM and 5:00PM from Monday's through Friday's. The Math Help Room is located in LL810 or LL812, depending on the time. The schedule for the Math Help Room can be found [here](https://docs.google.com/spreadsheets/d/1wsv5_7K1RqCxhUKb1pK7cAbDEN3-wKskBAVeQ6CLcCs/edit?gid=98745945#gid=98745945). 
