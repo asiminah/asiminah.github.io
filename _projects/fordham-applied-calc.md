@@ -36,7 +36,7 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points. There will be no make-up quizzes. 
 
-**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/8 and Midterm 2 is on Wed. 11/19. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
+**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/9 and Midterm 2 is on Wed. 11/20. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
 
@@ -62,39 +62,39 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 | Date  |      | Section |      | Topic                                                                   | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/27  |      |  1.5    |      |  Limit of a function  |  
+| 8/28  |      |  1.5    |      |  Limit of a function  |  
 | 9/1   |      |         |      | Labor Day   | 
-| 9/3   |      |  1.6    |      |  Limit laws   | 
+| 9/4   |      |  1.6    |      |  Limit laws   | 
 | 9/8   |      |  1.8    |      |  Continuity                                  |   
-| 9/10  |      | 2.1, 2.2 |      |  Rate of change, derivative  |
+| 9/11  |      | 2.1, 2.2 |      |  Rate of change, derivative  |
 | 9/15  |      | 2.3     |      |  Differentiation formulas                      | 
-| 9/17  |      | 2.4     |      |  Derivatives of trigonometric functions         |  
+| 9/18  |      | 2.4     |      |  Derivatives of trigonometric functions         |  
 | 9/22  |      | 2.5     |      |  Chain rule             |    
-| 9/24  |      | 2.6     |      |  Implicit differentiation                     | 
+| 9/25  |      | 2.6     |      |  Implicit differentiation                     | 
 | 9/29  |      | 2.8     |      |  Related rates            |  
-| 10/1  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
+| 10/2  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
 | 10/6  |      |         |      |  Exam Review                      | 
-| 10/8  |      |         |      |  **Midterm 1**                                        |  
-| 10/13 |      |         |      |  Columbus Day        |   
-| 10/15 |      | 3.2     |      |  Mean value theorem                                  |   
+| 10/9  |      |         |      |  **Midterm 1**                                        |  
+| 10/13 |      |         |      |  Classes follow a Monday schedule        |   
+| 10/16 |      | 3.2     |      |  Mean value theorem                                  |   
 | 10/20 |      | 3.3     |      |  Shape of graph              |     
-| 10/22 |      | 3.4     |      |  Horizontal/vertical asymptotes     | 
+| 10/23 |      | 3.4     |      |  Horizontal/vertical asymptotes     | 
 | 10/27 |      | 3.7     |      |  Optimization problems            |     
-| 10/29 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
+| 10/30 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
 | 11/3  |      | 4.2     |      |  Definite integral                                |  
-| 11/5  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
+| 11/6  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
 | 11/10 |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
-| 11/12 |      | 5.1     |      |  Area between curves                         |
+| 11/13 |      | 5.1     |      |  Area between curves                         |
 | 11/17 |      |         |      |  Exam Review                               |
-| 11/19 |      |         |      |  **Midterm 2**                           |
+| 11/20 |      |         |      |  **Midterm 2**                           |
 | 11/24 |      | 6.1     |      |  Inverse functions and their derivatives                 |
-| 11/26 |      |         |      |  Thanksgiving Recess                                         |
+| 11/27 |      |         |      |  Thanksgiving Recess                                         |
 | 12/1  |      | 6.2     |      |  Exponential functions and their derivatives                       |
-| 12/3  |      | 6.3, 6.4 |      |  Logarithmic functions and their derivatives                   |
+| 12/4  |      | 6.3, 6.4 |      |  Logarithmic functions and their derivatives                   |
 | 12/8  |      |         |      |  Final Review                           |
 
 
-(Thanksgiving Recess is November 26-30, 2025.)
+(Thanksgiving Recess is November 25-29, 2026.)
 
 **Academic Integrity Statement:** This course expects all students to act in accordance with the [Academic Integrity Policy](https://www.fordham.edu/resources/policies/academic-integrity-policy/) at Fordham University. Because questions of intellectual property are important to the field of this course, we will discuss academic honesty as a topic and not just a policy. If you have questions about academic integrity or intellectual property, you should consult with your instructor. 
 
