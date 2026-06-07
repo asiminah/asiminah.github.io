@@ -108,7 +108,7 @@ ninja.data = [{
           title: 'MATH 1203 Applied Calculus I',
           description: "This is the Fall 2026 class webpage for Sections L01 of MATH 1203 Applied Calculus I at Fordham.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/fordham-applied-calc/";
+              window.location.href = "/projects/fordham-applied-calc1/";
             },},{id: "projects-math-1206-calculus-i",
           title: 'MATH 1206 Calculus I',
           description: "This is the Fall 2026 class webpage for Sections L01 and L02 of MATH 1206 Calculus I at Fordham. (This was also the Fall 2025 class webpage for my sections of MATH 1206.)",
