@@ -9,31 +9,19 @@ category: Fordham
 
 ## Welcome to MATH 1203: Applied Calculus I! 
 
-NEED TO EDIT THE REST
+**Course description:** This calculus course is designed for students who do not require Calculus 2 or other upper-level math courses as part of their major. Topics include derivatives of polynomial, rational, exponential, and logarithmic functions; curve sketching; and optimization problems.
 
-**Course description:** This calculus course is intended for science and math majors. Topics include limits; continuity; intermediate value theorem; derivatives; mean value theorem; applications such as curve sketching, optimization, related rates, linear approximation, and differentials; antiderivatives; Riemann sums; definite integrals; the Fundamental Theorem of Calculus; substitution rule; inverse functions and their derivatives; and logarithmic and exponential functions. 
+Note: This is a 3-credit course that meets for 150 minutes per week and does not have a recitation. 
 
-Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+**Textbook:** James Stewart and Daniel K. Clegg's "Brief Applied Calculus", 1st edition.
 
-**Textbook:** James Stewart, Daniel K. Clegg, and Saleem Watson's "Calculus", 9th edition.
+**Class:** Tuesday’s and Friday’s at 1:00-2:15PM in TBD.
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
-* Office Hours: Thursday's at 12:15-2:15PM in LL817F
+* Office Hours: TBD in LL817F
 
-
-|  |       |  Section L01   |       |  Section L02  | 
-| :----     | :---: |  :----:       | :---: | :----:      |
-| **Recitation Instructor** | | Sayantika Mondal | | Dr. Han-Bom Moon   |
-| Contact | | [smondal6@fordham.edu](mailto:smondal6@fordham.edu) | | [hmoon8@fordham.edu](mailto:hmoon8@fordham.edu)  |
-| Office | | Math Help Room | | LL817B  |
-| Office Hours | | Th at 10-11AM in LL810 | | MW 9:00-9:50AM, T 9-11AM, or by appointment  |
-|                | |                                 |       |                          |
-| **Lectures** | | MW at 11:30AM-12:45PM in LL510 | | MW at 1:00PM-02:15PM in LL510  |
-|                | |                                 |       |                          |
-| **Recitations** | | M at 4:00-4:50PM in LL510 | | W at 10:00-10:50AM in LL510  | 
-|                | |                                 |       |                          |
 
 **Math Help Room:** Additional help (outside of the lecturer and recitation leader's office hours) can be found in the Math Help Room without making an appointment. The Math Help Room is staffed by math professors and undergraduate tutors during some time blocks between 9:00AM and 5:00PM from Monday's through Friday's. The Math Help Room is located in LL810 or LL812, depending on the time. The schedule for the Math Help Room can be found [here](https://docs.google.com/spreadsheets/d/1wsv5_7K1RqCxhUKb1pK7cAbDEN3-wKskBAVeQ6CLcCs/edit?gid=98745945#gid=98745945). 
 
@@ -52,10 +40,6 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
 
-|                 |      |               |
-| :----           | :--: |  :----:       | 
-| **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM in LL510 | 
-| **Section L02** | | Wednesday, December 17, 2025 at 1:30PM-3:30PM in LL510 | 
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
@@ -69,13 +53,6 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 
 (All grades and assignments will be posted on Blackboard.) 
-
-<!--
-**Exams:** 
-* **Midterm 1:** Oct. 8, 2025
-* **Midterm 2:** Nov. 19, 2025
-* **Final:** TBD
--->
 
 
 **Make-up policy:** No make-up exams will be given after the exam date. If you know that you will miss an exam and have a good excuse, then you must let the instructor know in advance. You must follow the university's policy on excused absences. In case of illness or other emergency on an exam date, contact the instructor by email as soon as possible so that appropriate arrangements can be made.
