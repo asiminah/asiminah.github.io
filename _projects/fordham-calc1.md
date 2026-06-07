@@ -52,8 +52,9 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 |                 |      |               |
 | :----           | :--: |  :----:       | 
-| **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM in LL510 | 
-| **Section L02** | | Wednesday, December 17, 2025 at 1:30PM-3:30PM in LL510 | 
+| **Section L01** | | TBD | 
+| **Section L02** | | TBD | 
+<!--| **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM in LL510 |-->
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
 
