@@ -69,14 +69,13 @@ This class meets twice a week for lecture. Towards the bottom of this page, I ha
 | 9/11  |      | 2.1, 2.2 |      |  Measuring change, Limits |
 | 9/15  |      | 2.3      |      |  Rates of change and derivatives            | 
 | 9/18  |      | 2.4      |      |  Derivative as a function          |  
-| 9/22  |      | 3.1      |      |  Shortcuts to finding derivatives            |    
-| 9/25  |      | 3.2      |      |  Introduction to marginal analysis                   | 
-| 9/29  |      | 3.3      |      |  Product and quotient rules             |  
-| 10/2  |      | 3.4      |      |  Chain rule           | 
+| 9/22  |      | 3.1, 3.2 |      |  Shortcuts to finding derivatives, Introduction to marginal analysis           |    
+| 9/25  |      | 3.3      |      |  Product and quotient rules                   | 
+| 9/29  |      | 3.4      |      |  Chain rule             |  
+| 10/2  |      | 3.5      |      |  Implicit differentiation and logarithms            | 
 | 10/6  |      |          |      |  Exam Review                      | 
 | 10/9  |      |          |      |  **Midterm 1**                                        |  
 | 10/13 |      |          |      |  Classes follow a Monday schedule        |   
-|       |      | 3.5      |      |  Implicit differentiation and logarithms        |   
 | 10/16 |      | 3.6      |      |  Exponential growth and decay                               |   
 | 10/20 |      | 4.1      |      |  Related rates              |     
 | 10/23 |      | 4.2      |      |  Maximum and minimum values     | 
