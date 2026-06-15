@@ -12,8 +12,8 @@ nav_order: 7
 
 **Fordham University**
 * Fall 2026:
-  - MATH 1203 Applied Calculus I
-  - MATH 1206 Calculus I
+  - [MATH 1203 Applied Calculus I](https://asiminah.github.io/projects/fordham-applied-calc1/)
+  - [MATH 1206 Calculus I](https://asiminah.github.io/projects/fordham-calc1/)
 * Spring 2026: [MATH 2011 Programming for Math and Science](https://asiminah.github.io/projects/fordham-programming-math-science/)
 * Fall 2025:
   - [MATH 1206 Calculus I](https://asiminah.github.io/projects/fordham-calc1/)
