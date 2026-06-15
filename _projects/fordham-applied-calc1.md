@@ -28,15 +28,15 @@ Note: This is a 3-credit course that meets for 150 minutes per week and does not
 
 ### Class structure
 
-This class meets twice a week for lecture and once a week for recitation. Towards the bottom of this page, I have posted the tentative class schedule for the semester. I have written out which sections and topics of the textbook I plan to cover each class. 
+This class meets twice a week for lecture. Towards the bottom of this page, I have posted the tentative class schedule for the semester. I have written out which sections and topics of the textbook I plan to cover each class. 
 
 **Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
 
-**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Sunday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
+**Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Monday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
 
-**Quizzes:** There will be weekly quizzes in the beginning of every recitation. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of the recitation. Quizzes will be graded out of 10 points. There will be no make-up quizzes. 
+**Quizzes:** There will be weekly quizzes in the beginning of every Tuesday class. Each quiz will be on the previous weeks material, so each quiz will be on material that was covered in the last homework. Each quiz will consist of two problems and will take place in the first 10 minutes of class on Tuesday. Quizzes will be graded out of 10 points. There will be no make-up quizzes. 
 
-**Midterms:** There will be two midterms. Midterm 1 is on Wed. 10/9 and Midterm 2 is on Wed. 11/20. We will have review sessions in class on Monday the week of the exam. There will be no make-up exams unless.
+**Midterms:** There will be two midterms. Midterm 1 is on Fri. 10/9 and Midterm 2 is on Fri. 11/20. We will have review sessions in class on Tuesday the week of the exam. There will be no make-up exams unless.
 
 **Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
 
