@@ -60,38 +60,39 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 ### Class schedule
 
-| Date  |      | Section |      | Topic                                                                   | 
-| :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/28  |      |  1.5    |      |  Limit of a function  |  
-| 9/1   |      |         |      | Labor Day   | 
-| 9/4   |      |  1.6    |      |  Limit laws   | 
-| 9/8   |      |  1.8    |      |  Continuity                                  |   
-| 9/11  |      | 2.1, 2.2 |      |  Rate of change, derivative  |
-| 9/15  |      | 2.3     |      |  Differentiation formulas                      | 
-| 9/18  |      | 2.4     |      |  Derivatives of trigonometric functions         |  
-| 9/22  |      | 2.5     |      |  Chain rule             |    
-| 9/25  |      | 2.6     |      |  Implicit differentiation                     | 
-| 9/29  |      | 2.8     |      |  Related rates            |  
-| 10/2  |      | 2.9, 3.1     |      |  Linear approximation, maximum and minimum          | 
-| 10/6  |      |         |      |  Exam Review                      | 
-| 10/9  |      |         |      |  **Midterm 1**                                        |  
-| 10/13 |      |         |      |  Classes follow a Monday schedule        |   
-| 10/16 |      | 3.2     |      |  Mean value theorem                                  |   
-| 10/20 |      | 3.3     |      |  Shape of graph              |     
-| 10/23 |      | 3.4     |      |  Horizontal/vertical asymptotes     | 
-| 10/27 |      | 3.7     |      |  Optimization problems            |     
-| 10/30 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
-| 11/3  |      | 4.2     |      |  Definite integral                                |  
-| 11/6  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
-| 11/10 |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
-| 11/13 |      | 5.1     |      |  Area between curves                         |
-| 11/17 |      |         |      |  Exam Review                               |
-| 11/20 |      |         |      |  **Midterm 2**                           |
-| 11/24 |      | 6.1     |      |  Inverse functions and their derivatives                 |
-| 11/27 |      |         |      |  Thanksgiving Recess                                         |
-| 12/1  |      | 6.2     |      |  Exponential functions and their derivatives                       |
-| 12/4  |      | 6.3, 6.4 |      |  Logarithmic functions and their derivatives                   |
-| 12/8  |      |         |      |  Final Review                           |
+| Date  |      | Section  |      | Topic                                                                   | 
+| :---: | :--: | :---:    | :--: | :---                                                                    | 
+| 8/28  |      | 1.1, 1.2 |      |  Functions and their representations, Combining and transforming functions  |  
+| 9/1   |      |          |      |  Labor Day   | 
+| 9/4   |      | 1.3, 1.4 |      |  Linear models and rates of change, Polynomial models and power functions   | 
+| 9/8   |      | 1.5, 1.6 |      |  Exponential models, Logarithmic functions                                 |   
+| 9/11  |      | 2.1, 2.2 |      |  Measuring change, Limits |
+| 9/15  |      | 2.3      |      |  Rates of change and derivatives            | 
+| 9/18  |      | 2.4      |      |  Derivative as a function          |  
+| 9/22  |      | 3.1      |      |  Shortcuts to finding derivatives            |    
+| 9/25  |      | 3.2      |      |  Introduction to marginal analysis                   | 
+| 9/29  |      | 3.3      |      |  Product and quotient rules             |  
+| 10/2  |      | 3.4      |      |  Chain rule           | 
+| 10/6  |      |          |      |  Exam Review                      | 
+| 10/9  |      |          |      |  **Midterm 1**                                        |  
+| 10/13 |      |          |      |  Classes follow a Monday schedule        |   
+|       |      | 3.5      |      |  Implicit differentiation and logarithms        |   
+| 10/16 |      | 3.6      |      |  Exponential growth and decay                               |   
+| 10/20 |      | 4.1      |      |  Related rates              |     
+| 10/23 |      | 4.2      |      |  Maximum and minimum values     | 
+| 10/27 |      | 4.3      |      |  Derivatives and shapes of curves           |     
+| 10/30 |      | 4.4      |      |  Asymptotes                | 
+| 11/3  |      | 4.5      |      |  Curve sketching                               |  
+| 11/6  |      | 4.6      |      |  Optimization            |
+| 11/10 |      | 5.1      |      |  Cost, area, and the definite integral                  |
+| 11/13 |      | 5.2      |      |  The fundamental theorem of calculus                        |
+| 11/17 |      |          |      |  Exam Review                               |
+| 11/20 |      |          |      |  **Midterm 2**                           |
+| 11/24 |      | 5.3, 5.4 |      |  The net change theorem and average value, Substitution rule                 |
+| 11/27 |      |          |      |  Thanksgiving Recess                                         |
+| 12/1  |      | 5.4, 5.5 |      |  Substitution rule, Integration by parts                   |
+| 12/4  |      | 6.1      |      |  Areas between curves                  |
+| 12/8  |      |          |      |  Final Review                           |
 
 
 (Thanksgiving Recess is November 25-29, 2026.)
