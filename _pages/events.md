@@ -15,7 +15,7 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Third Congress of Greek Mathematicians (TCGM) 2026](https://hms.gr/third-congress-of-greek-mathematicians-tcgm-2026-june-29-july-4-2026-athens-greece/) ([Speaker](https://sites.google.com/view/tcgm26-algebraandnumbertheory/home)), June 29 - July 4, 2026
+* [Third Congress of Greek Mathematicians (TCGM) 2026](https://hms.gr/tcgm2026/) ([Speaker](https://sites.google.com/view/tcgm26-algebraandnumbertheory/home)), June 29 - July 4, 2026
 * [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html), July 6 - 10, 2026
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
