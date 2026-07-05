@@ -15,7 +15,7 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html), July 6 - 10, 2026
+* [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html) (Speaker), July 6 - 10, 2026
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
