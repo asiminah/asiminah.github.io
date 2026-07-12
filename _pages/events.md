@@ -15,7 +15,6 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html) (Speaker), July 6 - 10, 2026
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
@@ -24,6 +23,7 @@ nav_order: 3
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html) (Speaker), July 6 - 10, 2026
 * [Third Congress of Greek Mathematicians (TCGM) 2026](https://hms.gr/tcgm2026/) ([Speaker](https://sites.google.com/view/tcgm26-algebraandnumbertheory/home)), June 29 - July 4, 2026
 * [The Eisenstein ideal and Galois representations, looking forward after 50 years](https://sites.google.com/pitt.edu/eisenstein2026/), May 18 - 22, 2026
 * Dartmouth Algebra/Number Theory Seminar (Speaker), May 12, 2026
