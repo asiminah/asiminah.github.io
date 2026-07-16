@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Here is a list of courses that I have taught, students I have mentored, prelims I have tutored, and a course I helped design materials for.",
