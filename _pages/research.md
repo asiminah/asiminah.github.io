@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Here are my current and past research interests, as well as descriptions of my past projects. Last updated October 2024.
-nav: true
+nav: false
 nav_order: 6
 ---
 
