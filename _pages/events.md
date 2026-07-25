@@ -18,6 +18,7 @@ nav_order: 3
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
+* [AMS Spring Central Sectional Meeting](https://www.ams.org/meetings/sectional/2334_progfull.html) (Co-organizer of a special session), April 17 - 18, 2027
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
