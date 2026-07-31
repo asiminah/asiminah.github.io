@@ -19,6 +19,7 @@ nav_order: 3
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
+* [Modular Curves, Geometry, and Arithmetic](https://www.birs.ca/events/2027/5-day-workshops/27w5718), April 4 - 9, 2027
 * [AMS Spring Central Sectional Meeting](https://www.ams.org/meetings/sectional/2334_progfull.html) (Co-organizer of a special session), April 17 - 18, 2027
 
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
