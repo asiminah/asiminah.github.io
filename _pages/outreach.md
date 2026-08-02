@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Learning Seminar at Fordham:
 
-In Fall 2026, I co-organized the [Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions](https://asiminah.github.io/fordham-learning-sem) at Fordham. 
+In Fall 2026, I co-organized the [Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions](https://asiminah.github.io/fordham-learning-sem-modular-forms) at Fordham University. 
 
 ### Preliminary Arizona Winter School (PAWS):
 
