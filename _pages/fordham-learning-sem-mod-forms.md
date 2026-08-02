@@ -2,19 +2,24 @@
 layout: page
 permalink: /learning-sem/
 title: Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions
-description: This is the Fall 2026 learning group page.
+description: This is the page for the Fall 2026 learning seminar on Modular Forms, Automorphic Representations, and $$L$$-functions at Fordham University.
 nav: false
 nav_order:
 ---
 
 
-## Welcome to MATH 1206: Calculus I! 
+## Welcome to ...
 
-**Course description:** This calculus course is intended for science and math majors. Topics include limits; continuity; intermediate value theorem; derivatives; mean value theorem; applications such as curve sketching, optimization, related rates, linear approximation, and differentials; antiderivatives; Riemann sums; definite integrals; the Fundamental Theorem of Calculus; substitution rule; inverse functions and their derivatives; and logarithmic and exponential functions. 
+**Description:** This will be an intense learning seminar on the arithmetic theory of automorphic forms and their $$L$$-functions from both the classical and the representation theoretic perspectives. The seminar will be in-person at the Lincoln Center campus, having two sessions with a small break in between with each session lasting for an hour and 15 minutes. 
 
-Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+The first session will be on the theory of modular forms, especially Hecke theory and $$L$$-functions, based on such references: first 4 chapters of Miyake's Modular Forms and the first 3 chapters of Shimura's Arithmetic Theory of Automorphic Functions. 
 
-**Textbook:** James Stewart, Daniel K. Clegg, and Saleem Watson's "Calculus", 9th edition.
+The second session will be on Automorphic Representations for GL(2) based on the references: Bump's Automorphic Forms and Representations, and the first five chapters of Gelbart's Automorphic forms on Adele Groups. Depending on how the seminar progresses, we may graduate to automorphic forms on GL(n) or a reductive group over a number field based on Goldfeld and Hundley's book and Getz and Hahn's book. 
+
+
+**Venue:** Fordham University at Lincoln Center, Room: TBA.
+
+**Day/time:** Monday's at 2:30-5:15PM, starting from August 31, 2026. 
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
