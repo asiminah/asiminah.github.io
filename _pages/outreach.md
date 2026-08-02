@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+### Learning Seminar at Fordham:
+
+In Fall 2026, I co-organized the [Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions](https://asiminah.github.io/pages/fordham-learning-sem-mod-forms) at Fordham. 
+
 ### Preliminary Arizona Winter School (PAWS):
 
 In Fall 2025, I was a part of the [PAWS on Mathematical cryptography and algorithms in number theory](https://swc-math.github.io/aws/2026/2026PAWS.html). PAWS is a virtual program on topics related to the upcoming Arizona Winter School, with an intended audience of advanced undergraduate students and junior graduate students. I served as a Problem Session Leader for the lecture series on “Analysis and implementation of algorithms in number theory”. I met weekly with a group of students to work on problem sets and watch lectures. I also helped students apply to graduate school and discussed research questions with them. Most of the students were international students, tuning in to my problem session from all over the world. 
