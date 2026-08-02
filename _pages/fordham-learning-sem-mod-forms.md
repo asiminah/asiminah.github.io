@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /learning-sem/
+permalink: /fordham-learning-sem/
 title: Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions
 description: This is the page for the Fall 2026 learning seminar on Modular Forms, Automorphic Representations, and $$L$$-functions at Fordham University.
 nav: false
