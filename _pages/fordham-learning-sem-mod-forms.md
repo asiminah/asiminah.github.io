@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /fordham-learning-sem/
-title: Learning Seminar on Modular Forms, Automorphic Representations, and $$L$$-functions
-description: This is the page for the Fall 2026 learning seminar on Modular Forms, Automorphic Representations, and $$L$$-functions at Fordham University.
+title: Learning Seminar on Modular Forms, Automorphic Representations, and $L$-functions
+description: This is the page for the Fall 2026 learning seminar on Modular Forms, Automorphic Representations, and $L$-functions at Fordham University.
 nav: false
 nav_order:
 ---
 
 
-## Welcome to ...
+<!-- ## Welcome to ... -->
 
 **Description:** This will be an intense learning seminar on the arithmetic theory of automorphic forms and their $$L$$-functions from both the classical and the representation theoretic perspectives. The seminar will be in-person at the Lincoln Center campus, having two sessions with a small break in between with each session lasting for an hour and 15 minutes. 
 
@@ -21,15 +21,10 @@ The second session will be on Automorphic Representations for GL(2) based on the
 
 **Day/time:** Monday's at 2:30-5:15PM, starting from August 31, 2026. 
 
-**Lecture Instructor:** Dr. Asimina Hamakiotes
-* Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
-* Office: LL817F
-* Office Hours: TBD in LL817F
 
+## Schedule
 
-### Class schedule
-
-| Date  |      | Section |      | Topic                                                                   | 
+| Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
 | 8/26  |      |  1.5    |      |  Limit of a function  |  
 | 8/31  |      |  1.6    |      |  Limit laws   | 
@@ -62,6 +57,10 @@ The second session will be on Automorphic Representations for GL(2) based on the
 | 11/30  |      | 6.2     |      |  Exponential functions and their derivatives                       |
 | 12/2  |      | 6.3, 6.4 |      |  Logarithmic functions and their derivatives                   |
 | 12/7  |      |         |      |  Final Review                           |
+
+
+* For any questions, contact [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu).
+
 
 
 
