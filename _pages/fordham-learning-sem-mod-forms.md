@@ -27,12 +27,12 @@ The second session will be on Automorphic Representations for GL(2) based on the
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
 | 8/31  |      |         |      |     | 
-| 9/7   |      |         |      |   | 
+| 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      |      |      |                       | 
 | 9/21  |      |       |      |              |    
 | 9/28  |      |       |      |           |  
 | 10/5  |      |         |      |                      | 
-| 10/12 |      |         |      |         |   
+| 10/12 |      | Columbus Day        |      |         |   
 | 10/19 |      |       |      |     | 
 | 10/26 |      |     |      |                  | 
 | 11/2  |      |     |      |             |
