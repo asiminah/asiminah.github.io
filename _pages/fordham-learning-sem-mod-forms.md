@@ -24,9 +24,13 @@ The second session will be on Automorphic Representations for GL(2) based on the
 
 ## Schedule
 
+* **Session - I**, S-I, Modular Forms, 2:30 to 3:45. 
+* **Session - II**, S-II, Automorphic Representations, 4:00 to 5:15.
+
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---:   | :--: | :---                                                                    | 
-| 8/31  |      |         |      |     | 
+| 8/31  |      | S-I, Upper half plane (H = SL(2,R)/SO(2); elliptic, parabolic, hyperbolic elements; invariant metric and measure on H).  |      |  A. Raghuram   | 
+|       |      | S-II, Basic Lie theory (GL(n,R), n = 2, universal enveloping algebra, Casimir element, Cartan decomposition, spherical Hecke algebra). |      | A. Raghuram | 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      |      |      |                       | 
 | 9/21  |      |       |      |              |    
