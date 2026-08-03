@@ -31,8 +31,10 @@ The first meeting on 8/31 will also serve as an organizational meeting to seek v
 
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
-| 8/31  |      | **S-I:** Upper half plane (H = SL(2,R)/SO(2); elliptic, parabolic, hyperbolic elements; invariant metric and measure on H).  |      |  A. Raghuram   | 
-|       |      | **S-II:** Basic Lie theory (GL(n,R), n = 2, universal enveloping algebra, Casimir element, Cartan decomposition, spherical Hecke algebra). |  | A. Raghuram | 
+| 8/31  |      | **S-I:** Upper half plane |      |  Raghuram   | 
+|       |      | (H = SL(2,R)/SO(2); elliptic, parabolic, hyperbolic elements; invariant metric and measure on H.)  |      |     | 
+|       |      | **S-II:** Basic Lie theory  |  | Raghuram | 
+|       |      | (GL(n,R), n = 2, universal enveloping algebra, Casimir element, Cartan decomposition, spherical Hecke algebra.) |  | | 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      |      |      |                       | 
 | 9/21  |      |       |      |              |    
