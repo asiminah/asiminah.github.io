@@ -24,8 +24,8 @@ The second session will be on Automorphic Representations for GL(2) based on the
 
 ## Schedule
 
-* **Session - I** (S-I): Modular Forms, 2:30 to 3:45. 
-* **Session - II** (S-II): Automorphic Representations, 4:00 to 5:15.
+* **Session - I** (S-I), Modular Forms, 2:30-3:45PM. 
+* **Session - II** (S-II), Automorphic Representations, 4:00-5:15PM.
 
 The first meeting on 8/31 will also serve as an organizational meeting to seek volunteers to speak in the seminar. 
 
