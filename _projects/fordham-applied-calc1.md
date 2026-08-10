@@ -63,33 +63,33 @@ This class meets twice a week for lecture. Towards the bottom of this page, I ha
 | Date  |      | Section  |      | Topic                                                                   | 
 | :---: | :--: | :---:    | :--: | :---                                                                    | 
 | 8/28  |      | 1.1, 1.2 |      |  Functions and their representations, Combining and transforming functions  |  
-| 9/1   |      |          |      |  Labor Day   | 
-| 9/4   |      | 1.3, 1.4 |      |  Linear models and rates of change, Polynomial models and power functions   | 
-| 9/8   |      | 1.5, 1.6 |      |  Exponential models, Logarithmic functions                                 |   
-| 9/11  |      | 2.1, 2.2 |      |  Measuring change, Limits |
-| 9/15  |      | 2.3      |      |  Rates of change and derivatives            | 
-| 9/18  |      | 2.4      |      |  Derivative as a function          |  
-| 9/22  |      | 3.1, 3.2 |      |  Shortcuts to finding derivatives, Introduction to marginal analysis           |    
-| 9/25  |      | 3.3      |      |  Product and quotient rules                   | 
-| 9/29  |      | 3.4      |      |  Chain rule             |  
-| 10/2  |      | 3.5      |      |  Implicit differentiation and logarithms            | 
+| 9/1   |      | 1.3, 1.4 |      |  Linear models and rates of change, Polynomial models and power functions   | 
+| 9/4   |      | 1.5, 1.6 |      |  Exponential models, Logarithmic functions                                 |  
+| 9/8   |      | 2.1, 2.2 |      |  Measuring change, Limits | 
+| 9/11  |      | 2.3      |      |  Rates of change and derivatives            | 
+| 9/15  |      | 2.4      |      |  Derivative as a function          |  
+| 9/18  |      | 3.1, 3.2 |      |  Shortcuts to finding derivatives, Introduction to marginal analysis           |  
+| 9/22  |      | 3.3      |      |  Product and quotient rules                   |    
+| 9/25  |      | 3.4      |      |  Chain rule             |  
+| 9/29  |      | 3.5      |      |  Implicit differentiation and logarithms            | 
+| 10/2  |      | 3.6      |      |  Exponential growth and decay                               |   
 | 10/6  |      |          |      |  Exam Review                      | 
 | 10/9  |      |          |      |  **Midterm 1**                                        |  
 | 10/13 |      |          |      |  Classes follow a Monday schedule        |   
-| 10/16 |      | 3.6      |      |  Exponential growth and decay                               |   
-| 10/20 |      | 4.1      |      |  Related rates              |     
-| 10/23 |      | 4.2      |      |  Maximum and minimum values     | 
-| 10/27 |      | 4.3      |      |  Derivatives and shapes of curves           |     
-| 10/30 |      | 4.4      |      |  Asymptotes                | 
-| 11/3  |      | 4.5      |      |  Curve sketching                               |  
-| 11/6  |      | 4.6      |      |  Optimization            |
-| 11/10 |      | 5.1      |      |  Cost, area, and the definite integral                  |
-| 11/13 |      | 5.2      |      |  The fundamental theorem of calculus                        |
+| 10/16 |      | 4.1      |      |  Related rates              |  
+| 10/20 |      | 4.2      |      |  Maximum and minimum values     |   
+| 10/23 |      | 4.3      |      |  Derivatives and shapes of curves           | 
+| 10/27 |      | 4.4      |      |  Asymptotes                |  
+| 10/30 |      | 4.5      |      |  Curve sketching                               |  
+| 11/3  |      | 4.6      |      |  Optimization            | 
+| 11/6  |      | 5.1      |      |  Cost, area, and the definite integral                  |
+| 11/10 |      | 5.2      |      |  The fundamental theorem of calculus                        |
+| 11/13 |      | 5.3.     |      |  The net change theorem and average value                |
 | 11/17 |      |          |      |  Exam Review                               |
 | 11/20 |      |          |      |  **Midterm 2**                           |
-| 11/24 |      | 5.3, 5.4 |      |  The net change theorem and average value, Substitution rule                 |
+| 11/24 |      | 5.4      |      |  Substitution rule                 |
 | 11/27 |      |          |      |  Thanksgiving Recess                                         |
-| 12/1  |      | 5.4, 5.5 |      |  Substitution rule, Integration by parts                   |
+| 12/1  |      | 5.5      |      |  Integration by parts                   |
 | 12/4  |      | 6.1      |      |  Areas between curves                  |
 | 12/8  |      |          |      |  Final Review                           |
 
