@@ -24,7 +24,7 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 |  |       |  Section L01   |       |  Section L02  | 
 | :----     | :---: |  :----:       | :---: | :----:      |
 | **Recitation Instructor** | | Sylvie Bronsard | | Brandon Ward   |
-| Contact | | [TBD](mailto:sbronsard@fordham.edu) | | [TBD](mailto:bward22@fordham.edu)  |
+| Contact | | [sbronsard@fordham.edu](mailto:sbronsard@fordham.edu) | | [bward22@fordham.edu](mailto:bward22@fordham.edu)  |
 | Office | | TBD | | TBD  |
 | Office Hours | | TBD | | TBD  |
 |                | |                                 |       |                          |
