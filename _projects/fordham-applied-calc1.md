@@ -15,7 +15,7 @@ Note: This is a 3-credit course that meets for 150 minutes per week and does not
 
 **Textbook:** James Stewart and Daniel K. Clegg's "Brief Applied Calculus", 1st edition.
 
-**Class:** Tuesday’s and Friday’s at 1:00-2:15PM in TBD.
+**Class:** Tuesday’s and Friday’s at 1:00-2:15PM in LL508.
 
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
