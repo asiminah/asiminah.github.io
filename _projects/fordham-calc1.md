@@ -28,9 +28,9 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | Office | | TBD | | TBD  |
 | Office Hours | | TBD | | TBD  |
 |                | |                                 |       |                          |
-| **Lectures** | | MW at 11:30AM-12:45PM in TBD | | MW at 1:00PM-02:15PM in TBD  |
+| **Lectures** | | MW at 11:30AM-12:45PM in LL502 | | MW at 1:00PM-02:15PM in LL502  |
 |                | |                                 |       |                          |
-| **Recitations** | | M at 4:00-4:50PM in TBD | | W at 10:00-10:50AM in TBD  | 
+| **Recitations** | | M at 4:00-4:50PM in LL1004 | | W at 10:00-10:50AM in LL1013  | 
 |                | |                                 |       |                          |
 
 **Math Help Room:** Additional help (outside of the lecturer and recitation leader's office hours) can be found in the Math Help Room without making an appointment. The Math Help Room is staffed by math professors and undergraduate tutors during some time blocks between 9:00AM and 5:00PM from Monday's through Friday's. The Math Help Room is located in LL810 or LL812, depending on the time. The schedule for the Math Help Room can be found [here](https://docs.google.com/spreadsheets/d/1wsv5_7K1RqCxhUKb1pK7cAbDEN3-wKskBAVeQ6CLcCs/edit?gid=98745945#gid=98745945). 
