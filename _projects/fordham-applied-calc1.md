@@ -30,7 +30,7 @@ Note: This is a 3-credit course that meets for 150 minutes per week and does not
 
 This class meets twice a week for lecture. Towards the bottom of this page, I have posted the tentative class schedule for the semester. I have written out which sections and topics of the textbook I plan to cover each class. 
 
-**Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than three unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. 
+**Attendance:** In the beginning of every class attendance will be taken. It is important to attend all classes since each class in this course will build off of the previous one. More than four unexcused absences will result in a significant lowering of your grade. If you know in advance that you will not be able to attend class or that you will arrive late, then email the instructor in advance. Excused absence requests should only be submitted in cases where a student will miss a required in-class activity.
 
 **Homework:** For homework, we will use the online platform called MathMatize, which the math department provides for students at no cost. Each homework will be on the sections covered that week and is due on Monday's at 11:59PM. The homeworks will be light and are just meant to make sure you are understanding the material we are going over in class and to help you prepare for the quiz. All late homeworks will recieve a 0. 
 
