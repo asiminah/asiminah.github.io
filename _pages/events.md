@@ -18,6 +18,7 @@ nav_order: 3
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
+* [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 12 - 15, 2027
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
 * [Modular Curves, Geometry, and Arithmetic](https://www.birs.ca/events/2027/5-day-workshops/27w5718), April 4 - 9, 2027
 * [AMS Spring Central Sectional Meeting](https://www.ams.org/meetings/sectional/2334_progfull.html) (Co-organizer of a special session), April 17 - 18, 2027
@@ -33,7 +34,7 @@ nav_order: 3
 * Lafayette College Mathematical Adventures And Diversions Seminar (Speaker), April 30, 2026
 * [Bayou Arithmetic Research Days (BARD)](https://bardsmath.com/) (Plenary Speaker), April 17, 2026
 * [Arizona Winter School (AWS) 2026](https://swc-math.github.io/aws/2026/index.html) (Problem Session Leader), March 7 - 11, 2026
-* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
+* [Joint Mathematics Meetings 2026](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 4 - 7, 2026
 
 2025
 * Penn State University Algebra and Number Theory Seminar (Speaker), Dec. 2, 2025
@@ -53,7 +54,7 @@ nav_order: 3
 * [UConn Math Club](https://events.uconn.edu/event/747540-math-club-opportunities-at-the-nsa-by-asimina-hamakio) (Speaker), Feb. 5, 2025
 * [Louisiana State University Algebra and Number Theory Seminar](https://www.math.lsu.edu/calendar?selecttime=all&selectevent=Algebra+and+Number+Theory+Seminar) (Speaker), Jan. 21, 2025
 * [2025 Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-arithmetic-geometry-number-theory-and-computation-annual-meeting-2025/) (Speaker), Jan. 15 - 16, 2025
-* [Joint Mathematics Meetings](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
+* [Joint Mathematics Meetings 2025](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 8 - 11, 2025
 
 2024
 * [University of Minnesota Student Number Theory Seminar](https://sites.google.com/view/marcellamanivel/home/number-theory-seminar) (Speaker), Dec. 10, 2024
@@ -89,7 +90,7 @@ nav_order: 3
 * [UConn Math Club](https://events.uconn.edu/math-club/event/44080-math-clubsums-of-powers-by-lhospitals-ruleasimina) (Speaker), Feb. 22, 2023
 * [UConn SIGMA Seminar](https://events.uconn.edu/s.i.g.m.a.-seminar/event/43815-sigma-seminarcomputationally-hard-problems-and) (Speaker), Feb. 17, 2023
 * [Symposium on Arithmetic Geometry and its Applications (SAGA)](https://conferences.cirm-math.fr/2801.html), Jan. 30 - Feb. 3, 2023
-* [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
+* [Joint Mathematics Meetings 2023](https://www.jointmathematicsmeetings.org//jmm) (Speaker), Jan. 4 - 7, 2023
   
 2022
 * [Mathematics Continued Conference at UConn](https://mcc.math.uconn.edu/) (Organizer), Oct. 22, 2022
