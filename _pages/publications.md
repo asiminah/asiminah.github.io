@@ -19,7 +19,8 @@ nav_order: 5
 9. [Eta-quotients of prime or semiprime level and elliptic curves](https://arxiv.org/abs/1901.10511), with Michael Allen, Nicholas Anderson, Ben Oltsik, and Holly Swisher <br /> (Involve, Vol. 13, No. 5 (2020), 879-900)
 
 ### Preprints:
-* [On the density of coprime reductions of elliptic curves](https://arxiv.org/abs/2603.24915), with Sung Min Lee, Jacob Mayle, and Tian Wang
+* [On the density of coprime reductions of elliptic curves](https://arxiv.org/abs/2603.24915), with Sung Min Lee, Jacob Mayle, and Tian Wang (submitted)
+* Average twin prime conjecture for elliptic curves in arithmetic progressions, with Ahmet M. Güloğlu, Sung Min Lee, and Tian Wang
 
 <!--**Submitted:**-->
 
