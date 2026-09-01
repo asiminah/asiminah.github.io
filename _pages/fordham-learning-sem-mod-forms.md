@@ -69,7 +69,7 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 | 11/16 |      | Whittaker Models and Jacquet functors |      | David Luo        |
 | 11/23 |      | Unramified principal series representations |      | Sevan Bharathan  |
 | 11/30 |      | Local Langlands correspondence of $\text{GL}_2(F)$ for a $p$-adic $F$ |      | Raghuram    |
-
+| | | | | | 
 
 
 For any questions, contact [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu).
