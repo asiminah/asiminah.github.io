@@ -50,26 +50,27 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 <!--| 12/7  |      |         |      |                            |-->
 
 
-### Learning Seminar on 
+### Learning Seminar on Automorphic Representations
+
 * **Session - II** (S-II), Automorphic Representations, 4:00-5:15PM.
 
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
-| 8/31  |     | **S-II:** Basic Lie theory  |  | Raghuram | 
+| 8/31  |     | Universal enveloping algebra  |  | Raghuram | 
 | 9/7   |      | Labor Day        |      |   | 
-| 9/14  |      | **S-I:** Fuchsian groups and fundamental domains     |      |   Sevan Bharathan     | 
-| 9/21  |      |       |      |              |    
-| 9/28  |      |       |      |           |  
-| 10/5  |      |         |      |                      | 
+| 9/14  |      | Basic representation theory    |      | Ajmain     | 
+| 9/21  |      | Irreducible $(\mathfrak{g},K)$-module for $\text{GL}_2(\mathbb{R})$      |      |  Ajmain |    
+| 9/28  |      | Intertwining operations |      |  TBD |  
+| 10/5  |      | Discrete series representations of $\text{GL}_2(\mathbb{R})$ |      |  TBD  | 
 | 10/12 |      | Columbus Day        |      |         |   
-| 10/19 |      |       |      |     | 
-| 10/26 |      |     |      |                  | 
-| 11/2  |      |     |      |             |
-| 11/9  |      |       |      |                         |
-| 11/16 |      |         |      |                                |
-| 11/23 |      |       |      |                  |
-| 11/30 |      |     |      |                        |
-| 12/7  |      |         |      |                            |
+| 10/19 |      | Local Langlands correspondence of $\text{GL}_2(\mathbb{R})$ |      | Raghuram | 
+| 10/26 |      | Representations of $\text{GL}_2(\mathbb{F}_q)$ |      | TBD | 
+| 11/2  |      | Smooth and Admissible representations |      | TBD  |
+| 11/9  |      | Distribution and Sheaves |      | Sevan Bharathan   |
+| 11/16 |      | Whittaker Models and Jacquet functors |      | David Luo        |
+| 11/23 |      | Unramified principal series representations |      | Sevan Bharathan  |
+| 11/30 |      | Local Langlands correspondence of $\text{GL}_2(F)$ for a $p$-adic $F$ |      | Raghuram    |
+<!--| 12/7  |      |         |      |                            |-->
 
 
 For any questions, contact [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu).
