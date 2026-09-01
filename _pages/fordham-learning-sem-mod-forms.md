@@ -24,19 +24,40 @@ The second session will be on Automorphic Representations for GL(2) based on the
 
 ## Schedule
 
-* **Session - I** (S-I), Modular Forms, 2:30-3:45PM. 
-* **Session - II** (S-II), Automorphic Representations, 4:00-5:15PM.
+The first meetings on 8/31 will also serve as an organizational meeting to seek volunteers to speak in the seminar. 
 
-The first meeting on 8/31 will also serve as an organizational meeting to seek volunteers to speak in the seminar. 
+
+# Learning Seminar on Modular Forms
+
+* **Session - I** (S-I), Modular Forms, 2:30-3:45PM. 
 
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
-| 8/31  |      | **S-I:** Upper half plane |      |  Raghuram   | 
-|       |      | (H = SL(2,R)/SO(2); elliptic, parabolic, hyperbolic elements; invariant metric and measure on H.)  |      |     | 
-|       |      | **S-II:** Basic Lie theory  |  | Raghuram | 
-|       |      | (GL(n,R), n = 2, universal enveloping algebra, Casimir element, Cartan decomposition, spherical Hecke algebra.) |  | | 
+| 8/31  |      | Invariant metric and measure on $\mathbb{H}$ |      |  Raghuram   | 
 | 9/7   |      | Labor Day        |      |   | 
-| 9/14  |      |      |      |                       | 
+| 9/14  |      | Fuchsian groups and fundamental domains     |      |   Sevan Bharathan     | 
+| 9/21  |      | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface |      |  Sevan Bharathan  |    
+| 9/28  |      | Automorphic forms |      | TBD   |  
+| 10/5  |      | Automorphic forms and differentials |      |   TBD     | 
+| 10/12 |      | Columbus Day        |      |         |   
+| 10/19 |      | Dimensions of $G_k(\Gamma)$ and $S_k(\Gamma)$ |      |  Cris Poor  | 
+| 10/26 |      | Poincaré series and Eisenstein series |      | Jayadev Athreya   | 
+| 11/2  |      | Hecke algebras and Hecke operations |      | TBD  |
+| 11/9  |      | $\operatorname{SL}_2(\mathbb{Z})$  |      |  Asimina Hamakiotes   |
+| 11/16 |      | Congruence subgroups $\Gamma_(N)$, $\Gamma_1(N)$, $\Gamma(N)$ |      |  Asimina Hamakiotes       |
+| 11/23 |      | Modular forms and Dirichlet series |      |  Raghuram    |
+| 11/30 |      | Hecke $L$-functions for modular forms  |      |  Raghuram         |
+<!--| 12/7  |      |         |      |                            |-->
+
+
+# Learning Seminar on 
+* **Session - II** (S-II), Automorphic Representations, 4:00-5:15PM.
+
+| Date  |      | Reading |      | Speaker                                                                 | 
+| :---: | :--: | :---   | :--: | :---                                                                    | 
+| 8/31  |     | **S-II:** Basic Lie theory  |  | Raghuram | 
+| 9/7   |      | Labor Day        |      |   | 
+| 9/14  |      | **S-I:** Fuchsian groups and fundamental domains     |      |   Sevan Bharathan     | 
 | 9/21  |      |       |      |              |    
 | 9/28  |      |       |      |           |  
 | 10/5  |      |         |      |                      | 
