@@ -33,7 +33,7 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
-| 8/31  |      | Invariant metric and measure on $\mathbb{H}$ |      |  Raghuram   | 
+| 8/31  |      | Invariant metric and measure on $\mathbb{H}$ (<a href="/assets/pdf/FordhamLearningSeminar/UpperHalfPlane.pdf" target="_blank">notes</a>) |      | Raghuram | 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      | Fuchsian groups and fundamental domains     |      |   Sevan Bharathan     | 
 | 9/21  |      | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface |      |  Sevan Bharathan  |    
@@ -55,7 +55,7 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 
 | Date  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
-| 8/31  |     | Universal enveloping algebra  |  | Raghuram | 
+| 8/31  |      | Universal enveloping algebra (<a href="/assets/pdf/FordhamLearningSeminar/BasicLieTheory.pdf" target="_blank">notes</a>)  |  | Raghuram | 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      | Basic representation theory    |      | Ajmain     | 
 | 9/21  |      | Irreducible $(\mathfrak{g},K)$-module for $\text{GL}_2(\mathbb{R})$      |      |  Ajmain |    
