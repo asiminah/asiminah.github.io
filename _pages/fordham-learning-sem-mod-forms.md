@@ -43,7 +43,7 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 | 10/19 |      | Dimensions of $G_k(\Gamma)$ and $S_k(\Gamma)$ |      |  Cris Poor  | 
 | 10/26 |      | Poincaré series and Eisenstein series |      | Jayadev Athreya   | 
 | 11/2  |      | Hecke algebras and Hecke operations |      | TBD  |
-| 11/9  |      | $\operatorname{SL}_2(\mathbb{Z})$  |      |  Asimina Hamakiotes   |
+| 11/9  |      | SL$_2(\mathbb{Z})$  |      |  Asimina Hamakiotes   |
 | 11/16 |      | Congruence subgroups $\Gamma_0(N)$, $\Gamma_1(N)$, $\Gamma(N)$ |      |  Asimina Hamakiotes       |
 | 11/23 |      | Modular forms and Dirichlet series |      |  Raghuram    |
 | 11/30 |      | Hecke $L$-functions for modular forms  |      |  Raghuram         |
