@@ -20,7 +20,7 @@ nav_order: 5
 
 ### Preprints:
 * [On the density of coprime reductions of elliptic curves](https://arxiv.org/abs/2603.24915), with Sung Min Lee, Jacob Mayle, and Tian Wang (submitted)
-* Average twin prime conjecture for elliptic curves in arithmetic progressions, with Ahmet M. Güloğlu, Sung Min Lee, and Tian Wang
+* [Average twin prime conjecture for elliptic curves in arithmetic progressions](https://arxiv.org/abs/2608.29938), with Ahmet M. Güloğlu, Sung Min Lee, and Tian Wang
 
 <!--**Submitted:**-->
 
