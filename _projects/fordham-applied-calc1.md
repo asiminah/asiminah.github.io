@@ -20,7 +20,7 @@ Note: This is a 3-credit course that meets for 150 minutes per week and does not
 **Lecture Instructor:** Dr. Asimina Hamakiotes
 * Contact: [ahamakiotes@fordham.edu](mailto:ahamakiotes@fordham.edu)
 * Office: LL817F
-* Office Hours: Wednesday's at 2:20-3:20PM and Friday's at 11:50AM-12:50PM in LL817F
+* Office Hours: Friday's at 10:55AM-12:55PM in LL817F
 
 
 **Math Help Room:** Additional help (outside of the lecturer and recitation leader's office hours) can be found in the Math Help Room without making an appointment. The Math Help Room is staffed by math professors and undergraduate tutors during some time blocks between 9:00AM and 5:00PM from Monday's through Friday's. The Math Help Room is located in LL810 or LL812, depending on the time. The schedule for the Math Help Room can be found [here](https://docs.google.com/spreadsheets/d/1wsv5_7K1RqCxhUKb1pK7cAbDEN3-wKskBAVeQ6CLcCs/edit?gid=98745945#gid=98745945). 
