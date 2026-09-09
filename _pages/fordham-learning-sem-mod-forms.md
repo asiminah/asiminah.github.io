@@ -17,9 +17,9 @@ nav_order:
 * **Session - II** (S-II), Automorphic Representations, 4:00-5:15PM. This session will be on Automorphic Representations for GL(2) based on the references: Bump's Automorphic Forms and Representations, and the first five chapters of Gelbart's Automorphic forms on Adele Groups. Depending on how the seminar progresses, we may graduate to automorphic forms on GL(n) or a reductive group over a number field based on Goldfeld and Hundley's book and Getz and Hahn's book. 
 
 
-**Venue:** Fordham University at Lincoln Center, Room: TBA.
+**Venue:** Fordham University at Lincoln Center, Room: LL902
 
-**Day/time:** Monday's at 2:30-5:15PM, starting from August 31, 2026. 
+**Day/time:** Monday's at 2:30-5:15PM, starting from August 31, 2026
 
 
 ## Schedule
