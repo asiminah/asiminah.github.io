@@ -16,6 +16,7 @@ nav_order: 3
 
 ### Upcoming:
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
+* Rutgers University Number Theory Seminar (Speaker), Nov. 17, 2026
 * [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 12 - 15, 2027
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
 * [Modular Curves, Geometry, and Arithmetic](https://www.birs.ca/events/2027/5-day-workshops/27w5718), April 4 - 9, 2027
