@@ -15,7 +15,6 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
 * [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 12 - 15, 2027
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
@@ -25,6 +24,7 @@ nav_order: 3
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
 * Cornell University Number Theory Seminar (Speaker), Sept. 4, 2026
 * [CAVARET 2: "Curves, Abelian VArieties and RElated Topics"](https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html), July 13 - 17, 2026
 * [Seventeenth Algorithmic Number Theory Symposium (ANTS XVII)](https://www.antsxvii.org/index.html) (Speaker), July 6 - 10, 2026
