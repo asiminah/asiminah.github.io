@@ -25,8 +25,8 @@ Note: Four-credit courses that meet for 150 minutes per week require three addit
 | :----     | :---: |  :----:       | :---: | :----:      |
 | **Recitation Instructor** | | Sylvie Bronsard | | Brandon Ward   |
 | Contact | | [sbronsard@fordham.edu](mailto:sbronsard@fordham.edu) | | [bward22@fordham.edu](mailto:bward22@fordham.edu)  |
-| Office | | TBD | | TBD  |
-| Office Hours | | TBD | | TBD  |
+| Office | | N/A | | N/A  |
+| Office Hours | | N/A | | N/A  |
 |                | |                                 |       |                          |
 | **Lectures** | | MW at 11:30AM-12:45PM in LL502 | | MW at 1:00PM-02:15PM in LL502  |
 |                | |                                 |       |                          |
@@ -52,8 +52,8 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 
 |                 |      |               |
 | :----           | :--: |  :----:       | 
-| **Section L01** | | TBD | 
-| **Section L02** | | TBD | 
+| **Section L01** | | Monday, December 14, 2026 at 9:30AM-11:30AM in Room TBD | 
+| **Section L02** | | Wednesday, December 16, 2026 at 1:30PM-3:30PM in Room TBD | 
 
 <!--
 | **Section L01** | | Monday, December 15, 2025 at 9:30AM-11:30AM in LL510 |
