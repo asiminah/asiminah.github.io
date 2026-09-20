@@ -38,7 +38,7 @@ This class meets twice a week for lecture. Towards the bottom of this page, I ha
 
 **Midterms:** There will be two midterms. Midterm 1 is on Fri. 10/9 and Midterm 2 is on Fri. 11/20. We will have review sessions in class on Tuesday the week of the exam. There will be no make-up exams unless there are extenuating circumstances.
 
-**Final exam:** The final exam will be cummulative and during finals week. The final exam schedule is in the table below. No make-ups will be given unless for a reason approved by the Dean of Students.
+**Final exam:** The final exam will be cumulative and during finals week. The final exam for this class is on **Friday, December 11, 2026 at 1:30PM-3:30PM in Room TBD**. No make-ups will be given unless for a reason approved by the Dean of Students.
 
 
 **Grading:** The course grade will be composed of homework, quizzes, two midterms, and a final exam. The breakdown will be as follows: 
