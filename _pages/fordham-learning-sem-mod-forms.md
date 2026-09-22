@@ -59,12 +59,12 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      | Basic representation theory (<a href="/assets/pdf/FordhamLearningSeminar/YaminSept14Notes.pdf" target="_blank">notes</a>)   |      | Ajmain  Yamin  | 
 | 9/21  |      | Irreducible $(\mathfrak{g},K)$-module for $\text{GL}_2(\mathbb{R})$      |      |  Ajmain Yamin |    
-| 9/28  |      | Intertwining operations |      |  TBD |  
+| 9/28  |      | Intertwining operations |      |  Ethan Bottomley-Mason |  
 | 10/5  |      | Discrete series representations of $\text{GL}_2(\mathbb{R})$ |      |  TBD  | 
 | 10/12 |      | Columbus Day        |      |         |   
 | 10/19 |      | Local Langlands correspondence of $\text{GL}_2(\mathbb{R})$ |      | Raghuram | 
 | 10/26 |      | Representations of $\text{GL}_2(\mathbb{F}_q)$ |      | TBD | 
-| 11/2  |      | Smooth and Admissible representations |      | TBD  |
+| 11/2  |      | Smooth and Admissible representations |      | David Luo  |
 | 11/9  |      | Distribution and Sheaves |      | Sevan Bharathan   |
 | 11/16 |      | Whittaker Models and Jacquet functors |      | David Luo        |
 | 11/23 |      | Unramified principal series representations |      | Sevan Bharathan  |
