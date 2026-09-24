@@ -58,7 +58,7 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 | 8/31  |      | Universal enveloping algebra (<a href="/assets/pdf/FordhamLearningSeminar/BasicLieTheory.pdf" target="_blank">notes</a>)  |  | Raghuram | 
 | 9/7   |      | Labor Day        |      |   | 
 | 9/14  |      | Basic representation theory (<a href="/assets/pdf/FordhamLearningSeminar/YaminSept14Notes.pdf" target="_blank">notes</a>)   |      | Ajmain  Yamin  | 
-| 9/21  |      | Irreducible $(\mathfrak{g},K)$-module for $\text{GL}_2(\mathbb{R})$      |      |  Ajmain Yamin |    
+| 9/21  |      | Irreducible $(\mathfrak{g},K)$-module for $\text{GL}_2(\mathbb{R})$  (<a href="/assets/pdf/FordhamLearningSeminar/YaminSept21Notes.pdf" target="_blank">notes</a>) |      |  Ajmain Yamin |    
 | 9/28  |      | Intertwining operations |      |  Ethan Bottomley-Mason |  
 | 10/5  |      | Discrete series representations of $\text{GL}_2(\mathbb{R})$ |      |  TBD  | 
 | 10/12 |      | Columbus Day        |      |         |   
