@@ -35,9 +35,9 @@ The first meetings on 8/31 will also serve as an organizational meeting to seek 
 | :---: | :--: | :---   | :--: | :---                                                                    | 
 | 8/31  |      | Invariant metric and measure on $\mathbb{H}$ (<a href="/assets/pdf/FordhamLearningSeminar/UpperHalfPlane.pdf" target="_blank">notes</a>) |      | Raghuram | 
 | 9/7   |      | Labor Day        |      |   |  
-| 9/14  |      | Fuchsian groups and fundamental domains (<a href="/assets/pdf/FordhamLearningSeminar/Miyake_LectureNotes_09-14-2026.pdf" target="_blank">notes</a>)  |      |   Sevan Bharathan     | 
-| 9/21  |      | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface |      |  Sevan Bharathan  |    
-| 9/28  |      | Automorphic forms |      | Ajmain Yamin  |  
+| 9/14  |      | Fuchsian groups (<a href="/assets/pdf/FordhamLearningSeminar/Miyake_LectureNotes_09-14-2026.pdf" target="_blank">notes</a>)  |      |   Sevan Bharathan     | 
+| 9/21  |      | Fundamental domains |      |  Sevan Bharathan  |    
+| 9/28  |      | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface |      | Ajmain Yamin  |  
 | 10/5  |      | Automorphic forms and differentials |      |   TBD     | 
 | 10/12 |      | Columbus Day        |      |         |   
 | 10/19 |      | Dimensions of $G_k(\Gamma)$ and $S_k(\Gamma)$ |      |  Cris Poor  | 
