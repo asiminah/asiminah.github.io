@@ -112,6 +112,11 @@ ninja.data = [{
           description: "This is the Fall 2025 class webpage for Section L01 of MATH 2008 Vector Calculus (Calculus III) at Fordham.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fordham-calc3/";
+            },},{id: "projects-math-3008-number-theory",
+          title: 'MATH 3008 Number Theory',
+          description: "This is the Spring 2027 class webpage for MATH 3008 Number Theory at Fordham.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fordham-number-theory/";
             },},{id: "projects-math-2011-programming-for-math-and-science",
           title: 'MATH 2011 Programming for Math and Science',
           description: "This is the Spring 2026 class webpage for Section L01 of MATH 2011 Programming for Math and Science at Fordham.",
