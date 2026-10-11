@@ -11,6 +11,9 @@ nav_order: 7
 ### Courses Taught:
 
 **Fordham University**
+* Spring 2027:
+  - MATH 3008 Number Theory
+  - MATH 1100 Finite Mathematics
 * Fall 2026:
   - [MATH 1203 Applied Calculus I](https://asiminah.github.io/projects/fordham-applied-calc1/)
   - [MATH 1206 Calculus I](https://asiminah.github.io/projects/fordham-calc1/)
