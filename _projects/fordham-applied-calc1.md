@@ -3,7 +3,7 @@ layout: page
 title: MATH 1203 Applied Calculus I
 description: This is the Fall 2026 class webpage for Sections L01 of MATH 1203 Applied Calculus I at Fordham. 
 img: 
-importance: 1
+importance: 2
 category: Fordham
 ---
 
