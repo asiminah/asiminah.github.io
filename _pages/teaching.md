@@ -12,8 +12,8 @@ nav_order: 7
 
 **Fordham University**
 * Spring 2027:
-  - MATH 3008 Number Theory
-  - MATH 1100 Finite Mathematics
+  - [MATH 3008 Number Theory](https://asiminah.github.io/projects/fordham-number-theory/)
+  - [MATH 1100 Finite Mathematics](https://asiminah.github.io/projects/fordham-finite-math/)
 * Fall 2026:
   - [MATH 1203 Applied Calculus I](https://asiminah.github.io/projects/fordham-applied-calc1/)
   - [MATH 1206 Calculus I](https://asiminah.github.io/projects/fordham-calc1/)
