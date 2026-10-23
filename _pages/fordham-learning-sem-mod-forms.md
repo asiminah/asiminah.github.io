@@ -48,9 +48,9 @@ The learning seminar has transformed into two weekend workshops: (1) the weekend
 **Day/time:** Monday's at 2:30-5:15PM, starting from August 31, 2026
 
 
-## Schedule
+<!-- ## Schedule -->
 
-The first meetings on 8/31 will also serve as an organizational meeting to seek volunteers to speak in the seminar. 
+<!-- The first meetings on 8/31 will also serve as an organizational meeting to seek volunteers to speak in the seminar. -->
 
 
 ### Learning Seminar on Modular Forms
