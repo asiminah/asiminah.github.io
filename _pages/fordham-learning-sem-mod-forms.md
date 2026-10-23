@@ -10,7 +10,9 @@ nav_order:
 
 <!-- ## Welcome to ... -->
 
-**Update:** The learning seminar has transformed into two weekend workshops: (1) the weekend of 10/31-11/01 on representation theory and (2) the weekend of 11/14-/11/15 on modular forms. 
+## Updated schedule
+
+The learning seminar has transformed into two weekend workshops: (1) the weekend of 10/31-11/01 on representation theory and (2) the weekend of 11/14-/11/15 on modular forms. 
 
 | Date  |      | Time  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---: | :--: | :---    | :--: | :---                                                                    | 
@@ -32,7 +34,7 @@ nav_order:
 | 11/15 |      | 3:45-5:00PM |      | Hecke $L$-functions for modular forms |      | TBD | 
 
 
-
+## Old schedule
 
 **Description:** This will be an intense learning seminar on the arithmetic theory of automorphic forms and their $$L$$-functions from both the classical and the representation theoretic perspectives. The seminar will be in-person at the Lincoln Center campus, having two sessions with a small break in between with each session lasting for an hour and 15 minutes. 
 
