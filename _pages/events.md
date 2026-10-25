@@ -15,6 +15,7 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
+* [REU Panel](https://news.hofstra.edu/event/reu-panel/) at Hofstra University (Panelist), Nov. 9, 2026
 * Rutgers University Number Theory Seminar (Speaker), Nov. 17, 2026
 * [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 12 - 15, 2027
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
