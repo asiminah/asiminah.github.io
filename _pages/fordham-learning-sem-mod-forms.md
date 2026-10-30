@@ -14,22 +14,31 @@ nav_order:
 
 The learning seminar has transformed into two weekend workshops: (1) the weekend of 10/31-11/01 on representation theory and (2) the weekend of 11/14-/11/15 on modular forms. 
 
+**Venue:** Fordham University at Lincoln Center, Room: LL914
+
+# Weekend 1: 10/31-11/01
+
 | Date  |      | Time  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---: | :--: | :---    | :--: | :---                                                                    | 
-| 10/31 |      | 9:00-10:15AM |      | Irreducible representations of $\text{GL}_2(\mathbb{R})$   |      |  Ajmain Yamin |    
-| 10/31 |      | 10:45AM-12:00PM |      | Intertwining operations and unitary representations |      |  Ethan Bottomley-Mason |  
+| 10/31 |      | 9:30-10:45AM |      | Irreducible representations of $\text{GL}_2(\mathbb{R})$   |      |  Ajmain Yamin |    
+| 10/31 |      | 11:15AM-12:30PM |      | Intertwining operations and unitary representations |      |  Ethan Bottomley-Mason |  
 | 10/31 |      | 2:00-3:15PM |      | Local Langlands correspondence for $\text{GL}_2(\mathbb{R})$ |      | Raghuram | 
 | 10/31 |      | 3:45-5:00PM |      | Representations of $\text{GL}_2(\mathbb{F}_q)$ |      | Sevan Bharathan | 
-| 11/01 |      | 9:00-10:15AM |      | Representations of $p$-adic groups - generalities   |      |  Ajmain Yamin |    
-| 11/01 |      | 10:45AM-12:00PM |      | Principal series representations of $p$-adic $\text{GL}_2(\mathbb{F})$ |      |  Sevan Bharathan |  
+| 11/01 |      | 9:30-10:45AM |      | Representations of $p$-adic groups - generalities   |      |  Ajmain Yamin |    
+| 11/01 |      | 11:15AM-12:30PM |      | Principal series representations of $p$-adic $\text{GL}_2(\mathbb{F})$ |      |  Sevan Bharathan |  
 | 11/01 |      | 2:00-3:15PM |      | Whittaker models and Jacquet modules |      | Erin Pierce | 
 | 11/01 |      | 3:45-5:00PM |      | Local Langlands correspondence for $p$-adic $\text{GL}_2(\mathbb{F})$ |      | Raghuram | 
-| 11/14 |      | 9:00-10:15AM |     | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface  |      |  TBD |    
-| 11/14 |      | 10:45AM-12:00PM |      | Automorphic forms and differentials |      |  TBD |  
+
+# Weekend 2: 11/14-/11/15
+
+| Date  |      | Time  |      | Reading |      | Speaker                                                                 | 
+| :---: | :--: | :---: | :--: | :---    | :--: | :---                                                                    | 
+| 11/14 |      | 9:30-10:45AM |     | $\Gamma\backslash\mathbb{H}^*$ as a Riemann surface  |      |  TBD |    
+| 11/14 |      | 11:15AM-12:30PM |      | Automorphic forms and differentials |      |  TBD |  
 | 11/14 |      | 2:00-3:15PM |      | Dimensions of $G_k(\Gamma)$ and $S_k(\Gamma)$  |      | TBD | 
 | 11/14 |      | 3:45-5:00PM |      | Poincaré series and Eisenstein series |      | TBD | 
-| 11/15 |      | 9:00-10:15AM |      | Hecke algebras  |      |  TBD |    
-| 11/15 |      | 10:45AM-12:00PM |      | $\text{SL}_2(\mathbb{Z})$, $\Gamma_0(N)$, $\Gamma_1(N)$, $\Gamma(N)$ |      |  TBD |  
+| 11/15 |      | 9:30-10:45AM |      | Hecke algebras  |      |  TBD |    
+| 11/15 |      | 11:15AM-12:30PM |      | $\text{SL}_2(\mathbb{Z})$, $\Gamma_0(N)$, $\Gamma_1(N)$, $\Gamma(N)$ |      |  TBD |  
 | 11/15 |      | 2:00-3:15PM |      | Modular forms and Dirichlet series  |      | TBD | 
 | 11/15 |      | 3:45-5:00PM |      | Hecke $L$-functions for modular forms |      | TBD | 
 
