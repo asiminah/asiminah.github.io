@@ -16,7 +16,7 @@ The learning seminar has transformed into two weekend workshops: (1) the weekend
 
 **Venue:** Fordham University at Lincoln Center, Room: LL914
 
-### Weekend 1: 10/31-11/01
+#### Weekend 1: 10/31-11/01
 
 | Date  |      | Time  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---: | :--: | :---    | :--: | :---                                                                    | 
@@ -29,7 +29,7 @@ The learning seminar has transformed into two weekend workshops: (1) the weekend
 | 11/01 |      | 2:00-3:15PM |      | Whittaker models and Jacquet modules |      | Erin Pierce | 
 | 11/01 |      | 3:45-5:00PM |      | Local Langlands correspondence for $p$-adic $\text{GL}_2(\mathbb{F})$ |      | Raghuram | 
 
-### Weekend 2: 11/14-/11/15
+#### Weekend 2: 11/14-/11/15
 
 | Date  |      | Time  |      | Reading |      | Speaker                                                                 | 
 | :---: | :--: | :---: | :--: | :---    | :--: | :---                                                                    | 
