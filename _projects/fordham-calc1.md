@@ -107,10 +107,10 @@ This class meets twice a week for lecture and once a week for recitation. Toward
 | 10/21 |      | 3.7     |      |  Optimization problems            |     
 | 10/26 |      | 3.9, 4.1 |      |  Antiderivative, area                | 
 | 10/28 |      | 4.2     |      |  Definite integral                                |  
-| 11/2  |      | 4.3, 4.4  |      |  Fundamental theorem of calculus, net change theorem            |
-| 11/4  |      | 4.4, 4.5 |      |  Indefinite integral, substitution rule                  |
-| 11/9  |      | 5.1     |      |  Area between curves                         |
-| 11/11 |      | 6.1     |      |  Inverse functions and their derivatives                 |
+| 11/2  |      | 4.3     |      |  Fundamental theorem of calculus            |
+| 11/4  |      | 4.4     |      |  Indefinite integral and net change theorem           |
+| 11/9  |      | 4.5     |      |  Substitution rule                         |
+| 11/11 |      | 5.1     |      |  Area between curves                 |
 | 11/16 |      |         |      |  Exam Review                               |
 | 11/18 |      |         |      |  **Midterm 2**                           |
 | 11/23 |      | 6.1     |      |  Inverse functions and their derivatives                 |
