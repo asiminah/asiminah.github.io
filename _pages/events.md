@@ -15,8 +15,7 @@ nav_order: 3
 <!-- (<a href="/assets/pdf/ThesisDefense.pdf" target="_blank">talk</a>) -->
 
 ### Upcoming:
-* Rutgers University Number Theory Seminar (Speaker), Nov. 17, 2026
-* Women in Math and Computing Day at York College (Featured Speaker), Nov. 20, 2026
+* [Women in Math and Computing Day at York College](https://www.york.cuny.edu/mathematics-computer-science/women-in-math-computing-day) (Featured Speaker), Nov. 20, 2026
 * [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm) (Speaker), Jan. 12 - 15, 2027
 * [Bridging Lean and the LMFDB 2](https://math.mit.edu/~roed/conferences/lean-lmfdb2/) at MIT, Jan. 25 - 29, 2027
 * [Modular Curves, Geometry, and Arithmetic](https://www.birs.ca/events/2027/5-day-workshops/27w5718), April 4 - 9, 2027
@@ -25,6 +24,7 @@ nav_order: 3
 <!-- * [Inaugural Graduate Research Forum at UConn](https://math.uconn.edu/mathematical-sciences-research-collaboratory/graduate-research-forum-2025/) (Speaker), Jan. 25, 2025 -->
 
 ### Past:
+* [Rutgers University Number Theory Seminar](https://math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23620/-/on-the-density-of-coprime-reductions-of-elliptic-curves) (Speaker), Nov. 17, 2026
 * REU Panel at Hofstra University (Panelist), Nov. 9, 2026
 * [AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2339_program.html) (Speaker), Oct. 10 - 11, 2026
 * Union College Mathematics Student Seminar (Speaker), Sept. 17, 2026
